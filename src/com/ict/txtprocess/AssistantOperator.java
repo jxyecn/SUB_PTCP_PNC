@@ -1,7 +1,9 @@
 package com.ict.txtprocess;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Map.Entry;
 
@@ -19,7 +21,9 @@ public class AssistantOperator {
 	//存整理过的原始读音素材
 	ArrayList<AssistantLine> assistantLines;
 	//原词对应读音的数组
-	HashMap<String,ArrayList<String[]>> wordProunHashmap;
+	HashMap<String,HashSet<String[]>> wordProunHashmap;
+	//为避免同音同字多次加入，另申请一块HashSet用来判等。加入wordProunHashmap前先合并字符串，然后在uniqueProunHashmap里判
+	HashMap<String,HashSet<String>> uniqueProunHashmap;
 	
 	AssistantWordUtils wordOperator;
 	
@@ -39,11 +43,18 @@ public class AssistantOperator {
 	
 	private void handleOutputRequest() {
 		// TODO 按行输出 原词,读音1 读音2 读音3，读音分离1|读音分离2|读音分离3
-		Iterator<Entry<String, ArrayList<String[]>>> iter = wordProunHashmap.entrySet().iterator();
+		Iterator<Entry<String, HashSet<String[]>>> iter = wordProunHashmap.entrySet().iterator();
 		while(iter.hasNext()){
-			Entry<String, ArrayList<String[]>> entry = (Entry<String, ArrayList<String[]>>) iter.next();
+			Entry<String, HashSet<String[]>> entry = (Entry<String, HashSet<String[]>>) iter.next();
 			String originString = entry.getKey();
-			ArrayList<String[]> prouns= entry.getValue();
+			HashSet<String[]> prouns= entry.getValue();
+
+			if(originString.equals("紫仙露")){
+				System.out.println("size of Set:" + prouns.size());
+				System.out.println("紫仙露");
+			}
+			
+			ArrayList<String[]> prounsArray = new ArrayList<>(prouns);
 			StringBuilder seg2,seg3;
 			String tempResult = originString + ',';
 			seg2 = new StringBuilder();
@@ -51,22 +62,17 @@ public class AssistantOperator {
 			//提前加上第一个，保证没有冗余'|'项
 			StringBuilder sb1 = new StringBuilder();
 			StringBuilder sb2;
-			if(prouns.size() == 0)
-				System.out.println("yoooooo");
-			for(String s:prouns.get(0)){
-				sb1.append(s);
-			}
+			sb1.append(getSingleWordProun(prounsArray.get(0)));
 			//sb2指的是第三段里，需要把String[]拆成分字拼音
-			sb2 = getSingleWordProun(prouns.get(0));
+			sb2 = getSingleWordProun(prounsArray.get(0),originString);
 			
 			seg2.append(sb1);
 			seg3.append(sb2);
 			
-			for(int i=1;i<prouns.size();i++){
+			for(int i=1;i<prounsArray.size();i++){
 				sb1 = new StringBuilder();
-				sb2 = getSingleWordProun(prouns.get(i));
-				for(String c:prouns.get(i))
-					sb1.append(c);
+				sb2 = getSingleWordProun(prounsArray.get(i),originString);
+				sb1.append(getSingleWordProun(prounsArray.get(i)));
 				seg2.append('|');
 				seg2.append(sb1);
 				seg3.append('|');
@@ -85,12 +91,22 @@ public class AssistantOperator {
 		
 	}
 
-	private StringBuilder getSingleWordProun(String[] strings) {
+	private StringBuilder getSingleWordProun(String[] strings){
 		// TODO 根据拼音构成的String[]返回一个StringBuilder
 		StringBuilder result = new StringBuilder();
 		result.append(strings[0]);
 		for(int i=1;i<strings.length;i++)
 			result.append(' ').append(strings[i]);
+		return result;
+	}
+	
+	private StringBuilder getSingleWordProun(String[] strings,String originalString) {
+		// TODO 根据拼音构成的String[]返回一个StringBuilder
+		StringBuilder result = new StringBuilder();
+		result.append(originalString.charAt(0)).append('~');
+		result.append(strings[0]);
+		for(int i=1;i<strings.length;i++)
+			result.append(' ').append(originalString.charAt(i)).append('~').append(strings[i]);
 		return result;
 	}
 
@@ -107,25 +123,32 @@ public class AssistantOperator {
 				ArrayList<String> iddwWords = word.getWords();
 				
 				for(String iddwWord:iddwWords){
-					if(iddwWord.equals("雅丽轩"))
-						System.out.println("雅丽轩");
 					
 					//当前词 iddwWord是首次出现，需构造容器
 					if(!wordProunHashmap.containsKey(iddwWord)){
-						ArrayList<String[]> temp = new ArrayList<>();
+						HashSet<String[]> temp = new HashSet();
 						String[] tempStringArray = new String[iddwProuns.size()];
 						for(int i=0;i<iddwProuns.size();i++)
 							tempStringArray[i] = iddwProuns.get(i);
 //						temp.add((String[])iddwProuns.toArray());
 						temp.add(tempStringArray);
 						wordProunHashmap.put(iddwWord, temp);
+						
+						HashSet<String> tempHashSet = new HashSet();
+						tempHashSet.add(Arrays.toString(tempStringArray));
+						
+						uniqueProunHashmap.put(iddwWord,tempHashSet);
 					}else{
 						//当前词在之前已经出现过，需在容器里为读音项增加一条数据
 						String[] tempStringArray = new String[iddwProuns.size()];
 						for(int i=0;i<iddwProuns.size();i++)
 							tempStringArray[i] = iddwProuns.get(i);
 						try{
-							wordProunHashmap.get(iddwWord).add(tempStringArray);
+							//说明此读音尚不存在
+							if(!uniqueProunHashmap.get(iddwWord).contains(Arrays.toString(tempStringArray))){
+								wordProunHashmap.get(iddwWord).add(tempStringArray);
+								uniqueProunHashmap.get(iddwWord).add(Arrays.toString(tempStringArray));
+							}
 						}catch(Exception e){
 							System.out.println("ERROR on:" + iddwWord);
 							e.printStackTrace();
@@ -156,6 +179,7 @@ public class AssistantOperator {
 		targetOutputArray = new ArrayList<>();
 		assistantLines = new ArrayList<>();
 		wordProunHashmap = new HashMap<>();
+		uniqueProunHashmap = new HashMap<>();
 		wordOperator = new AssistantWordUtils();
 		pncProcess();
 	}
