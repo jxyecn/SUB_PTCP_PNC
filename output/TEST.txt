@@ -5,6 +5,7 @@
 蒙山路  m eng2 sh an1 l u4
 保管业务  b ao2 g uan3 ii ie4 uu u4
 里士满  l i3 sh ix4 m an3
+华榕 null
 福喜利  f u2 x i3 l i4
 全家人  q van2 j ia1 r en2
 交易安排  j iao1 ii i4 aa an1 p ai2
@@ -15,7 +16,7 @@
 明细账  m ing2 x i4 zh ang4
 首月  sh ou3 vv ve4
 太平洋地区  t ai4 p ing2 ii iang2 d i4 q v1
-总处  z ong3 ch u3|ch u4
+总处 null
 资本市场  z iy1 b en3 sh ix4 ch ang3
 并进  b ing4 j in4
 蒙哥马利  m eng2 g e1 m a3 l i4
@@ -74,14 +75,14 @@
 琼海  q iong2 h ai3
 保底消费  b ao3 d i3 x iao1 f ei4
 加网  j ia1 uu uang3
-不贵  b u2|b u4 g ui4
+不贵 null
 建设费  j ian4 sh e4 f ei4
 精彩海淘  j ing1 c ai3 h ai3 t ao2
 每十四天  m ei3 sh ix2 s iy4 t ian1
 陈东  ch en2 d ong1
 廉价原材料  l ian2 j ia4 vv van2 c ai2 l iao4
 赴德  f u4 d e2
-网间  uu uang3 j ian1|j ian4
+网间 null
 灵石县  l ing2 sh ix2 x ian4
 汉阳区  h an4 ii iang2 q v1
 取款人  q v3 k uan3 r en2
@@ -90,7 +91,7 @@
 快捷  k uai4 j ie2
 稀缺产品  x i1 q ve1 ch an2 p in3
 审计费用  sh en3 j i4 f ei4 ii iong4
-不赔  b u2|b u4 p ei2
+不赔 null
 查号台  ch a2 h ao4 t ai2
 高版本  g ao1 b an2 b en3
 下一页  x ia4 ii i1 ii ie4
@@ -107,7 +108,7 @@
 传统贷款  ch uan2 t ong3 d ai4 k uan3
 算费用  s uan4 f ei4 ii iong4
 察哈尔  ch a2 h a1 ee er3
-不走  b u2|b u4 z ou3
+不走 null
 超市  ch ao1 sh ix4
 三路  s an1 l u4
 何方  h e2 f ang1
@@ -125,7 +126,7 @@
 尚品网  sh ang4 p in3 uu uang3
 东证  d ong1 zh eng4
 用光  ii iong4 g uang1
-西撒哈拉  x i1 s a1|s a3 h a1 l a1
+西撒哈拉 null
 科英布拉  k e1 ii ing1 b u4 l a1
 忙时  m ang2 sh ix2
 汇款个人  h ui4 k uan3 g e4 r en2
@@ -136,6 +137,7 @@
 人性化  r en2 x ing4 h ua4
 圣卢西亚  sh eng4 l u2 x i1 ii ia4
 下一集  x ia4 ii i1 j i2
+蒙特塞拉特 null
 礼包  l i3 b ao1
 到账户  d ao4 zh ang4 h u4
 何时  h e2 sh ix2
@@ -148,7 +150,7 @@
 银行决策  ii in2 h ang2 j ve2 c e4
 资产结构  z iy1 ch an3 j ie2 g ou4
 签购  q ian1 g ou4
-预结汇业务  vv v4 j ie1|j ie2 h ui4 ii ie4 uu u4
+预结汇业务 null
 贵宾厅  g ui4 b in1 t ing1
 金融侵略  j in1 r ong2 q in1 l ve4
 蒙独  m eng2 d u2
@@ -163,7 +165,7 @@
 斯坦克里克  s iy1 t an3 k e4 l i3 k e4
 交管  j iao1 g uan3
 尹诚庸  ii in3 ch eng2 ii iong1
-相馆  x iang1|x iang4 g uan3
+相馆 null
 管理层  g uan2 l i3 c eng2
 投诉亿佰  t ou2 s u4 ii i4 b ai3
 巴西国酒  b a1 x i1 g uo2 j iu3
@@ -195,10 +197,10 @@
 路况  l u4 k uang4
 结业生  j ie2 ii ie4 sh eng1
 订餐  d ing4 c an1
-毛片  m ao2 p ian1|p ian4
+毛片 null
 董秘  d ong3 m i4
-干你娘  g an1|g an4 n i3 n iang2
-洗手间  x i2 sh ou3 j ian1|j ian4
+干你娘 null
+洗手间 null
 后向  h ou4 x iang4
 王菲  uu uang2 f ei1
 棉兰  m ian2 l an2
@@ -218,11 +220,11 @@
 劳务费  l ao2 uu u4 f ei4
 被叫限制  b ei4 j iao4 x ian4 zh ix4
 小小  x iao3 x iao3
-否免  f ou3|p i3 m ian3
+否免 null
 免收费  m ian3 sh ou1 f ei4
 广告部  g uang3 g ao4 b u4
 八个月  b a1 g e4 vv ve4
-存不存在  c un2 b u2|b u4 c un2 z ai4
+存不存在 null
 回民区  h ui2 m in2 q v1
 英伦管家  ii ing1 l un2 g uan3 j ia1
 图示  t u2 sh ix4
@@ -238,12 +240,14 @@
 赴意  f u4 ii i4
 股息情况  g u3 x i1 q ing2 k uang4
 语言方面  vv v3 ii ian2 f ang1 m ian4
+名和 null
 小屋  x iao3 uu u1
 用户名  ii iong4 h u4 m ing2
-横溪镇  h eng2|h eng4 x i1 zh en4
+横溪镇 null
 博尔塔拉蒙古  b o2 ee er3 t a3 l a1 m eng2 g u3
 所有项目  s uo2 ii iu3 x iang4 m u5
-界面设计  j ie4 m ian4 sh e4 j i4|sh e4 j i5
+界面设计 null
+永和街  ii iong3 h e2 j ie1
 上个星期天  sh ang4 g e4 x ing1 q i1 t ian1
 丰城矿务局  f eng1 ch eng2 k uang4 uu u4 j v2
 流动性  l iu2 d ong4 x ing4
@@ -255,7 +259,7 @@
 美兰区  m ei3 l an2 q v1
 卡片状态  k a3 p ian4 zh uang4 t ai4
 享果岭人生  x iang3 g uo3 l ing3 r en2 sh eng1
-对不上  d ui4 b u2|b u4 sh ang4
+对不上 null
 开户申请  k ai1 h u4 sh en1 q ing3
 收通信费  sh ou1 t ong1 x in4 f ei4
 业务流程  ii ie4 uu u4 l iu2 ch eng2
@@ -275,6 +279,7 @@
 叫声  j iao4 sh eng1
 叙利亚  x v4 l i4 ii ia4
 信嘻  x in4 x i1
+查特斯堡 null
 小企业发展  x iao3 q i3 ii ie4 f a1 zh an3
 松阳县  s ong1 ii iang2 x ian4
 票价  p iao4 j ia4
@@ -296,12 +301,12 @@
 基本能力  j i1 b en3 n eng2 l i4
 心理准备  x in1 l i3 zh un3 b ei4
 小丑面具  x iao2 ch ou3 m ian4 j v4
-上转  sh ang4 zh uan3|zh uan4
+上转 null
 交道口  j iao1 d ao4 k ou3
 小贝壳  x iao3 b ei4 k e2
 中国银行账户  zh ong1 g uo2 ii in2 h ang2 zh ang4 h u4
 汇星  h ui4 x ing1
-上载  sh ang4 z ai3|z ai4
+上载 null
 万事顺  uu uan4 sh ix4 sh un4
 国税  g uo2 sh ui4
 利达  l i4 d a2
@@ -311,8 +316,8 @@
 账款  zh ang4 k uan3
 亦或是  ii i4 h uo4 sh ix4
 负债表  f u4 zh ai4 b iao3
-欧巴教  oo ou1 b a1 j iao1|j iao4
-下载  x ia4 z ai3|z ai4
+欧巴教 null
+下载 null
 哈尔姆斯塔德  h a1 ee er3 m u3 s iy1 t a3 d e2
 升活  sh eng1 h uo2
 渝碚路  vv v2 b ei4 l u4
@@ -322,7 +327,7 @@
 西岗  x i1 g ang3
 河头  h e2 t ou2
 西岛  x i1 d ao3
-交朋友  j iao1 p eng2 ii iu3|p eng2 ii iu5
+交朋友 null
 通辽  t ong1 l iao2
 刘芳菲  l iu2 f ang1 f ei1
 沙山  sh a1 sh an1
@@ -348,7 +353,7 @@
 西固区  x i1 g u4 q v1
 花果山  h ua1 g uo3 sh an1
 吉尔吉斯斯坦  j i2 ee er3 j i2 s iy1 s iy1 t an3
-变少  b ian4 sh ao3|sh ao4
+变少 null
 导航版  d ao3 h ang2 b an3
 南段  n an2 d uan4
 苏亚利斯  s u1 ii ia4 l i4 s iy1
@@ -361,12 +366,12 @@
 您们  n in2 m en5
 告之  g ao4 zh ix1
 交易账户  j iao1 ii i4 zh ang4 h u4
-分钟  f en1|f en4 zh ong1
+分钟 null
 网页  uu uang3 ii ie4
 索尼  s uo3 n i2
 苏宁易购  s u1 n ing4 ii i4 g ou4
 东路  d ong1 l u4
-不进  b u2|b u4 j in4
+不进 null
 项目授权书  x iang4 m u5 sh ou4 q van2 sh u1
 赖昌  l ai4 ch ang1
 聊城小区  l iao2 ch eng2 x iao3 q v1
@@ -375,14 +380,14 @@
 货币转换费  h uo4 b i4 zh uan3 h uan4 f ei4
 预警  vv v4 j ing3
 各国  g e4 g uo2
-不灵敏  b u2|b u4 l ing2 m in3
+不灵敏  b u4 l ing2 m in3
 改革轨道  g ai3 g e2 g ui3 d ao4
 服务过程  f u2 uu u4 g uo4 ch eng2
 拉贝  l a1 b ei4
 丝路  s iy1 l u4
 联社  l ian2 sh e4
 劳动路  l ao2 d ong4 l u4
-更该  g eng1|g eng4 g ai1
+更该 null
 补缴  b u3 j iao3
 云翼  vv vn2 ii i4
 联通号  l ian2 t ong1 h ao4
@@ -397,13 +402,13 @@
 试用期  sh ix4 ii iong4 q i1
 出口货物  ch u1 k ou3 h uo4 uu u4
 被盗  b ei4 d ao4
-不送  b u2|b u4 s ong4
-不适  b u2|b u4 sh ix4
-签转  q ian1 zh uan3|zh uan4
+不送 null
+不适 null
+签转 null
 河南庄  h e2 n an2 zh uang1
 自助就诊  z iy4 zh u4 j iu4 zh en3
 斯塔沃洛  s iy1 t a3 uu uo4 l uo4
-分销  f en1|f en4 x iao1
+分销 null
 收费情况  sh ou1 f ei4 q ing2 k uang4
 集团网  j i2 t uan2 uu uang3
 福清市  f u2 q ing1 sh ix4
@@ -416,7 +421,7 @@
 菜谱  c ai4 p u3
 申办  sh en1 b an4
 下限加点  x ia4 x ian4 j ia1 d ian3
-不限制时间  b u2|b u4 x ian4 zh ix4 sh ix2 j ian1
+不限制时间 null
 速通  s u4 t ong1
 财大楼  c ai2 d a4 l ou2
 盘龙  p an2 l ong2
@@ -433,7 +438,7 @@
 资金费  z iy1 j in1 f ei4
 重新开  ch ong2 x in1 k ai1
 马达加斯加  m a3 d a2 j ia1 s iy1 j ia1
-垃圾短信  l a1 j i1|l a1 j i5 d uan3 x in4
+垃圾短信 null
 免信息费  m ian3 x in4 x i1 f ei4
 温尼伯  uu un1 n i2 b o2
 马店市  m a3 d ian4 sh ix4
@@ -451,7 +456,7 @@
 社医保  sh e4 ii i1 b ao3
 商业风险  sh ang1 ii ie4 f eng1 x ian3
 入境手续  r u4 j ing4 sh ou3 x v4
-邮件夹  ii iu2 j ian4 j ia1|j ia2
+邮件夹 null
 物联网  uu u4 l ian2 uu uang3
 公益类  g ong1 ii i4 l ei4
 小幅  x iao3 f u2
@@ -468,6 +473,7 @@
 收益累进  sh ou1 ii i4 l ei3 j in4
 波萨达斯  b o1 s a4 d a2 s iy1
 客户营销  k e4 h u4 ii ing2 x iao1
+上都 null
 邮编  ii iu2 b ian1
 比赛规则  b i3 s ai4 g ui1 z e2
 出国过程  ch u1 g uo2 g uo4 ch eng2
@@ -522,9 +528,10 @@
 崇义县  ch ong2 ii i4 x ian4
 具体需求  j v4 t i3 x v1 q iu2
 科保通  k e1 b ao3 t ong1
-电视影片  d ian4 sh ix4 ii ing3 p ian1|ii ing3 p ian4
+电视影片 null
 保障类  b ao3 zh ang4 l ei4
-发短消息  f a1|f a4 d uan3 x iao1 x i5
+发短消息 null
+否否 null
 想使用  x iang3 sh ix3 ii iong4
 王东升  uu uang2 d ong1 sh eng1
 全球服务  q van2 q iu2 f u2 uu u4
@@ -533,7 +540,7 @@
 张翼  zh ang1 ii i4
 四联  s iy4 l ian2
 满洲里  m an3 zh ou1 l i3
-点干  d ian3 g an1|g an4
+点干 null
 南浔  n an2 x vn2
 编辑部  b ian1 j i2 b u4
 蓝港  l an2 g ang3
@@ -560,19 +567,20 @@
 坑爹  k eng1 d ie1
 融资申请  r ong2 z iy1 sh en1 q ing3
 想升级  x iang3 sh eng1 j i2
+反弹 null
 总工  z ong3 g ong1
 越慢  vv ve4 m an4
 山南  sh an1 n an2
-翼集分  ii i4 j i2 f en1|f en4
+翼集分 null
 优惠促销  ii iu1 h ui4 c u4 x iao1
 大量现金  d a4 l iang4 x ian4 j in1
-答问  d a1|d a2 uu un4
+答问 null
 代理商  d ai4 l i3 sh ang1
 下星期四  x ia4 x ing1 q i1 s iy4
 老小孩  l ao3 x iao3 h ai2
 加莱  j ia1 l ai2
 速配  s u4 p ei4
-莘庄镇  sh en1|x in1 zh uang1 zh en4
+莘庄镇 null
 网银登录功能  uu uang3 ii in2 d eng1 l u4 g ong1 n eng2
 滨湖区  b in1 h u2 q v1
 任何媒体  r en4 h e2 m ei2 t i3
@@ -583,7 +591,7 @@
 对战  d ui4 zh an4
 具一定规模  j v4 ii i2 d ing4 g ui1 m o2
 拉察达  l a1 ch a2 d a2
-张掖市  zh ang1 ii ie1|zh ang1 ii ie4 sh ix4
+张掖市 null
 带雨具  d ai4 vv v3 j v4
 外部监事  uu uai4 b u4 j ian1 sh ix4
 江西路  j iang1 x i1 l u4
@@ -591,7 +599,7 @@
 同城  t ong2 ch eng2
 甘井子区  g an1 j ing3 z iy3 q v1
 让别人  r ang4 b ie2 r en2
-不小心  b u2|b u4 x iao3 x in1
+不小心 null
 中国人民银行  zh ong1 g uo2 r en2 m in2 ii in2 h ang2
 值业  zh ix2 ii ie4
 马到  m a3 d ao4
@@ -616,7 +624,7 @@
 新业务模式  x in1 ii ie4 uu u4 m o2 sh ix4
 承诺函  ch eng2 n uo4 h an2
 官渡  g uan1 d u4
-不限制  b u2|b u4 x ian4 zh ix4
+不限制 null
 春武里  ch un1 uu u3 l i3
 听听  t ing1 t ing1
 证交所  zh eng4 j iao1 s uo3
@@ -648,8 +656,8 @@
 新增贷款  x in1 z eng1 d ai4 k uan3
 临桂县  l in2 g ui4 x ian4
 粮油  l iang2 ii iu2
-发往  f a1|f a4 uu uang3
-号薄助手  h ao4 b ao2|b o2|b o4 zh u4 sh ou3
+发往 null
+号薄助手 null
 停业时间  t ing2 ii ie4 sh ix2 j ian1
 标注  b iao1 zh u4
 锡盟  x i1 m eng2
@@ -666,7 +674,7 @@
 陇南  l ong3 n an2
 金色年华  j in1 s e4 n ian2 h ua2
 啥地方  sh a2 d i4 f ang1
-教育质量  j iao4 vv v4|j iao4 vv v5 zh ix4 l iang4
+教育质量 null
 保卫爱情  b ao3 uu ui4 aa ai4 q ing2
 存根联  c un2 g en1 l ian2
 有话  ii iu3 h ua4
@@ -696,7 +704,7 @@
 下个星期  x ia4 g e4 x ing1 q i1
 博湖  b o2 h u2
 票务  p iao4 uu u4
-柏琦  b ai3|b o2 q i2
+柏琦 null
 拉进  l a1 j in4
 金州  j in1 zh ou1
 三证合一  s an1 zh eng4 h e2 ii i1
@@ -716,16 +724,17 @@
 泄漏系统  x ie4 l ou4 x i4 t ong3
 上星期五  sh ang4 x ing1 q i1 uu u3
 莱茵河畔  l ai2 ii in1 h e2 p an4
-教育网  j iao4 vv v4|j iao4 vv v5 uu uang3
+教育网 null
 马尼托巴  m a3 n i2 t uo1 b a1
 持有期  ch ix2 ii iu3 q i1
-外币结欠  uu uai4 b i4 j ie1|j ie2 q ian4
+外币结欠 null
 投诉事件  t ou2 s u4 sh ix4 j ian4
 企业实际  q i3 ii ie4 sh ix2 j i4
 等额  d eng3 ee e2
 服务渠道  f u2 uu u4 q v2 d ao4
-兴丰大街  x ing1|x ing4 f eng1 d a4 j ie1
+兴丰大街 null
 潮州市  ch ao2 zh ou1 sh ix4
+塞图巴尔 null
 电子渠道  d ian4 z iy3 q v2 d ao4
 国家财政  g uo2 j ia1 c ai2 zh eng4
 杰拉尔顿  j ie2 l a1 ee er3 d un4
@@ -745,12 +754,12 @@
 起效  q i3 x iao4
 股份情况  g u3 f en4 q ing2 k uang4
 周三  zh ou1 s an1
-不起来  b u2|b u4 q i3 l ai2|q i3 l ai5
-十八大精神  sh ix2 b a1 d a4|d ai4 j ing1 sh en2|j ing1 sh en5
+不起来 null
+十八大精神 null
 学历学位认证  x ve2 l i4 x ve2 uu ui4 r en4 zh eng4
-前转  q ian2 zh uan3|zh uan4
+前转 null
 那英  n a4 ii ing1
-经七路  j ing1|j ing4 q i1 l u4
+经七路 null
 电商  d ian4 sh ang1
 打印产品  d a3 ii in4 ch an2 p in3
 服务优势  f u2 uu u4 ii iu1 sh ix4
@@ -761,20 +770,20 @@
 按装  aa an4 zh uang1
 中午十二点  zh ong1 uu u3 sh ix2 ee er4 d ian3
 标清  b iao1 q ing1
-信息披露  x in4 x i1 p i1 l ou4|p i1 l u4
+信息披露 null
 沁源县  q in4 vv van2 x ian4
 置顶  zh ix4 d ing3
 双享贷理想  sh uang1 x iang3 d ai4 l i2 x iang3
 夏洛特敦  x ia4 l uo4 t e4 d un1
 住房公积金  zh u4 f ang2 g ong1 j i1 j in1
 付费用  f u4 f ei4 ii iong4
-泡泡龙  p ao1|p ao4 p ao1|p ao4 l ong2
+泡泡龙 null
 山东路  sh an1 d ong1 l u4
 巴布亚新几内亚  b a1 b u4 ii ia4 x in1 j i3 n ei4 ii ia4
 后续工作  h ou4 x v4 g ong1 z uo4
 陷井  x ian4 j ing3
 定日县  d ing4 r iz4 x ian4
-转账金额  zh uan3|zh uan4 zh ang4 j in1 ee e2
+转账金额 null
 集美镇  j i2 m ei3 zh en4
 枪神  q iang1 sh en2
 有出入  ii iu3 ch u1 r u4
@@ -832,7 +841,7 @@
 院内  vv van4 n ei4
 麦克  m ai4 k e4
 邓丽君  d eng4 l i4 j vn1
-国经  g uo2 j ing1|j ing4
+国经 null
 图纳  t u2 n a4
 同威  t ong2 uu ui1
 赞助商  z an4 zh u4 sh ang1
@@ -851,14 +860,14 @@
 洛克  l uo4 k e4
 莲花县  l ian2 h ua1 x ian4
 天气预告  t ian1 q i4 vv v4 g ao4
-技术设备  j i4 sh u4 sh e4 b ei4|sh e4 b ei5
+技术设备 null
 乱扣话费  l uan4 k ou4 h ua4 f ei4
-半个月  b an4 g e4|b an4 g e5 vv ve4
+半个月 null
 拨电话  b o1 d ian4 h ua4
 你去死  n i3 q v4 s iy3
 康辉  k ang1 h ui1
 异网用户  ii i4 uu uang3 ii iong4 h u4
-答题  d a1|d a2 t i2
+答题 null
 播放器  b o1 f ang4 q i4
 上星期一  sh ang4 x ing1 q i1 ii i1
 纳西里亚  n a4 x i1 l i3 ii ia4
@@ -867,7 +876,7 @@
 加餐包  j ia1 c an1 b ao1
 一个多种族  ii i2 g e4 d uo1 zh ong3 z u2
 合同期  h e2 t ong2 q i1
-借吧  j ie4 b a1|b a5
+借吧 null
 货币中心  h uo4 b i4 zh ong1 x in1
 台州  t ai2 zh ou1
 舟山市  zh ou1 sh an1 sh ix4
@@ -903,6 +912,7 @@
 刘青  l iu2 q ing1
 含图  h an2 t u2
 国美  g uo2 m ei3
+和静县 null
 波士  b o1 sh ix4
 自然灾害  z iy4 r an2 z ai1 h ai4
 交易规则  j iao1 ii i4 g ui1 z e2
@@ -914,6 +924,7 @@
 咨询下  z iy1 x vn2 x ia4
 真情暖人间  zh en1 q ing2 n uan3 r en2 j ian1
 退顶  t ui4 d ing3
+自己的行李 null
 永丰县  ii iong3 f eng1 x ian4
 北碚  b ei3 b ei4
 呃呃  ee e4 ee e4
@@ -922,6 +933,7 @@
 安徽台  aa an1 h ui1 t ai2
 保险业务  b ao2 x ian3 ii ie4 uu u4
 变慢  b ian4 m an4
+兴和街 null
 双休日  sh uang1 x iu1 r iz4
 话费周报  h ua4 f ei4 zh ou1 b ao4
 探知  t an4 zh ix1
@@ -944,6 +956,7 @@
 积分兑换  j i1 f en1 d ui4 h uan4
 神器  sh en2 q i4
 交易码  j iao1 ii i4 m a3
+丰都 null
 榆林市  vv v2 l in2 sh ix4
 前段时间  q ian2 d uan4 sh ix2 j ian1
 豆豆  d ou4 d ou4
@@ -951,7 +964,7 @@
 洗化  x i3 h ua4
 最迟  z ui4 ch ix2
 比拉德讷格尔  b i3 l a1 d e2 n e4 g e2 ee er3
-兴庆区  x ing1|x ing4 q ing4 q v1
+兴庆区 null
 学校双  x ve2 x iao4 sh uang1
 出中国  ch u1 zh ong1 g uo2
 金融支持  j in1 r ong2 zh ix1 ch ix2
@@ -963,7 +976,7 @@
 伊夫雷亚  ii i1 f u1 l ei2 ii ia4
 民生保障  m in2 sh eng1 b ao3 zh ang4
 名古屋  m ing2 g u3 uu u1
-撒子  s a1|s a3 z iy3
+撒子 null
 蒙特利尔分行  m eng2 t e4 l i4 ee er3 f en1 h ang2
 申城  sh en1 ch eng2
 闹心  n ao4 x in1
@@ -1001,19 +1014,19 @@
 丰泽区  f eng1 z e2 q v1
 无限期  uu u2 x ian4 q i1
 家留学贷  j ia1 l iu2 x ve2 d ai4
-值分  zh ix2 f en1|f en4
+值分 null
 丽景小区  l i4 j ing3 x iao3 q v1
 号码百事通  h ao4 m a3 b ai3 sh ix4 t ong1
 蒙特里亚  m eng2 t e4 l i3 ii ia4
 安定区  aa an1 d ing4 q v1
 报名费  b ao4 m ing2 f ei4
 公用电话  g ong1 ii iong4 d ian4 h ua4
-文件夹  uu un2 j ian4 j ia1|j ia2
+文件夹 null
 聊聊  l iao2 l iao2
 养护项目  ii iang3 h u4 x iang4 m u5
 银行柜员  ii in2 h ang2 g ui4 vv van2
 天目中路  t ian1 m u4 zh ong1 l u4
-正街  zh eng1|zh eng4 j ie1
+正街 null
 包年版  b ao1 n ian2 b an3
 翼视  ii i4 sh ix4
 信息网  x in4 x i1 uu uang3
@@ -1028,10 +1041,12 @@
 联网  l ian2 uu uang3
 解放西路  j ie3 f ang4 x i1 l u4
 一起飞  ii i1 q i3 f ei1
+和平分手 null
 初音  ch u1 ii in1
 可待  k e3 d ai4
 安娜女王村  aa an1 n a4 n v3 uu uang2 c un1
 埃森  aa ai1 s en1
+冇话费  h ua4 f ei4
 选项  x van3 x iang4
 子站  z iy3 zh an4
 家湾  j ia1 uu uan1
@@ -1040,7 +1055,7 @@
 北海市  b ei2 h ai3 sh ix4
 安心包  aa an1 x in1 b ao1
 埃萨尔特  aa ai1 s a4 ee er3 t e4
-亲至  q in1|q ing4 zh ix4
+亲至 null
 罗克汉普顿  l uo2 k e4 h an4 p u3 d un4
 闪光灯  sh an3 g uang1 d eng1
 领先地位  l ing3 x ian1 d i4 uu ui4
@@ -1065,13 +1080,13 @@
 山西席  sh an1 x i1 x i2
 道边  d ao4 b ian1
 福冈  f u2 g ang1
-发给我干嘛  f a1|f a4 g ei3 uu uo3 g an4 m a2
+发给我干嘛  f a1 g ei3 uu uo3 g an4 m a2
 派遣员工  p ai4 q ian3 vv van2 g ong1
 寿昌  sh ou4 ch ang1
 曼谷分行  m an4 g u3 f en1 h ang2
 钱袋  q ian2 d ai4
 张家界市  zh ang1 j ia1 j ie4 sh ix4
-不限  b u2|b u4 x ian4
+不限 null
 银行柜台  ii in2 h ang2 g ui4 t ai2
 提现  t i2 x ian4
 自交易日  z iy4 j iao1 ii i4 r iz4
@@ -1100,7 +1115,7 @@
 下星期日  x ia4 x ing1 q i1 r iz4
 医链通  ii i1 l ian4 t ong1
 市场空间  sh ix4 ch ang3 k ong1 j ian1
-吧女  b a1|b a5 n v3
+吧女 null
 扣取费用  k ou4 q v3 f ei4 ii iong4
 超期  ch ao1 q i1
 悄悄话  q iao1 q iao1 h ua4
@@ -1110,7 +1125,7 @@
 聂耳路  n ie4 ee er3 l u4
 这一项  zh e4 ii i2 x iang4
 道通  d ao4 t ong1
-莘建路  sh en1|x in1 j ian4 l u4
+莘建路 null
 铁蛋  t ie3 d an4
 保温杯  b ao3 uu un1 b ei1
 藁城  g ao3 ch eng2
@@ -1139,10 +1154,10 @@
 马坡  m a3 p o1
 出境需求  ch u1 j ing4 x v1 q iu2
 积分礼遇  j i1 f en1 l i3 vv v4
-周几  zh ou1 j i1|j i3
+周几 null
 优惠月  ii iu1 h ui4 vv ve4
 取掉  q v3 d iao4
-处理器  ch u2 l i3|ch u4 l i3 q i4
+处理器 null
 大众口味  d a4 zh ong4 k ou3 uu ui4
 中国论  zh ong1 g uo2 l un4
 法务组  f a3 uu u4 z u3
@@ -1154,7 +1169,7 @@
 青年路  q ing1 n ian2 l u4
 优惠服务  ii iu1 h ui4 f u2 uu u4
 沂源县  ii i2 vv van2 x ian4
-不需  b u2|b u4 x v1
+不需 null
 留学保险  l iu2 x ve2 b ao2 x ian3
 东镇  d ong1 zh en4
 北站  b ei3 zh an4
@@ -1184,6 +1199,7 @@
 上个星期  sh ang4 g e4 x ing1 q i1
 优盾  ii iu1 d un4
 凌河区  l ing2 h e2 q v1
+共和新路  g ong4 h e2 x in1 l u4
 咋个  z a3 g e4
 玉环县  vv v4 h uan2 x ian4
 莱顿  l ai2 d un4
@@ -1204,10 +1220,13 @@
 翼讯  ii i4 x vn4
 黄岩区  h uang2 ii ian2 q v1
 京口路  j ing1 k ou3 l u4
-我们约会吧  uu uo3 m en5 vv ve1 h ui4 b a1|b a5
+我们约会吧 null
+和丰 null
 武林广场  uu u3 l in2 g uang2 ch ang3
 超标  ch ao1 b iao1
-马斯觉  m a3 s iy1 j iao4|j ve2
+马斯觉 null
+成都市  ch eng2 d u1 sh ix4
+张家堡 null
 杜尔伯特  d u4 ee er3 b o2 t e4
 法定货币  f a3 d ing4 h uo4 b i4
 存管  c un2 g uan3
@@ -1221,7 +1240,7 @@
 信用记录  x in4 ii iong4 j i4 l u4
 波导  b o1 d ao3
 企稳  q i3 uu un3
-晚上九点  uu uan3 sh ang4|uu uan3 sh ang5 j iu3 d ian3
+晚上九点 null
 米林县  m i3 l in2 x ian4
 点单程机场  d ian3 d an1 ch eng2 j i1 ch ang3
 美妆护肤  m ei3 zh uang1 h u4 f u1
@@ -1235,7 +1254,7 @@
 贝瓦  b ei4 uu ua3
 豪恩斯洛  h ao2 ee en1 s iy1 l uo4
 放风筝  f ang4 f eng1 zh eng5
-贴片  t ie1 p ian1|p ian4
+贴片 null
 资费标准  z iy1 f ei4 b iao1 zh un3
 乌海市  uu u1 h ai3 sh ix4
 三页  s an1 ii ie4
@@ -1245,13 +1264,13 @@
 名师  m ing2 sh ix1
 生活方式  sh eng1 h uo2 f ang1 sh ix4
 正定县  zh eng4 d ing4 x ian4
-达累斯萨拉姆  d a2 l ei3|l ei4 s iy1 s a4 l a1 m u3
+达累斯萨拉姆 null
 我国资本  uu uo3 g uo2 z iy1 b en3
-更改为  g eng1|g eng4 g ai3 uu ui4
+更改为 null
 福永镇福  f u2 ii iong3 zh en4 f u2
 利润分配  l i4 r un4 f en1 p ei4
 铜川市  t ong2 ch uan1 sh ix4
-槟榔屿山  b ing1 l ang2|b ing1 l ang5 vv v3 sh an1
+槟榔屿山 null
 摩拜  m o2 b ai4
 方式基金  f ang1 sh ix4 j i1 j in1
 泼天  p o1 t ian1
@@ -1299,7 +1318,7 @@
 特邀客户  t e4 ii iao1 k e4 h u4
 外省漫游  uu uai4 sh eng3 m an4 ii iu2
 尔新  ee er3 x in1
-用尽  ii iong4 j in3|j in4
+用尽 null
 聚宝指标  j v4 b ao3 zh ix3 b iao1
 两天气  l iang3 t ian1 q i4
 名店  m ing2 d ian4
@@ -1310,6 +1329,7 @@
 泊头市  b o2 t ou2 sh ix4
 服务形式  f u2 uu u4 x ing2 sh ix4
 陆家嘴  l u4 j ia1 z ui3
+士嘉堡 null
 新建县  x in1 j ian4 x ian4
 代理店  d ai4 l i3 d ian4
 定向流量  d ing4 x iang4 l iu2 l iang4
@@ -1340,8 +1360,9 @@
 灾区人民  z ai1 q v1 r en2 m in2
 签证费  q ian1 zh eng4 f ei4
 古代儿童诗  g u3 d ai4 ee er2 t ong2 sh ix1
+空调啊 null
 微信账号  uu ui1 x in4 zh ang4 h ao4
-以经  ii i3 j ing1|j ing4
+以经 null
 通携程  t ong1 x ie2 ch eng2
 吕李梅  l v3 l i3 m ei2
 瓦房店市  uu ua3 f ang2 d ian4 sh ix4
@@ -1362,6 +1383,7 @@
 苹果乐园  p ing2 g uo3 l e4 vv van2
 平泉县  p ing2 q van2 x ian4
 代缴  d ai4 j iao3
+布郎库堡 null
 椰树门  ii ie1 sh u4 m en2
 想你  x iang3 n i3
 加装包  j ia1 zh uang1 b ao1
@@ -1380,6 +1402,7 @@
 主要收益  zh u3 ii iao4 sh ou1 ii i4
 订单金额  d ing4 d an1 j in1 ee e2
 哪一天  n a3 ii i4 t ian1
+和信 null
 提升计划  t i2 sh eng1 j i4 h ua4
 名录  m ing2 l u4
 掉网  d iao4 uu uang3
@@ -1394,7 +1417,7 @@
 穆尔西亚  m u4 ee er3 x i1 ii ia4
 纪念版  j i4 n ian4 b an3
 黄南  h uang2 n an2
-定结县  d ing4 j ie1|j ie2 x ian4
+定结县 null
 杰出企业  j ie2 ch u1 q i3 ii ie4
 酒泉市  j iu3 q van2 sh ix4
 抚宁县  f u3 n ing2 x ian4
@@ -1414,7 +1437,7 @@
 金逸电影院  j in1 ii i4 d ian4 ii ing3 vv van4
 增利  z eng1 l i4
 锡林浩特市  x i1 l in2 h ao4 t e4 sh ix4
-发行权  f a1|f a4 x ing2 q van2
+发行权  f a1 x ing2 q van2
 无极限  uu u2 j i2 x ian4
 商户体系  sh ang1 h u4 t i3 x i4
 王轲  uu uang2 k e1
@@ -1467,6 +1490,7 @@
 手机软件  sh ou3 j i1 r uan3 j ian4
 昆山市  k un1 sh an1 sh ix4
 星巴克  x ing1 b a1 k e4
+塞浦路斯 null
 宁波市  n ing2 b o1 sh ix4
 惠助  h ui4 zh u4
 具体方法  j v4 t i3 f ang1 f a3
@@ -1479,6 +1503,7 @@
 吴宏  uu u2 h ong2
 爱迪生  aa ai4 d i2 sh eng1
 起江  q i3 j iang1
+都江堰市 null
 票据融资业务  p iao4 j v4 r ong2 z iy1 ii ie4 uu u4
 新远望  x in1 vv van3 uu uang4
 票据业务  p iao4 j v4 ii ie4 uu u4
@@ -1494,12 +1519,12 @@
 杀毒软件  sh a1 d u2 r uan3 j ian4
 炫用彩铃  x van4 ii iong4 c ai3 l ing2
 爱沙尼亚  aa ai4 sh a1 n i2 ii ia4
-济州岛  j i3|j i4 zh ou1 d ao3
+济州岛 null
 摘机  zh ai1 j i1
 交通法规  j iao1 t ong1 f a3 g ui1
 自助  z iy4 zh u4
 保岫东路  b ao3 x iu4 d ong1 l u4
-金斗  j in1 d ou3|d ou4
+金斗 null
 光网络  g uang1 uu uang3 l uo4
 主机托管  zh u3 j i1 t uo1 g uan3
 青山区  q ing1 sh an1 q v1
@@ -1523,7 +1548,7 @@
 光明道  g uang1 m ing2 d ao4
 宣传物料  x van1 ch uan2 uu u4 l iao4
 诺尔彻平  n uo4 ee er3 ch e4 p ing2
-抢鲜  q iang3 x ian1|x ian3
+抢鲜 null
 小桥  x iao3 q iao2
 吉林路  j i2 l in2 l u4
 金昌  j in1 ch ang1
@@ -1532,15 +1557,16 @@
 现金红包  x ian4 j in1 h ong2 b ao1
 学校学费  x ve2 x iao4 x ve2 f ei4
 入账顺序  r u4 zh ang4 sh un4 x v4
-藏金阁  c ang2|z ang4 j in1 g e2
+藏金阁 null
 书迷  sh u1 m i2
-派发  p ai4 f a1|f a4
-作爱  z uo1|z uo4 aa ai4
-不高  b u2|b u4 g ao1
+派发 null
+作爱 null
+不高 null
 李小鹏  l i3 x iao3 p eng2
 申通快递  sh en1 t ong1 k uai4 d i4
+塞尔福斯 null
 运行情况  vv vn4 x ing2 q ing2 k uang4
-赌片  d u3 p ian1|p ian4
+赌片 null
 品牌海淘  p in3 p ai2 h ai3 t ao2
 申请流程  sh en1 q ing3 l iu2 ch eng2
 功费  g ong1 f ei4
@@ -1607,6 +1633,7 @@
 全商品订房  q van2 sh ang1 p in3 d ing4 f ang2
 流向  l iu2 x iang4
 包会员  b ao1 h ui4 vv van2
+塞尔托亨博斯 null
 费电  f ei4 d ian4
 阜阳市  f u4 ii iang2 sh ix4
 银行渠道  ii in2 h ang2 q v2 d ao4
@@ -1627,12 +1654,12 @@
 国际化发展  g uo2 j i4 h ua4 f a1 zh an3
 有错  ii iu3 c uo4
 邓超  d eng4 ch ao1
-片尾曲  p ian1|p ian4 ii i3|uu ui3 q v1|q v3
+片尾曲 null
 众筹  zh ong4 ch ou2
 科技型  k e1 j i4 x ing2
 租赁公司  z u1 l in4 g ong1 s iy1
 鞋帽箱包  x ie2 m ao4 x iang1 b ao1
-金曲  j in1 q v1|q v3
+金曲 null
 天翼宝  t ian1 ii i4 b ao3
 倾城  q ing1 ch eng2
 列车表  l ie4 ch e1 b iao3
@@ -1642,13 +1669,15 @@
 门桥  m en2 q iao2
 上个星期日  sh ang4 g e4 x ing1 q i1 r iz4
 产品描述  ch an2 p in3 m iao2 sh u4
-会答  h ui4|k uai4 d a1|d a2
+会答 null
 旅友惠  l v3 ii iu3 h ui4
 获奖情况  h uo4 j iang3 q ing2 k uang4
 咋办  z a3 b an4
 周四  zh ou1 s iy4
 寿光市  sh ou4 g uang1 sh ix4
+塞尔 null
 闲时包  x ian2 sh ix2 b ao1
+斯特拉斯堡 null
 自营店  z iy4 ii ing2 d ian4
 海东  h ai3 d ong1
 缴费服务  j iao3 f ei4 f u2 uu u4
@@ -1661,11 +1690,12 @@
 瑞昌市  r ui4 ch ang1 sh ix4
 替换成  t i4 h uan4 ch eng2
 盘锦市  p an2 j in3 sh ix4
-垃圾箱  l a1 j i1|l a1 j i5 x iang1
+垃圾箱 null
 增长水平  z eng1 zh ang3 sh ui3 p ing2
 八心肝椗  b a1 x in1 g an1 d ing4
 静安区  j ing4 aa an1 q v1
 迪庆州  d i2 q ing4 zh ou1
+都能 null
 酷爽  k u4 sh uang3
 一收益期  ii i1 sh ou1 ii i4 q i1
 南充市  n an2 ch ong1 sh ix4
@@ -1676,7 +1706,7 @@
 洞天  d ong4 t ian1
 支行二手房  zh ix1 h ang2 ee er4 sh ou3 f ang2
 跑掉  p ao3 d iao4
-转账业务  zh uan3|zh uan4 zh ang4 ii ie4 uu u4
+转账业务 null
 业务模式  ii ie4 uu u4 m o2 sh ix4
 宝清县  b ao3 q ing1 x ian4
 材质  c ai2 zh ix4
@@ -1756,6 +1786,7 @@
 乌镇  uu u1 zh en4
 高庄子  g ao1 zh uang1 z iy3
 何用  h e2 ii iong4
+维纳什堡 null
 修护  x iu1 h u4
 米红  m i3 h ong2
 锡诺亚  x i1 n uo4 ii ia4
@@ -1765,7 +1796,7 @@
 海南路  h ai3 n an2 l u4
 福门特拉岛  f u2 m en2 t e4 l a1 d ao3
 幼齿  ii iu4 ch ix3
-藏山  c ang2|z ang4 sh an1
+藏山 null
 基金持有人  j i1 j in1 ch ix2 ii iu3 r en2
 泾川  j ing1 ch uan1
 密山市  m i4 sh an1 sh ix4
@@ -1773,6 +1804,7 @@
 甭急  b eng2 j i2
 多克多比  d uo1 k e4 d uo1 b i3
 高平市  g ao1 p ing2 sh ix4
+和原 null
 李维斯  l i3 uu ui2 s iy1
 萨尔图区  s a4 ee er3 t u2 q v1
 特定账户  t e4 d ing4 zh ang4 h u4
@@ -1787,22 +1819,22 @@
 雅加达分行  ii ia3 j ia1 d a2 f en1 h ang2
 非人力  f ei1 r en2 l i4
 国际双  g uo2 j i4 sh uang1
-应届毕业生  ii ing1 j ie4|ii ing4 j ie4 b i4 ii ie4 sh eng1
+应届毕业生 null
 滦平县  l uan2 p ing2 x ian4
 罗兹大学  l uo2 z iy1 d a4 x ve2
 近段时间  j in4 d uan4 sh ix2 j ian1
 医生版  ii i1 sh eng1 b an3
 平阴县  p ing2 ii in1 x ian4
-拍照片  p ai1 zh ao4 p ian1|zh ao4 p ian4
+拍照片 null
 陈希  ch en2 x i1
-加载  j ia1 z ai3|z ai4
+加载 null
 安心宝  aa an1 x in1 b ao3
 塔吉克  t a3 j i2 k e4
 新势力  x in1 sh ix4 l i4
 五指山路  uu u2 zh ix3 sh an1 l u4
 平阳县  p ing2 ii iang2 x ian4
 愚人  vv v2 r en2
-玩转  uu uan2 zh uan3|zh uan4
+玩转 null
 胶南市  j iao1 n an2 sh ix4
 拜城县  b ai4 ch eng2 x ian4
 神庙  sh en2 m iao4
@@ -1815,7 +1847,7 @@
 摩根  m o2 g en1
 实施方案  sh ix2 sh ix1 f ang1 aa an4
 酷玩  k u4 uu uan2
-设计院  sh e4 j i4|sh e4 j i5 vv van4
+设计院 null
 下列事项  x ia4 l ie4 sh ix4 x iang4
 香港回归  x iang1 g ang3 h ui2 g ui1
 打印万科  d a3 ii in4 uu uan4 k e1
@@ -1823,7 +1855,7 @@
 下午茶  x ia4 uu u3 ch a2
 助力企业  zh u4 l i4 q i3 ii ie4
 欧非  oo ou1 f ei1
-适合泡妞  sh ix4 h e2 p ao1|p ao4 n iu1
+适合泡妞 null
 自动提款机  z iy4 d ong4 t i2 k uan3 j i1
 人人网  r en2 r en2 uu uang3
 尼日  n i2 r iz4
@@ -1846,7 +1878,7 @@
 家庭包  j ia1 t ing2 b ao1
 米罗  m i3 l uo2
 上网流量可选包  sh ang4 uu uang3 l iu2 l iang4 k e3 x van3 b ao1
-不高兴  b u2|b u4 g ao1 x ing4
+不高兴 null
 八佰伴  b a1 b ai3 b an4
 本溪市  b en3 x i1 sh ix4
 专业能力  zh uan1 ii ie4 n eng2 l i4
@@ -1868,19 +1900,20 @@
 枯草  k u1 c ao3
 萍乡市  p ing2 x iang1 sh ix4
 企联  q i3 l ian2
-概念及应用  g ai4 n ian4|g ai4 n ian5 j i2 ii ing1 ii iong4|ii ing4 ii iong4
+概念及应用 null
 货押授信业务  h uo4 ii ia1 sh ou4 x in4 ii ie4 uu u4
-友谊路  ii iu3 ii i2|ii iu3 ii i4 l u4
+友谊路 null
 服务指南  f u2 uu u4 zh ix3 n an2
 程序管理  ch eng2 x v4 g uan2 l i3
 双城市  sh uang1 ch eng2 sh ix4
+塞尔维亚 null
 巴彦浩特  b a1 ii ian4 h ao4 t e4
 马庄  m a3 zh uang1
 列支敦士登  l ie4 zh ix1 d un1 sh ix4 d eng1
 实现收益率  sh ix2 x ian4 sh ou1 ii i4 l v4
 主页  zh u3 ii ie4
 通用版  t ong1 ii iong4 b an3
-诺因基兴  n uo4 ii in1 j i1 x ing1|x ing4
+诺因基兴 null
 新街口  x in1 j ie1 k ou3
 伪冒票据  uu ui3 m ao4 p iao4 j v4
 业务简介  ii ie4 uu u4 j ian3 j ie4
@@ -1894,7 +1927,7 @@
 学联  x ve2 l ian2
 赫章县  h e4 zh ang1 x ian4
 蒋介石  j iang3 j ie4 sh ix2
-尽显  j in3|j in4 x ian3
+尽显 null
 治理奖  zh ix4 l i3 j iang3
 以购买  ii i3 g ou4 m ai3
 数字数据网  sh u4 z iy4 sh u4 j v4 uu uang3
@@ -1939,7 +1972,7 @@
 夏威夷  x ia4 uu ui1 ii i2
 字节  z iy4 j ie2
 回购  h ui2 g ou4
-江干区  j iang1 g an1|g an4 q v1
+江干区 null
 恒隆广场  h eng2 l ong2 g uang2 ch ang3
 通信版  t ong1 x in4 b an3
 开户服务  k ai1 h u4 f u2 uu u4
@@ -1982,7 +2015,7 @@
 上周末  sh ang4 zh ou1 m o4
 证明材料  zh eng4 m ing2 c ai2 l iao4
 南站  n an2 zh an4
-更高  g eng1|g eng4 g ao1
+更高 null
 侦测  zh en1 c e4
 货币幻觉逝  h uo4 b i4 h uan4 j ve2 sh ix4
 怀特  h uai2 t e4
@@ -2020,7 +2053,7 @@
 市天马路  sh ix4 t ian1 m a3 l u4
 孙中山先生  s un1 zh ong1 sh an1 x ian1 sh eng5
 康马县  k ang1 m a3 x ian4
-转账服务  zh uan3|zh uan4 zh ang4 f u2 uu u4
+转账服务 null
 杜布罗夫尼克  d u4 b u4 l uo2 f u1 n i2 k e4
 值守  zh ix2 sh ou3
 毕尔巴鄂  b i4 ee er3 b a1 ee e4
@@ -2036,7 +2069,7 @@
 玩酷  uu uan2 k u4
 保本  b ao3 b en3
 短贷  d uan3 d ai4
-季三重  j i4 s an1 ch ong2|zh ong4
+季三重 null
 济源市  j i3 vv van2 sh ix4
 西沙  x i1 sh a1
 短信助手  d uan3 x in4 zh u4 sh ou3
@@ -2052,7 +2085,7 @@
 浙商  zh e4 sh ang1
 可爱形象  k e3 aa ai4 x ing2 x iang4
 托木斯克  t uo1 m u4 s iy1 k e4
-互转  h u4 zh uan3|zh uan4
+互转 null
 全网通  q van2 uu uang3 t ong1
 西沟  x i1 g ou1
 路桥停车费  l u4 q iao2 t ing2 ch e1 f ei4
@@ -2060,7 +2093,7 @@
 交费  j iao1 f ei4
 蔡琴  c ai4 q in2
 改元  g ai3 vv van2
-浦发  p u3 f a1|f a4
+浦发 null
 上周日  sh ang4 zh ou1 r iz4
 运输许可证  vv vn4 sh u1 x v2 k e3 zh eng4
 饶河县  r ao2 h e2 x ian4
@@ -2069,16 +2102,16 @@
 七大洋  q i1 d a4 ii iang2
 香港地区  x iang1 g ang3 d i4 q v1
 经济体  j ing1 j i4 t i3
-晚上十点  uu uan3 sh ang4|uu uan3 sh ang5 sh ix2 d ian3
+晚上十点 null
 私人资料  s iy1 r en2 z iy1 l iao4
-妻子王太太  q i1 z iy3|q i1 z iy5 uu uang2 t ai4 t ai5
+妻子王太太 null
 包月版  b ao1 vv ve4 b an3
 小海  x iao3 h ai3
 存储容量  c un2 ch u3 r ong2 l iang4
 按键  aa an4 j ian4
 临汾市  l in2 f en2 sh ix4
 校验码  j iao4 ii ian4 m a3
-贝洛奥里藏特  b ei4 l uo4 aa ao4 l i3 c ang2|z ang4 t e4
+贝洛奥里藏特 null
 网银活动  uu uang3 ii in2 h uo2 d ong4
 精英版  j ing1 ii ing1 b an3
 西红门  x i1 h ong2 m en2
@@ -2091,10 +2124,10 @@
 问候语  uu un4 h ou4 vv v3
 摩根纯债  m o2 g en1 ch un2 zh ai4
 巴彦县  b a1 ii ian4 x ian4
-称作  ch eng1 z uo1|z uo4
+称作 null
 撤掉  ch e4 d iao4
 铁通  t ie3 t ong1
-埃伊尔斯塔济  aa ai1 ii i1 ee er3 s iy1 t a3 j i3|j i4
+埃伊尔斯塔济 null
 裕民县  vv v4 m in2 x ian4
 支付通知  zh ix1 f u4 t ong1 zh ix1
 大众包  d a4 zh ong4 b ao1
@@ -2104,12 +2137,13 @@
 月首  vv ve4 sh ou3
 秋叶  q iu1 ii ie4
 揭秘  j ie1 m i4
+妈妈和宝宝 null
 收费表  sh ou1 f ei4 b iao3
 各月  g e4 vv ve4
 十堰市  sh ix2 ii ian4 sh ix4
 消费资金需求  x iao1 f ei4 z iy1 j in1 x v1 q iu2
 奥运钞  aa ao4 vv vn4 ch ao1
-礼相送  l i3 x iang1|x iang4 s ong4
+礼相送 null
 播报  b o1 b ao4
 哪一年  n a3 ii i4 n ian2
 预定费用  vv v4 d ing4 f ei4 ii iong4
@@ -2140,6 +2174,7 @@
 空中幼儿园  k ong1 zh ong1 ii iu4 ee er2 vv van2
 武宁县  uu u3 n ing2 x ian4
 能用  n eng2 ii iong4
+圣塞瓦斯蒂安 null
 特需部  t e4 x v1 b u4
 查缴  ch a2 j iao3
 享贷  x iang3 d ai4
@@ -2161,7 +2196,7 @@
 麦吉尔  m ai4 j i2 ee er3
 专有权利  zh uan1 ii iu3 q van2 l i4
 周宁  zh ou1 n ing4
-会不会算  h ui4 b u2 h ui4|h ui4 b u5 h ui4 s uan4
+会不会算 null
 保险金  b ao2 x ian3 j in1
 改到  g ai3 d ao4
 学生交流  x ve2 sh eng1 j iao1 l iu2
@@ -2197,7 +2232,7 @@
 疆外  j iang1 uu uai4
 仍要  r eng2 ii iao4
 杨子姗  ii iang2 z iy3 sh an1
-钻金  z uan1|z uan4 j in1
+钻金 null
 金江镇  j in1 j iang1 zh en4
 巴特伊施尔  b a1 t e4 ii i1 sh ix1 ee er3
 号楼  h ao4 l ou2
@@ -2232,7 +2267,7 @@
 大理州  d a4 l i3 zh ou1
 放利  f ang4 l i4
 激励政策  j i1 l i4 zh eng4 c e4
-正六边形  zh eng1|zh eng4 l iu4 b ian1 x ing2
+正六边形 null
 自定义  z iy4 d ing4 ii i4
 东营市  d ong1 ii ing2 sh ix4
 项目融资  x iang4 m u5 r ong2 z iy1
@@ -2248,6 +2283,7 @@
 迪亚哥  d i2 ii ia4 g e1
 海卫  h ai3 uu ui4
 贴签  t ie1 q ian1
+埃克塞特 null
 社会实践  sh e4 h ui4 sh ix2 j ian4
 期间内  q i1 j ian1 n ei4
 下周日  x ia4 zh ou1 r iz4
@@ -2255,11 +2291,11 @@
 交易对手  j iao1 ii i4 d ui4 sh ou3
 马来林吉特  m a3 l ai2 l in2 j i2 t e4
 陈四清  ch en2 s iy4 q ing1
-代发工资  d ai4 f a1|f a4 g ong1 z iy1
+代发工资 null
 法朗  f a3 l ang3
 水窖  sh ui3 j iao4
 新乡市  x in1 x iang1 sh ix4
-气候特点  q i4 h ou4|q i4 h ou5 t e4 d ian3
+气候特点 null
 优汇通  ii iu1 h ui4 t ong1
 奉贤区  f eng4 x ian2 q v1
 工作计划  g ong1 z uo4 j i4 h ua4
@@ -2272,9 +2308,9 @@
 公司战略  g ong1 s iy1 zh an4 l ve4
 教学方式  j iao4 x ve2 f ang1 sh ix4
 金斯敦  j in1 s iy1 d un1
-生日礼物  sh eng1 r iz4|sh eng1 r iz5 l i3 uu u4
+生日礼物 null
 认证码  r en4 zh eng4 m a3
-不收取  b u2|b u4 sh ou1 q v3
+不收取 null
 字体大小  z iy4 t i3 d a4 x iao3
 湘潭市  x iang1 t an2 sh ix4
 金波  j in1 b o1
@@ -2302,7 +2338,7 @@
 烈性酒  l ie4 x ing4 j iu3
 黄家  h uang2 j ia1
 轻松版  q ing1 s ong1 b an3
-亲情版  q in1|q ing4 q ing2 b an3
+亲情版 null
 超牛  ch ao1 n iu2
 以谢天下  ii i3 x ie4 t ian1 x ia4
 低端  d i1 d uan1
@@ -2310,7 +2346,7 @@
 技术分析  j i4 sh u4 f en1 x i5
 微网  uu ui1 uu uang3
 津市  j in1 sh ix4
-不使用  b u2|b u4 sh ix3 ii iong4
+不使用 null
 乌兰察布  uu u1 l an2 ch a2 b u4
 龙沙区  l ong2 sh a1 q v1
 完美联盟  uu uan2 m ei3 l ian2 m eng2
@@ -2325,7 +2361,7 @@
 银证  ii in2 zh eng4
 代理资格  d ai4 l i3 z iy1 g e2
 回邮  h ui2 ii iu2
-几度梅花发  j i1|j i3 d u4|d uo2 m ei2 h ua1 f a1|f a4
+几度梅花发 null
 砸蛋  z a2 d an4
 金派  j in1 p ai4
 一号双机  ii i1 h ao4 sh uang1 j i1
@@ -2335,8 +2371,8 @@
 哈萨克  h a1 s a4 k e4
 加拉班  j ia1 l a1 b an1
 交运  j iao1 vv vn4
-几点钟  j i1|j i3 d ian3 zh ong1
-偏少  p ian1 sh ao3|sh ao4
+几点钟 null
+偏少 null
 视具体情况  sh ix4 j v4 t i3 q ing2 k uang4
 剩余资金  sh eng4 vv v2 z iy1 j in1
 彩信可选包  c ai3 x in4 k e3 x van3 b ao1
@@ -2346,7 +2382,7 @@
 罗塔岛  l uo2 t a3 d ao3
 南坪西路  n an2 p ing2 x i1 l u4
 门源  m en2 vv van2
-控制设计  k ong4 zh ix4|k ong4 zh ix5 sh e4 j i4|sh e4 j i5
+控制设计 null
 新三板  x in1 s an1 b an3
 法律风险  f a3 l v4 f eng1 x ian3
 刘德元  l iu2 d e2 vv van2
@@ -2371,8 +2407,9 @@
 浑源县  h un2 vv van2 x ian4
 苏黎世  s u1 l i2 sh ix4
 实现企业  sh ix2 x ian4 q i3 ii ie4
+和声 null
 手机上网包  sh ou3 j i1 sh ang4 uu uang3 b ao1
-作秀  z uo1|z uo4 x iu4
+作秀 null
 短学制  d uan3 x ve2 zh ix4
 如何收费  r u2 h e2 sh ou1 f ei4
 巫山县  uu u1 sh an1 x ian4
@@ -2395,6 +2432,7 @@
 布拉瓦约  b u4 l a1 uu ua3 vv ve1
 台北地区  t ai2 b ei3 d i4 q v1
 虎林市  h u3 l in2 sh ix4
+塞拉 null
 阳明  ii iang2 m ing2
 包袋  b ao1 d ai4
 保管箱业务  b ao2 g uan3 x iang1 ii ie4 uu u4
@@ -2417,11 +2455,14 @@
 每笔消费  m ei3 b i3 x iao1 f ei4
 克利夫兰  k e4 l i4 f u1 l an2
 自拍照  z iy4 p ai1 zh ao4
-股份发行人  g u3 f en4 f a1|f a4 x ing2 r en2
+股份发行人  g u3 f en4 f a1 x ing2 r en2
+约翰内斯堡 null
 账户号  zh ang4 h u4 h ao4
 临沧市  l in2 c ang1 sh ix4
 国足  g uo2 z u2
 瓦房店  uu ua3 f ang2 d ian4
+自己的需要 null
+华翼 null
 受理停  sh ou4 l i3 t ing2
 是否会计  sh ix4 f ou3 k uai4 j i5
 萨尔图  s a4 ee er3 t u2
@@ -2432,17 +2473,18 @@
 派对  p ai4 d ui4
 向阳区  x iang4 ii iang2 q v1
 麦克马斯特  m ai4 k e4 m a3 s iy1 t e4
+和好 null
 投标法  t ou2 b iao1 f a3
 蝴蝶行动  h u2 d ie2 x ing2 d ong4
 消费申请  x iao1 f ei4 sh en1 q ing3
 初创期  ch u1 ch uang4 q i1
 但系  d an4 j i4
 培训时间  p ei2 x vn4 sh ix2 j ian1
-不同步  b u2|b u4 t ong2 b u4
+不同步  b u4 t ong2 b u4
 沪深  h u4 sh en1
 新钛度  x in1 t ai4 d u4
 微信公众号  uu ui1 x in4 g ong1 zh ong4 h ao4
-假币  j ia3|j ia4 b i4
+假币 null
 谢通门  x ie4 t ong1 m en2
 号段  h ao4 d uan4
 泰文  t ai4 uu un2
@@ -2462,29 +2504,29 @@
 松仁路  s ong1 r en2 l u4
 新奥尔良  x in1 aa ao4 ee er3 l iang2
 紫溪  z iy3 x i1
-朝阳区  ch ao2 ii iang2|zh ao1 ii iang2 q v1
+朝阳区 null
 恒泰  h eng2 t ai4
 话费版  h ua4 f ei4 b an3
 言情  ii ian2 q ing2
 付款保函  f u4 k uan3 b ao3 h an2
 健康信息  j ian4 k ang1 x in4 x i1
 备份  b ei4 f en4
-将爱  j iang1|j iang4 aa ai4
+将爱 null
 自定  z iy4 d ing4
 高清电信电视  g ao1 q ing1 d ian4 x in4 d ian4 sh ix4
 黑客  h ei1 k e4
 未加入  uu ui4 j ia1 r u4
 城乡居民  ch eng2 x iang1 j v1 m in2
 开门  k ai1 m en2
-不想定  b u2|b u4 x iang3 d ing4
+不想定 null
 芯片密码技术  x in1 p ian4 m i4 m a3 j i4 sh u4
 股份变动  g u3 f en4 b ian4 d ong4
 波托维耶霍  b o1 t uo1 uu ui2 ii ie1 h uo4
 品厂  p in3 ch ang3
 经济厅  j ing1 j i4 t ing1
-关不掉  g uan1 b u2|b u4 d iao4
+关不掉 null
 南阳路  n an2 ii iang2 l u4
-发点  f a1|f a4 d ian3
+发点 null
 上个星期三  sh ang4 g e4 x ing1 q i1 s an1
 申请阶段  sh en1 q ing3 j ie1 d uan4
 吕梁  l v3 l iang2
@@ -2494,13 +2536,14 @@
 理财费用  l i3 c ai2 f ei4 ii iong4
 力阻  l i4 z u3
 上个星期一  sh ang4 g e4 x ing1 q i1 ii i1
-档次利率  d ang3 c iy4|d ang4 c iy4 l i4 l v4
+档次利率 null
 收取月功能费  sh ou1 q v3 vv ve4 g ong1 n eng2 f ei4
 打话费  d a3 h ua4 f ei4
 高品质  g ao1 p in3 zh ix4
 照实  zh ao4 sh ix2
 撤机  ch e4 j i1
 请给予  q ing3 j i2 vv v3
+政和 null
 自民党  z iy4 m in2 d ang3
 磁器口  c iy2 q i4 k ou3
 产品组合  ch an2 p in3 z u3 h e2
@@ -2548,7 +2591,7 @@
 代缴费  d ai4 j iao3 f ei4
 若干意见  r uo4 g an1 ii i4 j ian5
 刚开户  g ang1 k ai1 h u4
-尉犁  uu ui4|vv v4 l i2
+尉犁 null
 先付款  x ian1 f u4 k uan3
 账户信息  zh ang4 h u4 x in4 x i1
 需于  x v1 vv v2
@@ -2582,7 +2625,7 @@
 上虞市  sh ang4 vv v2 sh ix4
 爱易通  aa ai4 ii i4 t ong1
 电话线宽带  d ian4 h ua4 x ian4 k uan1 d ai4
-镇魔曲  zh en4 m o2 q v1|q v3
+镇魔曲 null
 吐槽  t u3 c ao2
 复位  f u4 uu ui4
 跨地区  k ua4 d i4 q v1
@@ -2591,7 +2634,7 @@
 海航机票  h ai3 h ang2 j i1 p iao4
 技能型人才  j i4 n eng2 x ing2 r en2 c ai2
 赛程  s ai4 ch eng2
-教育部  j iao4 vv v4|j iao4 vv v5 b u4
+教育部 null
 起皮  q i3 p i2
 德胜  d e2 sh eng4
 商业街  sh ang1 ii ie4 j ie1
@@ -2607,7 +2650,7 @@
 田村  t ian2 c un1
 货币类型  h uo4 b i4 l ei4 x ing2
 台港  t ai2 g ang3
-电影制片厂  d ian4 ii ing3 zh ix4 p ian1|zh ix4 p ian4 ch ang3
+电影制片厂 null
 外资企业  uu uai4 z iy1 q i3 ii ie4
 翼卡通  ii i4 k a3 t ong1
 多产品选择  d uo1 ch an2 p in3 x van3 z e2
@@ -2637,7 +2680,7 @@
 发展战略  f a1 zh an3 zh an4 l ve4
 机顶  j i1 d ing3
 南山路  n an2 sh an1 l u4
-转账还款  zh uan3|zh uan4 zh ang4 h uan2 k uan3
+转账还款 null
 操控  c ao1 k ong4
 全球资产  q van2 q iu2 z iy1 ch an3
 商河县  sh ang1 h e2 x ian4
@@ -2667,7 +2710,7 @@
 猎鱼达人  l ie4 vv v2 d a2 r en2
 绥芬河  s ui2 f en1 h e2
 圆梦法兰西  vv van2 m eng4 f a3 l an2 x i1
-呼叫转到  h u1 j iao4 zh uan3|zh uan4 d ao4
+呼叫转到 null
 改回  g ai3 h ui2
 芒特艾萨  m ang2 t e4 aa ai4 s a4
 网点资源  uu uang2 d ian3 z iy1 vv van2
@@ -2679,7 +2722,7 @@
 月基本费  vv ve4 j i1 b en3 f ei4
 那个地址  n a4 g e5 d i4 zh ix3
 网银功能  uu uang3 ii in2 g ong1 n eng2
-亚热带气候  ii ia4 r e4 d ai4 q i4 h ou4|q i4 h ou5
+亚热带气候 null
 购新品  g ou4 x in1 p in3
 恒丰路  h eng2 f eng1 l u4
 电板  d ian4 b an3
@@ -2693,7 +2736,7 @@
 佳程  j ia1 ch eng2
 个人消费类  g e4 r en2 x iao1 f ei4 l ei4
 征街  zh eng1 j ie1
-不付费  b u2|b u4 f u4 f ei4
+不付费 null
 患有风湿病  h uan4 ii iu3 f eng1 sh ix1 b ing4
 查积分  ch a2 j i1 f en1
 呼市  h u1 sh ix4
@@ -2717,13 +2760,13 @@
 张信哲  zh ang1 x in4 zh e2
 雁城  ii ian4 ch eng2
 同比  t ong2 b i3
-不限时  b u2|b u4 x ian4 sh ix2
+不限时 null
 付账  f u4 zh ang4
 齐享  q i2 x iang3
 名黑奴饭  m ing2 h ei1 n u2 f an4
 寻乌县  x vn2 uu u1 x ian4
 老密码  l ao3 m i4 m a3
-外币结汇  uu uai4 b i4 j ie1|j ie2 h ui4
+外币结汇 null
 哎呦  aa ai1 ii iu1
 本月办  b en3 vv ve4 b an4
 乌鲁瓜亚纳  uu u1 l u3 g ua1 ii ia4 n a4
@@ -2748,13 +2791,13 @@
 淮北市  h uai2 b ei3 sh ix4
 泛欧  f an4 oo ou1
 开户许可证  k ai1 h u4 x v2 k e3 zh eng4
-成人片  ch eng2 r en2 p ian1|p ian4
+成人片 null
 鲍国明  b ao4 g uo2 m ing2
 操作功能  c ao1 z uo4 g ong1 n eng2
-分公司  f en1|f en4 g ong1 s iy1
+分公司 null
 回铃  h ui2 l ing2
 限时  x ian4 sh ix2
-不合法  b u2|b u4 h e2 f a3
+不合法 null
 南航  n an2 h ang2
 马里亚纳群岛  m a2 l i3 ii ia4 n a4 q vn2 d ao3
 良乡  l iang2 x iang1
@@ -2774,8 +2817,9 @@
 技术手段  j i4 sh u4 sh ou3 d uan4
 小南河  x iao3 n an2 h e2
 税前  sh ui4 q ian2
+更新为 null
 塘村  t ang2 c un1
-军分区  j vn1 f en1|f en4 q v1
+军分区 null
 两个因素  l iang3 g e5 ii in1 s u4
 专门委员会  zh uan1 m en2 uu ui3 vv van2 h ui4
 银通  ii in2 t ong1
@@ -2810,7 +2854,7 @@
 您一通电话  n in2 ii i1 t ong1 d ian4 h ua4
 黄金版  h uang2 j in1 b an3
 小企业客户  x iao3 q i3 ii ie4 k e4 h u4
-会不会要  h ui4 b u2 h ui4|h ui4 b u5 h ui4 ii iao4
+会不会要 null
 全球眼  q van2 q iu2 ii ian3
 覆盖城市  f u4 g ai4 ch eng2 sh ix4
 磊科  l ei3 k e1
@@ -2826,10 +2870,10 @@
 联通  l ian2 t ong1
 娱乐频道  vv v2 l e4 p in2 d ao4
 比绍夫斯霍芬  b i3 sh ao4 f u1 s iy1 h uo4 f en1
-济州  j i3|j i4 zh ou1
+济州 null
 普及率  p u3 j i2 l v4
-翼安铺  ii i4 aa an1 p u1|p u4
-工程设计  g ong1 ch eng2 sh e4 j i4|sh e4 j i5
+翼安铺 null
+工程设计 null
 全部图标  q van2 b u4 t u2 b iao1
 马来  m a3 l ai2
 保障金  b ao3 zh ang4 j in1
@@ -2873,18 +2917,19 @@
 布尔诺  b u4 ee er3 n uo4
 人事部  r en2 sh ix4 b u4
 指定交易  zh ix3 d ing4 j iao1 ii i4
-同济  t ong2 j i3|j i4
+同济 null
 境内客户  j ing4 n ei4 k e4 h u4
 经营百年  j ing1 ii ing2 b ai3 n ian2
 记忆符号  j i4 ii i4 f u2 h ao4
-登录步骤  d eng1 l u4 b u4 zh ou4|b u4 zh ou5
+银都 null
+登录步骤 null
 小文化企业  x iao3 uu un2 h ua4 q i3 ii ie4
 巴南区  b a1 n an2 q v1
 或者是  h uo4 zh e3 sh ix4
 奥林匹亚  aa ao4 l in2 p i3 ii ia4
 电信手机  d ian4 x in4 sh ou3 j i1
 充电器  ch ong1 d ian4 q i4
-得不到  d e2|d e5|d ei3 b u2 d ao4
+得不到 null
 脑科  n ao3 k e1
 自律  z iy4 l v4
 理融资方案  l i3 r ong2 z iy1 f ang1 aa an4
@@ -2892,7 +2937,7 @@
 莲花桥  l ian2 h ua1 q iao2
 贴膜  t ie1 m o2
 农产通达  n ong2 ch an3 t ong1 d a2
-冠英园  g uan1|g uan4 ii ing1 vv van2
+冠英园 null
 楚天  ch u3 t ian1
 瓜德罗普  g ua1 d e2 l uo2 p u3
 奢侈品网站  sh e1 ch ix3 p in3 uu uang3 zh an4
@@ -2900,11 +2945,12 @@
 通讯线路故障  t ong1 x vn4 x ian4 l u4 g u4 zh ang4
 合水路  h e2 sh ui3 l u4
 金牛座  j in1 n iu2 z uo4
-跨行转账  k ua4 h ang2 zh uan3|zh uan4 zh ang4
+跨行转账 null
 劳动力资源  l ao2 d ong4 l i4 z iy1 vv van2
 限制打  x ian4 zh ix4 d a3
 用款  ii iong4 k uan3
 晚一点  uu uan3 ii i4 d ian3
+北京协和医院  b ei3 j ing1 x ie2 h e2 ii i1 vv van4
 收妥  sh ou1 t uo3
 萨拉热窝  s a4 l a1 r e4 uu uo1
 自主版  z iy4 zh u3 b an3
@@ -2913,12 +2959,13 @@
 南莲  n an2 l ian2
 服务产品  f u2 uu u4 ch an2 p in3
 通单位客户  t ong1 d an1 uu ui4 k e4 h u4
-少用  sh ao3|sh ao4 ii iong4
+少用 null
 双向宝  sh uang1 x iang4 b ao3
 秀峰  x iu4 f eng1
 收包月费  sh ou1 b ao1 vv ve4 f ei4
 阅点  vv ve4 d ian3
 禹州  vv v3 zh ou1
+饱和平时  b ao3 h e2 p ing2 sh ix2
 西安市  x i1 aa an1 sh ix4
 总行大厦  z ong3 h ang2 d a4 sh a4
 取款机  q v3 k uan3 j i1
@@ -2930,6 +2977,7 @@
 马桥  m a3 q iao2
 两路镇  l iang3 l u4 zh en4
 包半年  b ao1 b an4 n ian2
+和平 null
 沙河口区  sh a1 h e2 k ou3 q v1
 是否可  sh ix4 f ou3 k e3
 证明原件  zh eng4 m ing2 vv van2 j ian4
@@ -2938,13 +2986,13 @@
 晚七点  uu uan3 q i1 d ian3
 卖萌  m ai4 m eng2
 联储声明  l ian2 ch u3 sh eng1 m ing2
-泡水  p ao1|p ao4 sh ui3
+泡水 null
 铃音  l ing2 ii in1
 古城路  g u3 ch eng2 l u4
 成名作  ch eng2 m ing2 z uo4
 葫芦岛市  h u2 l u5 d ao3 sh ix4
 领导权  l ing2 d ao3 q van2
-用不完  ii iong4 b u2|b u4 uu uan2
+用不完 null
 橡皮擦  x iang4 p i2 c a1
 跪求  g ui4 q iu2
 金融业  j in1 r ong2 ii ie4
@@ -2959,7 +3007,7 @@
 发展需要  f a1 zh an3 x v1 ii iao4
 柳北区  l iu3 b ei3 q v1
 税号  sh ui4 h ao4
-四联总处  s iy4 l ian2 z ong3 ch u3|ch u4
+四联总处 null
 日照市  r iz4 zh ao4 sh ix4
 稍后  sh ao1 h ou4
 自恋  z iy4 l ian4
@@ -2988,6 +3036,7 @@
 研究机会  ii ian2 j iu1 j i1 h ui4
 石化龙胜路  sh ix2 h ua4 l ong2 sh eng4 l u4
 本手机  b en3 sh ou3 j i1
+塞卜拉泰 null
 高宽  g ao1 k uan1
 优秀董事局  ii iu1 x iu4 d ong3 sh ix4 j v2
 像素高  x iang4 s u4 g ao1
@@ -3004,21 +3053,23 @@
 点心店  d ian3 x in5 d ian4
 惠缴费  h ui4 j iao3 f ei4
 爱剧社  aa ai4 j v4 sh e4
-无可挑剔  uu u2 k e3 t iao1 t i4|t iao1 t i5
+特立尼达和多巴哥 null
+无可挑剔 null
 鸡西市  j i1 x i1 sh ix4
-转出账户  zh uan3|zh uan4 ch u1 zh ang4 h u4
+转出账户 null
 分期付款  f en1 q i1 f u4 k uan3
 委托人服务  uu ui3 t uo1 r en2 f u2 uu u4
 多出  d uo1 ch u1
 如意宝  r u2 ii i4 b ao3
 投资服务  t ou2 z iy1 f u2 uu u4
-泡泡  p ao1|p ao4 p ao1|p ao4
+泡泡 null
 光宽带  g uang1 k uan1 d ai4
+汉堡王 null
 馒头君  m an2 t ou5 j vn1
 华夏红利  h ua2 x ia4 h ong2 l i4
 快线  k uai4 x ian4
 查询一下  ch a2 x vn2 ii i2 x ia4
-入境处  r u4 j ing4 ch u3|ch u4
+入境处 null
 打不通  d a3 b u4 t ong1
 私人账户  s iy1 r en2 zh ang4 h u4
 配菜  p ei4 c ai4
@@ -3026,10 +3077,10 @@
 合格证  h e2 g e2 zh eng4
 小白  x iao3 b ai2
 证件号码  zh eng4 j ian4 h ao4 m a3
-中心路  zh ong1|zh ong4 x in1 l u4
-哪只  n a3 zh ix1|zh ix3
+中心路  zh ong1 x in1 l u4
+哪只 null
 培生  p ei2 sh eng1
-群发短信  q vn2 f a1|f a4 d uan3 x in4
+群发短信 null
 防水  f ang2 sh ui3
 杨雄  ii iang2 x iong2
 农保缴费  n ong2 b ao3 j iao3 f ei4
@@ -3044,8 +3095,9 @@
 天翼大众  t ian1 ii i4 d a4 zh ong4
 料件  l iao4 j ian4
 一环东路  ii i1 h uan2 d ong1 l u4
+塞维利亚 null
 兴义市  x ing1 ii i4 sh ix4
-打不进  d a3 b u2|b u4 j in4
+打不进 null
 天翼体育  t ian1 ii i4 t i3 vv v4
 语音王  vv v3 ii in1 uu uang2
 扣功能费  k ou4 g ong1 n eng2 f ei4
@@ -3067,15 +3119,15 @@
 边贸网  b ian1 m ao4 uu uang3
 金瑞  j in1 r ui4
 刚果布  g ang1 g uo3 b u4
-勾选  g ou1|g ou4 x van3
+勾选 null
 泉灵  q van2 l ing2
 鹰潭市  ii ing1 t an2 sh ix4
 萨德伯里  s a4 d e2 b o2 l i3
-哦哦  oo o2|oo o4 oo o2|oo o4
+哦哦 null
 商户名称  sh ang1 h u4 m ing2 ch eng1
 江猪媳  j iang1 zh u1 x i2
 您所愿  n in2 s uo3 vv van4
-代金卷  d ai4 j in1 j van3|j van4
+代金卷 null
 烧烤  sh ao1 k ao3
 存贷  c un2 d ai4
 周六周日  zh ou1 l iu4 zh ou1 r iz4
@@ -3098,7 +3150,7 @@
 外汇市场  uu uai4 h ui4 sh ix4 ch ang3
 外卖  uu uai4 m ai4
 未成年人  uu ui4 ch eng2 n ian2 r en2
-将好友  j iang1|j iang4 h ao2 ii iu3
+将好友 null
 整合  zh eng3 h e2
 整体品牌  zh eng2 t i3 p in3 p ai2
 携程  x ie2 ch eng2
@@ -3110,7 +3162,7 @@
 劳务出口  l ao2 uu u4 ch u1 k ou3
 肃州区  s u4 zh ou1 q v1
 天元  t ian1 vv van2
-金马载福  j in1 m a3 z ai3|z ai4 f u2
+金马载福 null
 圣克鲁斯  sh eng4 k e4 l u3 s iy1
 雅宝路  ii ia3 b ao3 l u4
 非柜台  f ei1 g ui4 t ai2
@@ -3124,7 +3176,7 @@
 合约号  h e2 vv ve1 h ao4
 天翼生活  t ian1 ii i4 sh eng1 h uo2
 小米月月送  x iao2 m i3 vv ve4 vv ve4 s ong4
-研发机构  ii ian2 f a1|f a4 j i1 g ou4
+研发机构 null
 飞马  f ei1 m a3
 货品类  h uo4 p in3 l ei4
 金融工具  j in1 r ong2 g ong1 j v4
@@ -3132,7 +3184,7 @@
 卢森堡位  l u2 s en1 b ao3 uu ui4
 集宁  j i2 n ing4
 监管业务  j ian1 g uan3 ii ie4 uu u4
-中央处理器  zh ong1 ii iang1 ch u2 l i3|ch u4 l i3 q i4
+中央处理器 null
 新开户  x in1 k ai1 h u4
 素攀武里  s u4 p an1 uu u3 l i3
 法定代表人  f a3 d ing4 d ai4 b iao3 r en2
@@ -3156,7 +3208,7 @@
 城管  ch eng2 g uan3
 学生套餐  x ve2 sh eng1 t ao4 c an1
 攻守  g ong1 sh ou3
-不清不楚  b u2|b u4 q ing1 b u2|b u4 ch u3
+不清不楚 null
 来宾市  l ai2 b in1 sh ix4
 三国同盟  s an1 g uo2 t ong2 m eng2
 扶贫月  f u2 p in2 vv ve4
@@ -3180,7 +3232,7 @@
 汇款金额  h ui4 k uan3 j in1 ee e2
 浓情  n ong2 q ing2
 网点名录  uu uang3 d ian3 m ing2 l u4
-奇乐  j i1|q i2 l e4|vv ve4
+奇乐 null
 湖南台  h u2 n an2 t ai2
 自报  z iy4 b ao4
 姆巴皮齐  m u3 b a1 p i2 q i2
@@ -3240,6 +3292,7 @@
 莫吉廖夫  m o4 j i2 l iao4 f u1
 值机  zh ix2 j i1
 金彩缤纷  j in1 c ai3 b in1 f en1
+塞班岛 null
 周日  zh ou1 r iz4
 北洋政府  b ei3 ii iang2 zh eng4 f u3
 公司章程  g ong1 s iy1 zh ang1 ch eng2
@@ -3292,7 +3345,7 @@
 鹰潭  ii ing1 t an2
 城东路  ch eng2 d ong1 l u4
 融资支持  r ong2 z iy1 zh ix1 ch ix2
-外经处  uu uai4 j ing1|j ing4 ch u3|ch u4
+外经处 null
 抽奖活动  ch ou1 j iang3 h uo2 d ong4
 博克拉  b o2 k e4 l a1
 明山区  m ing2 sh an1 q v1
@@ -3318,7 +3371,7 @@
 小票  x iao3 p iao4
 保证金管理  b ao3 zh eng4 j in1 g uan2 l i3
 宋家庄  s ong4 j ia1 zh uang1
-供应商  g ong1 ii ing4|g ong4 ii ing4 sh ang1
+供应商 null
 李源潮  l i3 vv van2 ch ao2
 惊悚镇  j ing1 s ong3 zh en4
 签字笔  q ian1 z iy4 b i3
@@ -3346,7 +3399,7 @@
 安吉县  aa an1 j i2 x ian4
 技术咨询  j i4 sh u4 z iy1 x vn2
 现汇贷款  x ian4 h ui4 d ai4 k uan3
-大发  d a4|d ai4 f a1|f a4
+大发 null
 票据结构性  p iao4 j v4 j ie2 g ou4 x ing4
 数图  sh u4 t u2
 彩金  c ai3 j in1
@@ -3356,8 +3409,8 @@
 雄州  x iong2 zh ou1
 慈城  c iy2 ch eng2
 新低  x in1 d i1
-需不需要  x v1 b u2|b u4 x v1 ii iao4
-可转账余额  k e3 zh uan3|zh uan4 zh ang4 vv v2 ee e2
+需不需要 null
+可转账余额 null
 卢浮宫  l u2 f u2 g ong1
 天心区  t ian1 x in1 q v1
 黄金市场  h uang2 j in1 sh ix4 ch ang3
@@ -3408,7 +3461,7 @@
 开票人  k ai1 p iao4 r en2
 贵宾版  g ui4 b in1 b an3
 活跃程度  h uo2 vv ve4 ch eng2 d u4
-卡罗维发利  k a3|q ia3 l uo2 uu ui2 f a1|f a4 l i4
+卡罗维发利 null
 充电宝  ch ong1 d ian4 b ao3
 买断式  m ai3 d uan4 sh ix4
 一回事  ii i1 h ui2 sh ix4
@@ -3427,7 +3480,7 @@
 烦死了  f an2 s iy3 l e5
 汉莎  h an4 sh a1
 圣路易斯波托西  sh eng4 l u4 ii i4 s iy1 b o1 t uo1 x i1
-亲情网  q in1|q ing4 q ing2 uu uang3
+亲情网 null
 留学贷  l iu2 x ve2 d ai4
 易达金卡  ii i4 d a2 j in1 k a3
 外币旅行支票  uu uai4 b i4 l v3 x ing2 zh ix1 p iao4
@@ -3441,6 +3494,7 @@
 高息  g ao1 x i1
 记不住  j i4 b u2 zh u4
 全球化进程  q van2 q iu2 h ua4 j in4 ch eng2
+天和 null
 往来账户  uu uang3 l ai2 zh ang4 h u4
 山北路  sh an1 b ei3 l u4
 姓名拼音  x ing4 m ing2 p in1 ii in1
@@ -3460,7 +3514,7 @@
 香蜜  x iang1 m i4
 移存  ii i2 c un2
 便利食物  b ian4 l i4 sh ix2 uu u4
-第三个  d i4 s an1 g e4|s an1 g e5
+第三个  d i4 s an1 g e4
 魔兽  m o2 sh ou4
 授信支持  sh ou4 x in4 zh ix1 ch ix2
 里斯本分行  l i3 s iy1 b en3 f en1 h ang2
@@ -3470,6 +3524,7 @@
 付钱  f u4 q ian2
 榕城  r ong2 ch eng2
 一款签证  ii i1 k uan3 q ian1 zh eng4
+马家堡 null
 承包商  ch eng2 b ao1 sh ang1
 天气质量  t ian1 q i4 zh ix4 l iang4
 中央五台  zh ong1 ii iang1 uu u3 t ai2
@@ -3478,16 +3533,17 @@
 台盟  t ai2 m eng2
 天哪  t ian1 n a3
 中国银行网点  zh ong1 g uo2 ii in2 h ang2 uu uang2 d ian3
-自身供应链  z iy4 sh en1 g ong1 ii ing4|g ong4 ii ing4 l ian4
+自身供应链 null
 镇赉  zh en4 l ai4
 梁祝  l iang2 zh u4
 陈港  ch en2 g ang3
+维多利亚堡 null
 帐户余额  zh ang4 h u4 vv v2 ee e2
 购物券  g ou4 uu u4 q van4
 近几天  j in4 j i3 t ian1
 北京饭店  b ei3 j ing1 f an4 d ian4
 采购人  c ai3 g ou4 r en2
-通讯设备  t ong1 x vn4 sh e4 b ei4|sh e4 b ei5
+通讯设备 null
 洋河  ii iang2 h e2
 托收金额  t uo1 sh ou1 j in1 ee e2
 用不成  ii iong4 b u4 ch eng2
@@ -3499,6 +3555,7 @@
 购各商户  g ou4 g e4 sh ang1 h u4
 赵翠  zh ao4 c ui4
 新购买  x in1 g ou4 m ai3
+兴华园小区 null
 黄村  h uang2 c un1
 学运  x ve2 vv vn4
 洛阳市  l uo4 ii iang2 sh ix4
@@ -3511,7 +3568,7 @@
 人民币款项  r en2 m in2 b i4 k uan3 x iang4
 射精  sh e4 j ing1
 布德沃尔  b u4 d e2 uu uo4 ee er3
-需不需要收  x v1 b u2|b u4 x v1 ii iao4 sh ou1
+需不需要收 null
 二十二日  ee er4 sh ix2 ee er4 r iz4
 张家渡  zh ang1 j ia1 d u4
 网银客户  uu uang3 ii in2 k e4 h u4
@@ -3538,7 +3595,7 @@
 存量  c un2 l iang4
 金融市场类  j in1 r ong2 sh ix4 ch ang3 l ei4
 医疗保健  ii i1 l iao2 b ao3 j ian4
-月结发票  vv ve4 j ie1|j ie2 f a1 p iao4
+月结发票 null
 评价报告  p ing2 j ia4 b ao4 g ao4
 怒江州  n u4 j iang1 zh ou1
 温特图尔  uu un1 t e4 t u2 ee er3
@@ -3548,7 +3605,7 @@
 万事达标识  uu uan4 sh ix4 d a2 b iao1 sh ix2
 动车站  d ong4 ch e1 zh an4
 卡尔古利  k a2 ee er3 g u3 l i4
-高等教育  g ao1 d eng3 j iao4 vv v4|j iao4 vv v5
+高等教育 null
 新光  x in1 g uang1
 跑男  p ao3 n an2
 艺品  ii i4 p in3
@@ -3573,7 +3630,7 @@
 脑筋急转弯  n ao3 j in1 j i2 zh uan3 uu uan1
 战争戏  zh an4 zh eng1 x i4
 澳元账户  aa ao4 vv van2 zh ang4 h u4
-不夜城  b u2|b u4 ii ie4 ch eng2
+不夜城 null
 豆豆钱  d ou4 d ou4 q ian2
 营业大厅  ii ing2 ii ie4 d a4 t ing1
 自由演绎  z iy4 ii iu2 ii ian3 ii i4
@@ -3585,10 +3642,10 @@
 渡口路  d u4 k ou3 l u4
 飞行时间  f ei1 x ing2 sh ix2 j ian1
 归零  g ui1 l ing2
-漫乐吧  m an4 l e4|vv ve4 b a1|b a5
+漫乐吧 null
 兴国县  x ing1 g uo2 x ian4
 雅思  ii ia3 s iy1
-教育考试类  j iao4 vv v4|j iao4 vv v5 k ao3 sh ix4 l ei4
+教育考试类 null
 汇入资金  h ui4 r u4 z iy1 j in1
 会计政策  k uai4 j i5 zh eng4 c e4
 研究生院  ii ian2 j iu1 sh eng1 vv van4
@@ -3625,7 +3682,7 @@
 杭锦后  h ang2 j in3 h ou4
 咋整  z a3 zh eng3
 武鸣县  uu u3 m ing2 x ian4
-曲靖市  q v1 j ing4|q v3 j ing4 sh ix4
+曲靖市 null
 吉田  j i2 t ian2
 金税  j in1 sh ui4
 自有  z iy4 ii iu3
@@ -3633,7 +3690,7 @@
 邮储银行  ii iu2 ch u3 ii in2 h ang2
 友精  ii iu3 j ing1
 当月办  d ang1 vv ve4 b an4
-原材料供应  vv van2 c ai2 l iao4 g ong1 ii ing4|g ong4 ii ing4
+原材料供应 null
 弗兰克  f u2 l an2 k e4
 经营公司  j ing1 ii ing2 g ong1 s iy1
 后交钱  h ou4 j iao1 q ian2
@@ -3670,14 +3727,14 @@
 洛江  l uo4 j iang1
 国际学生  g uo2 j i4 x ve2 sh eng1
 甜美可爱  t ian2 m ei3 k e3 aa ai4
-群发器  q vn2 f a1|f a4 q i4
+群发器 null
 外汇管理局  uu uai4 h ui4 g uan2 l i3 j v2
 资金委托  z iy1 j in1 uu ui3 t uo1
 小秘书  x iao3 m i4 sh u1
 购商场  g ou4 sh ang1 ch ang3
 广饶县  g uang3 r ao2 x ian4
 很多城市  h en3 d uo1 ch eng2 sh ix4
-阳曲县  ii iang2 q v1|q v3 x ian4
+阳曲县 null
 迪埃戈苏瓦雷斯  d i2 aa ai1 g e1 s u1 uu ua3 l ei2 s iy1
 休达  x iu1 d a2
 研究报告  ii ian2 j iu1 b ao4 g ao4
@@ -3685,10 +3742,10 @@
 安泽县  aa an1 z e2 x ian4
 多增  d uo1 z eng1
 新华区  x in1 h ua2 q v1
-精神生活  j ing1 sh en2|j ing1 sh en5 sh eng1 h uo2
+精神生活 null
 疯抢  f eng1 q iang3
 英文姓名  ii ing1 uu un2 x ing4 m ing2
-好多次  h ao3|h ao4 d uo1 c iy4
+好多次  h ao3 d uo1 c iy4
 零手续费  l ing2 sh ou3 x v4 f ei4
 棋牌  q i2 p ai2
 薛甜  x ve1 t ian2
@@ -3704,7 +3761,7 @@
 来电保  l ai2 d ian4 b ao3
 长汀县  ch ang2 t ing1 x ian4
 金立  j in1 l i4
-安妮海瑟薇  aa an1 n i1|aa an1 n i2 h ai3 s e4 uu ui1
+安妮海瑟薇 null
 交易失败  j iao1 ii i4 sh ix1 b ai4
 更多选择  g eng4 d uo1 x van3 z e2
 津南区  j in1 n an2 q v1
@@ -3715,10 +3772,11 @@
 旗下  q i2 x ia4
 渠道经销商  q v2 d ao4 j ing1 x iao1 sh ang1
 黄楼  h uang2 l ou2
-特别之处  t e4 b ie2 zh ix1 ch u3|ch u4
+特别之处 null
 是否要收取  sh ix4 f ou3 ii iao4 sh ou1 q v3
 收取通信费  sh ou1 q v3 t ong1 x in4 f ei4
 实习评估  sh ix2 x i2 p ing2 g u1
+塞萨洛尼基 null
 这一个月  zh e4 ii i2 g e4 vv ve4
 东兴路  d ong1 x ing1 l u4
 法网狙击  f a2 uu uang3 j v1 j i1
@@ -3730,12 +3788,12 @@
 深圳市  sh en1 zh en4 sh ix4
 鼠年  sh u3 n ian2
 维多利亚城  uu ui2 d uo1 l i4 ii ia4 ch eng2
-几几年  j i1|j i3 j i1|j i3 n ian2
+几几年 null
 本站首页  b en3 zh an4 sh ou3 ii ie4
 人民币收入  r en2 m in2 b i4 sh ou1 r u4
 多多  d uo1 d uo1
 交费助手  j iao1 f ei4 zh u4 sh ou3
-不支持  b u2|b u4 zh ix1 ch ix2
+不支持 null
 乡宁县  x iang1 n ing2 x ian4
 金风硕果  j in1 f eng1 sh uo4 g uo3
 霉天  m ei2 t ian1
@@ -3748,7 +3806,7 @@
 传统优势  ch uan2 t ong3 ii iu1 sh ix4
 投资者资金  t ou2 z iy1 zh e3 z iy1 j in1
 公益捐款  g ong1 ii i4 j van1 k uan3
-用不掉  ii iong4 b u2|b u4 d iao4
+用不掉 null
 新加坡元  x in1 j ia1 p o1 vv van2
 股通  g u3 t ong1
 深南  sh en1 n an2
@@ -3756,7 +3814,7 @@
 听爱  t ing1 aa ai4
 货币供应量  h uo4 b i4 g ong1 ii ing4 l iang4
 接收到  j ie1 sh ou1 d ao4
-教工  j iao1|j iao4 g ong1
+教工 null
 艾米加油  aa ai4 m i3 j ia1 ii iu2
 八一路  b a1 ii i2 l u4
 北辰区  b ei3 ch en2 q v1
@@ -3797,7 +3855,7 @@
 添加  t ian1 j ia1
 服务平台  f u2 uu u4 p ing2 t ai2
 楼市  l ou2 sh ix4
-深发  sh en1 f a1|f a4
+深发 null
 常德市  ch ang2 d e2 sh ix4
 林风  l in2 f eng1
 卓刀泉  zh uo2 d ao1 q van2
@@ -3849,7 +3907,7 @@
 每隔  m ei3 g e2
 售后  sh ou4 h ou4
 托收承付  t uo1 sh ou1 ch eng2 f u4
-大处  d a4|d ai4 ch u3|ch u4
+大处 null
 波斯顿  b o1 s iy1 d un4
 影阅  ii ing3 vv ve4
 猜也蓬府  c ai1 ii ie3 p eng2 f u3
@@ -3858,7 +3916,7 @@
 李早航  l i3 z ao3 h ang2
 如下  r u2 x ia4
 斯图加特  s iy1 t u2 j ia1 t e4
-包不包括  b ao1 b u2|b u4 b ao1 k uo4
+包不包括 null
 耳麦  ee er3 m ai4
 你麻痹  n i3 m a2 b i4
 传统工艺  ch uan2 t ong3 g ong1 ii i4
@@ -3889,7 +3947,7 @@
 顺庆区  sh un4 q ing4 q v1
 收费通知  sh ou1 f ei4 t ong1 zh ix1
 雪铁龙  x ve3 t ie3 l ong2
-不匹配  b u2|b u4 p i3 p ei4
+不匹配 null
 公司办  g ong1 s iy1 b an4
 路由  l u4 ii iu2
 评价意见  p ing2 j ia4 ii i4 j ian5
@@ -3900,7 +3958,7 @@
 贷记  d ai4 j i4
 油站  ii iu2 zh an4
 人民币境外  r en2 m in2 b i4 j ing4 uu uai4
-不太好  b u2|b u4 t ai4 h ao3|h ao4
+不太好 null
 套取  t ao4 q v3
 邮寄过程  ii iu2 j i4 g uo4 ch eng2
 空气质量  k ong1 q i4 zh ix4 l iang4
@@ -3913,7 +3971,7 @@
 可用性  k e3 ii iong4 x ing4
 类产品  l ei4 ch an2 p in3
 配货  p ei4 h uo4
-几个卡  j i3 g e4 k a3|q ia3
+几个卡 null
 日产  r iz4 ch an3
 南路  n an2 l u4
 国际汇款  g uo2 j i4 h ui4 k uan3
@@ -3931,6 +3989,7 @@
 收益平衡政策  sh ou1 ii i4 p ing2 h eng2 zh eng4 c e4
 皇姑区  h uang2 g u1 q v1
 评级报告  p ing2 j i2 b ao4 g ao4
+特克斯和凯科斯群岛 null
 经营范围  j ing1 ii ing2 f an4 uu ui2
 柯达  k e1 d a2
 消户  x iao1 h u4
@@ -3962,6 +4021,7 @@
 银行同业  ii in2 h ang2 t ong2 ii ie4
 辅币兑换券  f u3 b i4 d ui4 h uan4 q van4
 销售管家  x iao1 sh ou4 g uan3 j ia1
+哈里斯堡 null
 蛇口  sh e2 k ou3
 周浦  zh ou1 p u3
 出国旅游  ch u1 g uo2 l v3 ii iu2
@@ -3986,9 +4046,9 @@
 合同首页  h e2 t ong5 sh ou3 ii ie4
 收款时间  sh ou1 k uan3 sh ix2 j ian1
 机构网络  j i1 g ou4 uu uang3 l uo4
-斗士  d ou3|d ou4 sh ix4
+斗士 null
 浦口区  p u3 k ou3 q v1
-找回来  zh ao3 h ui2 l ai2|h ui2 l ai5
+找回来 null
 乌姆塔利  uu u1 m u3 t a3 l i4
 塔山西路  t a3 sh an1 x i1 l u4
 企业总机  q i3 ii ie4 z ong3 j i1
@@ -4011,7 +4071,7 @@
 复州  f u4 zh ou1
 永明路  ii iong3 m ing2 l u4
 植物瓜拉那  zh ix2 uu u4 g ua1 l a1 n a4
-设计咨询  sh e4 j i4|sh e4 j i5 z iy1 x vn2
+设计咨询 null
 船级社  ch uan2 j i2 sh e4
 临江北路  l in2 j iang1 b ei3 l u4
 雷塔卢莱乌  l ei2 t a3 l u2 l ai2 uu u1
@@ -4029,7 +4089,7 @@
 本产品  b en3 ch an2 p in3
 影音  ii ing3 ii in1
 桐柏英雄  t ong2 b ai3 ii ing1 x iong2
-教育福利  j iao4 vv v4|j iao4 vv v5 f u2 l i4
+教育福利 null
 驾照  j ia4 zh ao4
 流量币  l iu2 l iang4 b i4
 哪年  n a3 n ian2
@@ -4052,12 +4112,13 @@
 丽人汇  l i4 r en2 h ui4
 存款余额  c un2 k uan3 vv v2 ee e2
 服务业  f u2 uu u4 ii ie4
-债市供求  zh ai4 sh ix4 g ong1 q iu2|g ong4 q iu2
-藏独  c ang2|z ang4 d u2
+债市供求 null
+藏独 null
 有效期限  ii iu3 x iao4 q i1 x ian4
 资讯  z iy1 x vn4
 小脸  x iao3 l ian3
 数年  sh u4 n ian2
+啱乔  q iao2
 畅玩  ch ang4 uu uan2
 互联网技术  h u4 l ian2 uu uang3 j i4 sh u4
 消掉  x iao1 d iao4
@@ -4078,8 +4139,9 @@
 老号码  l ao3 h ao4 m a3
 号码段  h ao4 m a3 d uan4
 很不错  h en3 b u2 c uo4
+塞班 null
 大概内容  d a4 g ai4 n ei4 r ong2
-下载件  x ia4 z ai3|z ai4 j ian4
+下载件 null
 办理流程  b an4 l i3 l iu2 ch eng2
 格拉夫顿  g e2 l a1 f u1 d un4
 交通银行  j iao1 t ong1 ii in2 h ang2
@@ -4099,7 +4161,7 @@
 整年  zh eng3 n ian2
 富阳市  f u4 ii iang2 sh ix4
 发展历程  f a1 zh an3 l i4 ch eng2
-带号转  d ai4 h ao4 zh uan3|zh uan4
+带号转 null
 啷个  l ang1 g e4
 淘宝店铺  t ao2 b ao3 d ian4 p u4
 包裹盒子  b ao1 g uo3 h e2 z iy5
@@ -4142,7 +4204,7 @@
 南道  n an2 d ao4
 近一周  j in4 ii i1 zh ou1
 女主播  n v3 zh u3 b o1
-切尔克斯  q ie1 ee er3|q ie4 ee er3 k e4 s iy1
+切尔克斯 null
 恒基伟业  h eng2 j i1 uu ui3 ii ie4
 信用卡热线  x in4 ii iong4 k a3 r e4 x ian4
 第一名  d i4 ii i4 m ing2
@@ -4186,13 +4248,13 @@
 永定县  ii iong3 d ing4 x ian4
 文峰  uu un2 f eng1
 配送  p ei4 s ong4
-发至  f a1|f a4 zh ix4
+发至 null
 三明市  s an1 m ing2 sh ix4
 海曙  h ai3 sh u3
 爱城市  aa ai4 ch eng2 sh ix4
 本地畅打包  b en3 d i4 ch ang4 d a3 b ao1
 国家牙病  g uo2 j ia1 ii ia2 b ing4
-中国联通  zh ong1|zh ong4 g uo2 l ian2 t ong1
+中国联通  zh ong1 g uo2 l ian2 t ong1
 法规建设  f a3 g ui1 j ian4 sh e4
 未接听  uu ui4 j ie1 t ing1
 马甸  m a3 d ian4
@@ -4204,19 +4266,20 @@
 双芯  sh uang1 x in1
 宁海桥  n ing2 h ai3 q iao2
 收据金额  sh ou1 j v4 j in1 ee e2
-教育考试  j iao4 vv v4|j iao4 vv v5 k ao3 sh ix4
-搞不懂  g ao3 b u2|b u4 d ong3
+教育考试 null
+搞不懂 null
 手机取款功能  sh ou3 j i1 q v3 k uan3 g ong1 n eng2
 万马路  uu uan4 m a3 l u4
 准妈妈  zh un3 m a1 m a5
 签名栏  q ian1 m ing2 l an2
 校验失败  j iao4 ii ian4 sh ix1 b ai4
 非同  f ei1 t ong2
-宠物情人  ch ong3 uu u4 q ing2 r en2|q ing2 r en5
+宠物情人 null
 提醒业务  t i2 x ing3 ii ie4 uu u4
 信义区  x in4 ii i4 q v1
 小花  x iao3 h ua1
-星期几  x ing1 q i1 j i1|j i3
+南都 null
+星期几 null
 投资类  t ou2 z iy1 l ei4
 持票人  ch ix2 p iao4 r en2
 尊荣  z un1 r ong2
@@ -4234,7 +4297,7 @@
 红包  h ong2 b ao1
 唐家  t ang2 j ia1
 腌肉  ii ian1 r ou4
-空号  k ong1|k ong4 h ao4
+空号 null
 女双  n v3 sh uang1
 亚洲信托中心  ii ia4 zh ou1 x in4 t uo1 zh ong1 x in1
 电子邮件  d ian4 z iy3 ii iu2 j ian4
@@ -4303,29 +4366,31 @@
 许多商户  x v3 d uo1 sh ang1 h u4
 温特斯韦克  uu un1 t e4 s iy1 uu ui2 k e4
 移民国家  ii i2 m in2 g uo2 j ia1
-粉钻  f en3 z uan1|z uan4
+粉钻 null
 布埃纳文图拉  b u4 aa ai1 n a4 uu un2 t u2 l a1
 个性化定制  g e4 x ing4 h ua4 d ing4 zh ix4
 崇文  ch ong2 uu un2
+瓦利斯和浮图纳 null
 新天  x in1 t ian1
 赫莲娜  h e4 l ian2 n a4
 区崤山路  q v1 x iao2 sh an1 l u4
 港澳台版  g ang3 aa ao4 t ai2 b an3
 学杂费  x ve2 z a2 f ei4
-突发  t u1 f a1|f a4
+突发 null
 天通苑  t ian1 t ong1 vv van4
 购商户  g ou4 sh ang1 h u4
 赫姆斯特德  h e4 m u3 s iy1 t e4 d e2
 金手指  j in1 sh ou2 zh ix3
-拿起来  n a2 q i3 l ai2|q i3 l ai5
+拿起来 null
 白银区  b ai2 ii in2 q v1
 义务开放店  ii i4 uu u4 k ai1 f ang4 d ian4
-肖靖  x iao1|x iao4 j ing4
+肖靖 null
 汽车违章  q i4 ch e1 uu ui2 zh ang1
 取款手续  q v3 k uan3 sh ou3 x v4
 现在出去  x ian4 z ai4 ch u1 q v4
-作起  z uo1|z uo4 q i3
+作起 null
 九江市  j iu3 j iang1 sh ix4
+心都 null
 资金清算  z iy1 j in1 q ing1 s uan4
 银滩路  ii in2 t an1 l u4
 号线  h ao4 x ian4
@@ -4335,6 +4400,7 @@
 代管证明  d ai4 g uan3 zh eng4 m ing2
 出入金  ch u1 r u4 j in1
 外汇知识篇  uu uai4 h ui4 zh ix1 sh ix5 p ian1
+斯瓦尔巴特和扬马延岛 null
 经营资质  j ing1 ii ing2 z iy1 zh ix4
 凤山路  f eng4 sh an1 l u4
 播音员  b o1 ii in1 vv van2
@@ -4345,9 +4411,9 @@
 比亚埃尔莫萨  b i3 ii ia4 aa ai1 ee er3 m o4 s a4
 淡定  d an4 d ing4
 预估结果  vv v4 g u1 j ie2 g uo3
-凤凰台  f eng4 h uang2|f eng4 h uang5 t ai2
+凤凰台 null
 布拉克普耳  b u4 l a1 k e4 p u3 ee er3
-片区  p ian1|p ian4 q v1
+片区 null
 素英  s u4 ii ing1
 嵊州  sh eng4 zh ou1
 海淘攻略  h ai3 t ao2 g ong1 l ve4
@@ -4358,7 +4424,7 @@
 哈斯  h a1 s iy1
 此限制  c iy3 x ian4 zh ix4
 米音  m i3 ii in1
-区间  q v1 j ian1|j ian4
+区间 null
 天市  t ian1 sh ix4
 企飞  q i3 f ei1
 催收  c ui1 sh ou1
@@ -4369,7 +4435,7 @@
 振兴南路  zh en4 x ing1 n an2 l u4
 安阳市  aa an1 ii iang2 sh ix4
 活动合并  h uo2 d ong4 h e2 b ing4
-行李损失险  x ing2 l i3|x ing2 l i5 s un3 sh ix1 x ian3
+行李损失险 null
 徐汇区  x v2 h ui4 q v1
 多快  d uo1 k uai4
 红辣椒  h ong2 l a4 j iao1
@@ -4405,8 +4471,8 @@
 本礼拜五  b en3 l i3 b ai4 uu u3
 易丰  ii i4 f eng1
 湖里区  h u2 l i3 q v1
-交汇处  j iao1 h ui4 ch u3|ch u4
-需不需要收取  x v1 b u2|b u4 x v1 ii iao4 sh ou1 q v3
+交汇处 null
+需不需要收取 null
 光明西路  g uang1 m ing2 x i1 l u4
 建宁路  j ian4 n ing2 l u4
 丽水市  l i2 sh ui3 sh ix4
@@ -4464,7 +4530,7 @@
 德国境内  d e2 g uo2 j ing4 n ei4
 格拉纳达  g e2 l a1 n a4 d a2
 圣波尔滕  sh eng4 b o1 ee er3 t eng2
-扣不扣  k ou4 b u2|b u4 k ou4
+扣不扣 null
 生活费用  sh eng1 h uo2 f ei4 ii iong4
 短信铃声  d uan3 x in4 l ing2 sh eng1
 通关手续  t ong1 g uan1 sh ou3 x v4
@@ -4479,9 +4545,9 @@
 翼融信  ii i4 r ong2 x in4
 天弘  t ian1 h ong2
 用户端  ii iong4 h u4 d uan1
-所有结欠  s uo2 ii iu3 j ie1|j ie2 q ian4
+所有结欠 null
 柜面  g ui4 m ian4
-卸载  x ie4 z ai3|z ai4
+卸载 null
 金花  j in1 h ua1
 一键受理  ii i1 j ian4 sh ou4 l i3
 朱元璋  zh u1 vv van2 zh ang1
@@ -4492,7 +4558,7 @@
 人密码汇款  r en2 m i4 m a3 h ui4 k uan3
 期货交易  q i1 h uo4 j iao1 ii i4
 账户申请表  zh ang4 h u4 sh en1 q ing3 b iao3
-兴业  x ing1|x ing4 ii ie4
+兴业 null
 利滚利  l i4 g un3 l i4
 资信证明  z iy1 x in4 zh eng4 m ing2
 月光路  vv ve4 g uang1 l u4
@@ -4506,15 +4572,15 @@
 租机服务  z u1 j i1 f u2 uu u4
 日常问题  r iz4 ch ang2 uu un4 t i2
 随讯通  s ui2 x vn4 t ong1
-经停  j ing1|j ing4 t ing2
+经停 null
 六合区  l u4 h e2 q v1
 卢龙县  l u2 l ong2 x ian4
 圣约翰斯  sh eng4 vv ve1 h an4 s iy1
 深圳广信  sh en1 zh en4 g uang3 x in4
-蓝钻  l an2 z uan1|z uan4
+蓝钻 null
 饶阳  r ao2 ii iang2
 使用效率  sh ix3 ii iong4 x iao4 l v5
-俞正声  vv v2 zh eng1|zh eng4 sh eng1
+俞正声 null
 美妆网  m ei3 zh uang1 uu uang3
 金业务  j in1 ii ie4 uu u4
 有关规定  ii iu3 g uan1 g ui1 d ing4
@@ -4554,7 +4620,7 @@
 纽约分行  n iu3 vv ve1 f en1 h ang2
 张杨路  zh ang1 ii iang2 l u4
 象州县  x iang4 zh ou1 x ian4
-热带气候  r e4 d ai4 q i4 h ou4|q i4 h ou5
+热带气候 null
 双人四眼  sh uang1 r en2 s iy4 ii ian3
 可致  k e3 zh ix4
 鹤岗市  h e4 g ang3 sh ix4
@@ -4575,7 +4641,7 @@
 交警队  j iao1 j ing3 d ui4
 有木有  ii iu3 m u4 ii iu3
 下午四点  x ia4 uu u3 s iy4 d ian3
-晚上八点  uu uan3 sh ang4|uu uan3 sh ang5 b a1 d ian3
+晚上八点 null
 科莫蒂尼  k e1 m o4 d i4 n i2
 关联账户  g uan1 l ian2 zh ang4 h u4
 努比亚  n u3 b i3 ii ia4
@@ -4589,7 +4655,7 @@
 性游戏  x ing4 ii iu2 x i4
 留白  l iu2 b ai2
 新民市  x in1 m in2 sh ix4
-特供  t e4 g ong1|g ong4
+特供 null
 名细  m ing2 x i4
 第一季  d i4 ii i1 j i4
 汇达  h ui4 d a2
@@ -4599,7 +4665,7 @@
 马尾区  m a2 uu ui3 q v1
 马约特岛  m a3 vv ve1 t e4 d ao3
 您身边  n in2 sh en1 b ian1
-晚上六点  uu uan3 sh ang4|uu uan3 sh ang5 l iu4 d ian3
+晚上六点 null
 天恩  t ian1 ee en1
 澳留学生  aa ao4 l iu2 x ve2 sh eng1
 文建路  uu un2 j ian4 l u4
@@ -4611,14 +4677,14 @@
 结算账户  j ie2 s uan4 zh ang4 h u4
 开户见证业务  k ai1 h u4 j ian4 zh eng4 ii ie4 uu u4
 荷花塘  h e2 h ua1 t ang2
-预告片  vv v4 g ao4 p ian1|p ian4
+预告片 null
 搜货  s ou1 h uo4
 超链接  ch ao1 l ian4 j ie1
 希思罗  x i1 s iy1 l uo2
 移机  ii i2 j i1
 哥印拜陀  g e1 ii in4 b ai4 t uo2
 南开区  n an2 k ai1 q v1
-不给力  b u2|b u4 g ei3 l i4
+不给力 null
 福瑞  f u2 r ui4
 翼建钟情  ii i4 j ian4 zh ong1 q ing2
 服务口  f u2 uu u4 k ou3
@@ -4626,7 +4692,7 @@
 听音乐  t ing1 ii in1 vv ve4
 外挂  uu uai4 g ua4
 工农区  g ong1 n ong2 q v1
-天翼不限量  t ian1 ii i4 b u2|b u4 x ian4 l iang4
+天翼不限量 null
 任何方式  r en4 h e2 f ang1 sh ix4
 狭义金融  x ia2 ii i4 j in1 r ong2
 隐私政策  ii in3 s iy1 zh eng4 c e4
@@ -4664,7 +4730,7 @@
 全免  q van2 m ian3
 产品代码  ch an2 p in3 d ai4 m a3
 鼠标  sh u3 b iao1
-专业设备  zh uan1 ii ie4 sh e4 b ei4|sh e4 b ei5
+专业设备 null
 短信保  d uan3 x in4 b ao3
 营业收入  ii ing2 ii ie4 sh ou1 r u4
 服务区  f u2 uu u4 q v1
@@ -4689,9 +4755,10 @@
 月风暴  vv ve4 f eng1 b ao4
 岔口西路  ch a4 k ou3 x i1 l u4
 毛里塔尼亚  m ao2 l i3 t a3 n i2 ii ia4
-转会  zh uan3|zh uan4 h ui4|k uai4
+转会 null
 导视  d ao3 sh ix4
-跨省转账  k ua4 sh eng3 zh uan3|zh uan4 zh ang4
+和顺县 null
+跨省转账 null
 宽带套餐  k uan1 d ai4 t ao4 c an1
 关停  g uan1 t ing2
 检查计划  j ian3 ch a2 j i4 h ua4
@@ -4706,6 +4773,7 @@
 预充值  vv v4 ch ong1 zh ix2
 此类数据  c iy3 l ei4 sh u4 j v4
 音证宝  ii in1 zh eng4 b ao3
+波斯尼亚和黑塞哥维那 null
 泰州市  t ai4 zh ou1 sh ix4
 太慢  t ai4 m an4
 库奥皮奥  k u4 aa ao4 p i2 aa ao4
@@ -4713,28 +4781,29 @@
 快退  k uai4 t ui4
 江路  j iang1 l u4
 联系人  l ian2 x i4 r en2
-兴业银行  x ing1|x ing4 ii ie4 ii in2 h ang2
+兴业银行 null
 加装版  j ia1 zh uang1 b an3
 汇率风险  h ui4 l v4 f eng1 x ian3
 快递  k uai4 d i4
-不用发笑话  b u2 ii iong4 f a1|f a4 x iao4 h ua5
+不用发笑话  b u2 ii iong4 f a1 x iao4 h ua4
 福田  f u2 t ian2
 全国医院  q van2 g uo2 ii i1 vv van4
 卢森堡分行  l u2 s en1 b ao3 f en1 h ang2
 镜面  j ing4 m ian4
-不太懂  b u2|b u4 t ai4 d ong3
+不太懂 null
 财险  c ai2 x ian3
 行业监管  h ang2 ii ie4 j ian1 g uan3
 日留学生  r iz4 l iu2 x ve2 sh eng1
 责任人  z e2 r en4 r en2
 巴厘岛  b a1 l i2 d ao3
-东方不败  d ong1 f ang1 b u2|b u4 b ai4
+东方不败 null
 易充  ii i4 ch ong1
-经办  j ing1|j ing4 b an4
+经办 null
 芒市  m ang2 sh ix4
 租房合同  z u1 f ang2 h e2 t ong5
 里亚尔  l i3 ii ia4 ee er3
 活动主题  h uo2 d ong4 zh u3 t i2
+科夫和约翰 null
 电话支付  d ian4 h ua4 zh ix1 f u4
 包月费  b ao1 vv ve4 f ei4
 贸易融资  m ao4 ii i4 r ong2 z iy1
@@ -4742,7 +4811,7 @@
 霸州  b a4 zh ou1
 魔幻  m o2 h uan4
 桥西  q iao2 x i1
-悟空  uu u4 k ong1|k ong4
+悟空 null
 雨林  vv v3 l in2
 全资子公司  q van2 z iy1 z iy3 g ong1 s iy1
 用户指南  ii iong4 h u4 zh ix3 n an2
@@ -4757,7 +4826,7 @@
 是个  sh ix4 g e4
 皂君  z ao4 j vn1
 广灵县  g uang3 l ing2 x ian4
-更新成  g eng1 x in1|g eng4 x in1 ch eng2
+更新成 null
 收汇  sh ou1 h ui4
 交易细节  j iao1 ii i4 x i4 j ie2
 精简版  j ing1 j ian3 b an3
@@ -4768,7 +4837,7 @@
 蒙特利尔  m eng2 t e4 l i4 ee er3
 运营厅  vv vn4 ii ing2 t ing1
 参赛渠道  c an1 s ai4 q v2 d ao4
-凤凰城  f eng4 h uang2|f eng4 h uang5 ch eng2
+凤凰城 null
 双街  sh uang1 j ie1
 礼品券  l i2 p in3 q van4
 共党  g ong4 d ang3
@@ -4777,7 +4846,7 @@
 漏话提示  l ou4 h ua4 t i2 sh ix4
 日均  r iz4 j vn1
 债代码  zh ai4 d ai4 m a3
-可不可以搞笑点  k e3 b u4|k e3 b u5 k e2 ii i3 g ao3 x iao4 d ian3
+可不可以搞笑点 null
 成个  ch eng2 g e4
 乌鲁木齐市  uu u1 l u3 m u4 q i2 sh ix4
 合约机  h e2 vv ve1 j i1
@@ -4789,11 +4858,11 @@
 十元元  sh ix2 vv van2 vv van2
 小街  x iao3 j ie1
 疆独  j iang1 d u2
-看起来小  k an4 q i3 l ai2|k an4 q i3 l ai5 x iao3
+看起来小 null
 月套餐  vv ve4 t ao4 c an1
 海法  h ai3 f a3
 嘉峪关市  j ia1 vv v4 g uan1 sh ix4
-约堡  vv ve1 b ao3|p u4
+约堡 null
 组呼  z u3 h u1
 儋州  d an4 zh ou1
 服务器  f u2 uu u4 q i4
@@ -4805,7 +4874,7 @@
 女人帮  n v3 r en2 b ang1
 兴隆台街  x ing1 l ong2 t ai2 j ie1
 共军  g ong4 j vn1
-尉犁县  uu ui4|vv v4 l i2 x ian4
+尉犁县 null
 哪时  n a3 sh ix2
 屏幕显示  p ing2 m u4 x ian3 sh ix4
 整改  zh eng3 g ai3
@@ -4823,16 +4892,16 @@
 爸妈  b a4 m a1
 新市  x in1 sh ix4
 风情园  f eng1 q ing2 vv van2
-期数三个月  q i1 sh u4 s an1 g e4 vv ve4|s an1 g e5 vv ve4
+期数三个月 null
 天汉大道  t ian1 h an4 d a4 d ao4
 汇金  h ui4 j in1
 牛啤  n iu2 p i2
 兑换现金  d ui4 h uan4 x ian4 j in1
-爱听咖  aa ai4 t ing1 g a1|k a1
+爱听咖 null
 身份证  sh en1 f en4 zh eng4
 使用范围  sh ix3 ii iong4 f an4 uu ui2
 产品尺寸  ch an2 p in3 ch ix3 c un4
-清正廉洁  q ing1 zh eng1|zh eng4 l ian2 j ie2
+清正廉洁 null
 综合办  z ong1 h e2 b an4
 十块钱  sh ix2 k uai4 q ian2
 支付书  zh ix1 f u4 sh u1
@@ -4852,12 +4921,12 @@
 香港卓悦  x iang1 g ang3 zh uo2 vv ve4
 哈尔滨市  h a1 ee er3 b in1 sh ix4
 马斯特顿  m a3 s iy1 t e4 d un4
-撒哈拉  s a1|s a3 h a1 l a1
+撒哈拉 null
 吹箫  ch ui1 x iao1
 服务手机  f u2 uu u4 sh ou3 j i1
 可到银行  k e3 d ao4 ii in2 h ang2
 四海如一  s iy4 h ai3 r u2 ii i1
-横琴镇  h eng2|h eng4 q in2 zh en4
+横琴镇 null
 中国移动  zh ong1 g uo2 ii i2 d ong4
 礼品一份  l i2 p in3 ii i1 f en4
 西街  x i1 j ie1
@@ -4893,9 +4962,10 @@
 总行交易  z ong3 h ang2 j iao1 ii i4
 世纪天元  sh ix4 j i4 t ian1 vv van2
 新店  x in1 d ian4
-结单  j ie1|j ie2 ch an2|d an1|sh an4
-青少  q ing1 sh ao3|sh ao4
+结单 null
+青少 null
 厅里  t ing1 l i3
+圣多美和普林西比 null
 文山市  uu un2 sh an1 sh ix4
 煤气灶  m ei2 q i4 z ao4
 新订购  x in1 d ing4 g ou4
@@ -4906,17 +4976,18 @@
 外贸企业  uu uai4 m ao4 q i3 ii ie4
 首笔交易  sh ou3 b i3 j iao1 ii i4
 金蛋  j in1 d an4
-外教  uu uai4 j iao1|j iao4
+外教 null
 宿迁市  s u4 q ian1 sh ix4
 价值观  j ia4 zh ix2 g uan1
-亲情套餐  q in1|q ing4 q ing2 t ao4 c an1
+亲情套餐 null
 债情况公司  zh ai4 q ing2 k uang4 g ong1 s iy1
 商客  sh ang1 k e4
+假的 null
 备机  b ei4 j i1
 农机厂  n ong2 j i1 ch ang3
 服务商  f u2 uu u4 sh ang1
 基尔肯尼  j i1 ee er3 k en3 n i2
-境小帖士  j ing4 x iao3 t ie1|t ie3|t ie4 sh ix4
+境小帖士 null
 稽核章程  j i1 h e2 zh ang1 ch eng2
 韶关市  sh ao2 g uan1 sh ix4
 这几个月  zh e4 j i3 g e4 vv ve4
@@ -4935,6 +5006,7 @@
 定价机制  d ing4 j ia4 j i1 zh ix4
 静安  j ing4 aa an1
 英国置业  ii ing1 g uo2 zh ix4 ii ie4
+北塞浦路斯 null
 导诊  d ao3 zh en3
 海淘  h ai3 t ao2
 青山  q ing1 sh an1
@@ -4949,7 +5021,7 @@
 小西  x iao3 x i1
 浪卡子  l ang4 q ia3 z iy5
 新开  x in1 k ai1
-动画片系列  d ong4 h ua4 p ian1|d ong4 h ua4 p ian4 x i4 l ie4
+动画片系列 null
 个人账户  g e4 r en2 zh ang4 h u4
 手机银行活动  sh ou3 j i1 ii in2 h ang2 h uo2 d ong4
 短信转移  d uan3 x in4 zh uan3 ii i2
@@ -4972,7 +5044,7 @@
 天翼空间  t ian1 ii i4 k ong1 j ian1
 银团贷款  ii in2 t uan2 d ai4 k uan3
 非常贵  f ei1 ch ang2 g ui4
-去调  q v4 d iao4|t iao2
+去调 null
 保理商  b ao3 l i3 sh ang1
 兑回  d ui4 h ui2
 爱家  aa ai4 j ia1
@@ -4988,7 +5060,7 @@
 复机  f u4 j i1
 申请取消  sh en1 q ing3 q v3 x iao1
 赎回费用  sh u2 h ui2 f ei4 ii iong4
-转凉  zh uan3|zh uan4 l iang2
+转凉 null
 实时收款  sh ix2 sh ix2 sh ou1 k uan3
 共匪  g ong4 f ei3
 汇出汇款  h ui4 ch u1 h ui4 k uan3
@@ -5001,7 +5073,7 @@
 林则徐  l in2 z e2 x v2
 工信部联  g ong1 x in4 b u4 l ian2
 风湿病人  f eng1 sh ix1 b ing4 r en2
-使不使  sh ix3 b u2|b u4 sh ix3
+使不使 null
 每个国家  m ei3 g e5 g uo2 j ia1
 同心铸  t ong2 x in1 zh u4
 方庄  f ang1 zh uang1
@@ -5014,10 +5086,10 @@
 芗城区  x iang1 ch eng2 q v1
 石河子市  sh ix2 h e2 z iy5 sh ix4
 全员  q van2 vv van2
-维切布斯克  uu ui2 q ie1|q ie4 b u4 s iy1 k e4
+维切布斯克 null
 超出套餐  ch ao1 ch u1 t ao4 c an1
 电信电视  d ian4 x in4 d ian4 sh ix4
-需不需要支付  x v1 b u2|b u4 x v1 ii iao4 zh ix1 f u4
+需不需要支付 null
 龙岗  l ong2 g ang3
 知情权  zh ix1 q ing2 q van2
 德化县  d e2 h ua4 x ian4
@@ -5031,26 +5103,27 @@
 阿尔汉格尔斯克  aa a1 ee er3 h an4 g e2 ee er3 s iy1 k e4
 认证工具  r en4 zh eng4 g ong1 j v4
 原出票银行  vv van2 ch u1 p iao4 ii in2 h ang2
-转出  zh uan3|zh uan4 ch u1
-客车几点发  k e4 ch e1 j i1|j i3 d ian3 f a1
-转账时间  zh uan3|zh uan4 zh ang4 sh ix2 j ian1
+转出 null
+客车几点发 null
+转账时间 null
 六台  l iu4 t ai2
 具风情  j v4 f eng1 q ing2
 侯马市  h ou2 m a3 sh ix4
 箱次数  x iang1 c iy4 sh u4
 主题演讲  zh u3 t i2 ii ian2 j iang3
 贝尔法斯特  b ei4 ee er3 f a3 s iy1 t e4
-点解  d ian3 j ie3|j ie4|x ie4
+点解 null
 对账  d ui4 zh ang4
 停用  t ing2 ii iong4
 本网站  b en3 uu uang3 zh an4
 秋炳  q iu1 b ing3
 一些费用  ii i4 x ie1 f ei4 ii iong4
-参评  c an1|sh en1 p ing2
+参评 null
+兴华 null
 稽核委员会  j i1 h e2 uu ui3 vv van2 h ui4
-不想用  b u2|b u4 x iang3 ii iong4
+不想用 null
 小秘密  x iao3 m i4 m i4
-转到  zh uan3|zh uan4 d ao4
+转到 null
 子网掩码  z iy3 uu uang3 ii ian3 m a3
 贝曼元脉  b ei4 m an4 vv van2 m ai4
 拉莫斯瓦那  l a1 m o4 s iy1 uu ua3 n a4
@@ -5061,7 +5134,7 @@
 布宜诺斯艾利斯  b u4 ii i2 n uo4 s iy1 aa ai4 l i4 s iy1
 上网包  sh ang4 uu uang3 b ao1
 立减  l i4 j ian3
-不成功  b u2|b u4 ch eng2 g ong1
+不成功  b u4 ch eng2 g ong1
 融资银行  r ong2 z iy1 ii in2 h ang2
 闺蜜  g ui1 m i4
 咋回事  z a3 h ui2 sh ix4
@@ -5089,23 +5162,24 @@
 涌泉  ii iong3 q van2
 服务方式  f u2 uu u4 f ang1 sh ix4
 三星盖世  s an1 x ing1 g ai4 sh ix4
-咖啡吧  k a1 f ei1 b a1|b a5
+咖啡吧 null
 快捷键  k uai4 j ie2 j ian4
 怀孕女人  h uai2 vv vn4 n v3 r en2
 导购  d ao3 g ou4
 灵活计划  l ing2 h uo2 j i4 h ua4
 劳动合同  l ao2 d ong4 h e2 t ong5
-分支行  f en1|f en4 zh ix1 h ang2
+分支行 null
 网络整  uu uang3 l uo4 zh eng3
 河南路  h e2 n an2 l u4
 重庆渝  ch ong2 q ing4 vv v2
 记不得  j i4 b u4 d e2
 全球第四  q van2 q iu2 d i4 s iy4
-取消不掉  q v3 x iao1 b u2|b u4 d iao4
+取消不掉 null
 袁世凯  vv van2 sh ix4 k ai3
 贸易合作  m ao4 ii i4 h e2 z uo4
 搭车  d a1 ch e1
 马拉提亚  m a3 l a1 t i2 ii ia4
+纽伦堡 null
 绥化  s ui2 h ua4
 浩然  h ao4 r an2
 总览  z ong3 l an3
@@ -5124,7 +5198,7 @@
 叠加包  d ie2 j ia1 b ao1
 柴德平  ch ai2 d e2 p ing2
 财务报表  c ai2 uu u4 b ao4 b iao3
-转包  zh uan3|zh uan4 b ao1
+转包 null
 纯流量版  ch un2 l iu2 l iang4 b an3
 汇鑫  h ui4 x in1
 消消  x iao1 x iao1
@@ -5184,14 +5258,14 @@
 充足率  ch ong1 z u2 l v4
 许可证  x v2 k e3 zh eng4
 首页  sh ou3 ii ie4
-战争片  zh an4 zh eng1 p ian1|p ian4
+战争片 null
 黔西县  q ian2 x i1 x ian4
 携带证  x ie2 d ai4 zh eng4
 红花岗区  h ong2 h ua1 g ang3 q v1
 密钥  m i4 ii iao4
 梅西  m ei2 x i1
 维修点  uu ui2 x iu1 d ian3
-载入  z ai3|z ai4 r u4
+载入 null
 易商  ii i4 sh ang1
 腕表  uu uan4 b iao3
 展望报告  zh an3 uu uang4 b ao4 g ao4
@@ -5210,11 +5284,12 @@
 招标网  zh ao1 b iao1 uu uang3
 企业名片  q i3 ii ie4 m ing2 p ian4
 农保  n ong2 b ao3
+阿塞拜疆 null
 衢州市  q v2 zh ou1 sh ix4
 学校出勤率  x ve2 x iao4 ch u1 q in2 l v4
 双保理  sh uang1 b ao3 l i3
 监事  j ian1 sh ix4
-月结费用  vv ve4 j ie1|j ie2 f ei4 ii iong4
+月结费用 null
 巴克  b a1 k e4
 天台县  t ian1 t ai2 x ian4
 阅览室  vv ve4 l an3 sh ix4
@@ -5234,7 +5309,7 @@
 复印件  f u4 ii in4 j ian4
 新账户  x in1 zh ang4 h u4
 企事业员工  q i3 sh ix4 ii ie4 vv van2 g ong1
-只装  zh ix1|zh ix3 zh uang1
+只装 null
 男闺蜜  n an2 g ui1 m i4
 花店  h ua1 d ian4
 老虎油  l ao2 h u3 ii iu2
@@ -5253,6 +5328,7 @@
 快钱  k uai4 q ian2
 物有所值  uu u4 ii iu2 s uo3 zh ix2
 扬州市  ii iang2 zh ou1 sh ix4
+和田 null
 兑奖  d ui4 j iang3
 二维码  ee er4 uu ui2 m a3
 下星期一  x ia4 x ing1 q i1 ii i1
@@ -5265,14 +5341,14 @@
 项目互联网  x iang4 m u5 h u4 l ian2 uu uang3
 何雪  h e2 x ve3
 金融服务  j in1 r ong2 f u2 uu u4
-呼叫前转  h u1 j iao4 q ian2 zh uan3|zh uan4
+呼叫前转 null
 瓦利斯特里姆  uu ua3 l i4 s iy1 t e4 l i3 m u3
 平南路  p ing2 n an2 l u4
 点话  d ian3 h ua4
 牡丹江市  m u3 d an1 j iang1 sh ix4
 顺义区  sh un4 ii i4 q v1
 无线传呼  uu u2 x ian4 ch uan2 h u1
-无尽  uu u2 j in3|j in4
+无尽 null
 资金证明  z iy1 j in1 zh eng4 m ing2
 国内长途  g uo2 n ei4 ch ang2 t u2
 多核  d uo1 h e2
@@ -5285,7 +5361,7 @@
 两个月  l iang3 g e5 vv ve4
 网银交易  uu uang3 ii in2 j iao1 ii i4
 现金优惠  x ian4 j in1 ii iu1 h ui4
-烦不烦  f an2 b u2|b u4 f an2
+烦不烦 null
 收信息费  sh ou1 x in4 x i1 f ei4
 市值  sh ix4 zh ix2
 债情况  zh ai4 q ing2 k uang4
@@ -5309,12 +5385,13 @@
 都匀市  d u1 vv vn2 sh ix4
 承德市  ch eng2 d e2 sh ix4
 缙云  j in4 vv vn2
+妻子的秘密 null
 想用  x iang3 ii iong4
 上一个  sh ang4 ii i2 g e4
 布里斯特耳  b u4 l i3 s iy1 t e4 ee er3
 克拉斯诺雅尔斯克  k e4 l a1 s iy1 n uo4 ii ia3 ee er3 s iy1 k e4
 天通路  t ian1 t ong1 l u4
-燕子口  ii ian1|ii ian4 z iy3 k ou5
+燕子口  ii ian4 z iy5 k ou3
 海曙区  h ai3 sh u3 q v1
 全球通  q van2 q iu2 t ong1
 呼叫限制  h u1 j iao4 x ian4 zh ix4
@@ -5334,10 +5411,11 @@
 奖调查活动  j iang3 d iao4 ch a2 h uo2 d ong4
 白银市  b ai2 ii in2 sh ix4
 下星期二  x ia4 x ing1 q i1 ee er4
-交叉处  j iao1 ch a1 ch u3|ch u4
+平方和 null
+交叉处 null
 无限量  uu u2 x ian4 l iang4
 下星期五  x ia4 x ing1 q i1 uu u3
-会不会扣  h ui4 b u2 h ui4|h ui4 b u5 h ui4 k ou4
+会不会扣 null
 千岛湖  q ian1 d ao3 h u2
 流程企业  l iu2 ch eng2 q i3 ii ie4
 姚兰  ii iao2 l an2
@@ -5385,7 +5463,7 @@
 埃德利比  aa ai1 d e2 l i4 b i3
 内含  n ei4 h an2
 武松打虎  uu u3 s ong1 d a3 h u3
-转售  zh uan3|zh uan4 sh ou4
+转售 null
 尼西亚  n i2 x i1 ii ia4
 静待  j ing4 d ai4
 生活水平  sh eng1 h uo2 sh ui3 p ing2
@@ -5394,7 +5472,7 @@
 爱情偶像剧  aa ai4 q ing2 oo ou3 x iang4 j v4
 去过  q v4 g uo4
 全城  q van2 ch eng2
-始发  sh ix3 f a1|f a4
+始发 null
 移动通信  ii i2 d ong4 t ong1 x in4
 断掉  d uan4 d iao4
 精彩人生  j ing1 c ai3 r en2 sh eng1
@@ -5412,7 +5490,7 @@
 太极  t ai4 j i2
 压印签  ii ia1 ii in4 q ian1
 光宽  g uang1 k uan1
-结汇手续  j ie1|j ie2 h ui4 sh ou3 x v4
+结汇手续 null
 明基  m ing2 j i1
 单据托管  d an1 j v4 t uo1 g uan3
 布克  b u4 k e4
@@ -5435,20 +5513,20 @@
 启航  q i3 h ang2
 另一个  l ing4 ii i2 g e4
 拉卢维耶尔  l a1 l u2 uu ui2 ii ie1 ee er3
-服务处  f u2 uu u4 ch u3|ch u4
+服务处 null
 南京券  n an2 j ing1 q van4
-转账交易  zh uan3|zh uan4 zh ang4 j iao1 ii i4
+转账交易 null
 巴南  b a1 n an2
 警务  j ing3 uu u4
-再发  z ai4 f a1|f a4
+再发 null
 佰宜杰  b ai3 ii i2 j ie2
-行信息  h ang2|x ing2 x in4 x i1
+行信息 null
 满洲里市  m an3 zh ou1 l i3 sh ix4
 搜狐视频  s ou1 h u2 sh ix4 p in2
 全国范围  q van2 g uo2 f an4 uu ui2
 职工报酬  zh ix2 g ong1 b ao4 ch ou5
 工薪贷  g ong1 x in1 d ai4
-收不收取  sh ou1 b u2|b u4 sh ou1 q v3
+收不收取 null
 妮基  n i1 j i1
 尼泊尔根杰  n i2 b o2 ee er3 g en1 j ie2
 申请书  sh en1 q ing3 sh u1
@@ -5461,7 +5539,7 @@
 市长杨雄  sh ix4 zh ang3 ii iang2 x iong2
 皇姑  h uang2 g u1
 蔡锷  c ai4 ee e4
-级差  j i2 c iy1|ch a1|ch a4|ch ai1
+级差 null
 百事搜  b ai3 sh ix4 s ou1
 使用效益  sh ix3 ii iong4 x iao4 ii i4
 曼达卢永  m an4 d a2 l u2 ii iong3
@@ -5482,9 +5560,9 @@
 缴费历史记录  j iao3 f ei4 l i4 sh ix3 j i4 l u4
 爆料  b ao4 l iao4
 导航软件  d ao3 h ang2 r uan3 j ian4
-你大爷  n i3 d a4 ii ie2|d a4 ii ie5
+你大爷 null
 古译  g u3 ii i4
-看不懂  k an1|k an4 b u2|b u4 d ong3
+看不懂 null
 山花  sh an1 h ua1
 森美  s en1 m ei3
 充值缴费  ch ong1 zh ix2 j iao3 f ei4
@@ -5510,7 +5588,7 @@
 交费易  j iao1 f ei4 ii i4
 消化科  x iao1 h ua4 k e1
 很多个  h en3 d uo1 g e4
-应收账款类  ii ing1|ii ing4 sh ou1 zh ang4 k uan3 l ei4
+应收账款类 null
 管理工作  g uan2 l i3 g ong1 z uo4
 腊八节  l a4 b a1 j ie2
 带上  d ai4 sh ang4
@@ -5529,16 +5607,16 @@
 情系  q ing2 j i4
 投保流程  t ou2 b ao3 l iu2 ch eng2
 阴蒂  ii in1 d i4
-转出银行  zh uan3|zh uan4 ch u1 ii in2 h ang2
+转出银行 null
 管理部  g uan2 l i3 b u4
 蓝莲花  l an2 l ian2 h ua1
-陆正飞  l u4 zh eng1|zh eng4 f ei1
+陆正飞 null
 女孩子  n v3 h ai2 z iy5
-转回  zh uan3|zh uan4 h ui2
+转回 null
 涞源县  l ai2 vv van2 x ian4
 质押式  zh ix4 ii ia1 sh ix4
 问责  uu un4 z e2
-华沙大学  h ua2 sh a1|h ua4 sh a1 d a4 x ve2
+华沙大学 null
 金融业务  j in1 r ong2 ii ie4 uu u4
 武陵区  uu u3 l ing2 q v1
 爱意  aa ai4 ii i4
@@ -5546,8 +5624,8 @@
 车型  ch e1 x ing2
 魔方  m o2 f ang1
 宇龙  vv v3 l ong2
-几点有车  j i1|j i3 d ian3 ii iu3 ch e1
-教育水平  j iao4 vv v4|j iao4 vv v5 sh ui3 p ing2
+几点有车 null
+教育水平 null
 超量  ch ao1 l iang4
 练字  l ian4 z iy4
 兑换比  d ui4 h uan4 b i3
@@ -5569,8 +5647,9 @@
 许昌市  x v3 ch ang1 sh ix4
 圣巴特岛  sh eng4 b a1 t e4 d ao3
 贝弗尔维克  b ei4 f u2 ee er3 uu ui2 k e4
-应用程序  ii ing1 ii iong4|ii ing4 ii iong4 ch eng2 x v4
+应用程序 null
 确认证明  q ve4 r en4 zh eng4 m ing2
+和硕 null
 置换保  zh ix4 h uan4 b ao3
 海珠  h ai3 zh u1
 利物浦  l i4 uu u4 p u3
@@ -5579,7 +5658,8 @@
 会员费  h ui4 vv van2 f ei4
 园荫北里  vv van2 ii in1 b ei3 l i3
 缩位  s uo1 uu ui4
-音乐吧  ii in1 vv ve4 b a1|b a5
+布和路 null
+音乐吧 null
 医生意见  ii i1 sh eng1 ii i4 j ian5
 牵头  q ian1 t ou2
 通辽市  t ong1 l iao2 sh ix4
@@ -5598,24 +5678,25 @@
 六套  l iu4 t ao4
 湖东路  h u2 d ong1 l u4
 图库皮塔  t u2 k u4 p i2 t a3
-浦发银行  p u3 f a1|f a4 ii in2 h ang2
+浦发银行 null
 洽询电话  q ia4 x vn2 d ian4 h ua4
-转型  zh uan3|zh uan4 x ing2
+转型 null
 马良  m a3 l iang2
 离石  l i2 sh ix2
 白山  b ai2 sh an1
 凉州区  l iang2 zh ou1 q v1
+波特尔堡 null
 葡萄牙语  p u2 t ao5 ii ia2 vv v3
 克拉根福  k e4 l a1 g en1 f u2
 品牌  p in3 p ai2
-不同行  b u2|b u4 t ong2 h ang2
+不同行 null
 一颗正义  ii i1 k e1 zh eng4 ii i4
 文件管理器  uu un2 j ian4 g uan2 l i3 q i4
 对账服务  d ui4 zh ang4 f u2 uu u4
 李登辉  l i3 d eng1 h ui1
 银企直  ii in2 q i3 zh ix2
 游尊享  ii iu2 z un1 x iang3
-晚上七点  uu uan3 sh ang4|uu uan3 sh ang5 q i1 d ian3
+晚上七点 null
 机场建设费  j i1 ch ang3 j ian4 sh e4 f ei4
 团队合作意识  t uan2 d ui4 h e2 z uo4 ii i4 sh ix5
 一览无遗  ii i4 l an3 uu u2 ii i2
@@ -5624,7 +5705,7 @@
 纪念馆  j i4 n ian4 g uan3
 培训费  p ei2 x vn4 f ei4
 四方坪  s iy4 f ang1 p ing2
-发车  f a1|f a4 ch e1
+发车 null
 光州  g uang1 zh ou1
 十二个月  sh ix2 ee er4 g e4 vv ve4
 综合服务  z ong1 h e2 f u2 uu u4
@@ -5662,7 +5743,7 @@
 小天地  x iao3 t ian1 d i4
 复核人  f u4 h e2 r en2
 卢湾区  l u2 uu uan1 q v1
-晚上一点  uu uan3 sh ang4|uu uan3 sh ang5 ii i4 d ian3
+晚上一点 null
 炫酷  x van4 k u4
 那一个  n a4 ii i2 g e4
 非法人  f ei1 f a3 r en2
@@ -5679,7 +5760,7 @@
 定期评估  d ing4 q i1 p ing2 g u1
 通话包  t ong1 h ua4 b ao1
 服务年  f u2 uu u4 n ian2
-不来梅港  b u2|b u4 l ai2 m ei2 g ang3
+不来梅港 null
 盗刷  d ao4 sh ua1
 马德拉群岛  m a3 d e2 l a1 q vn2 d ao3
 七个月  q i1 g e4 vv ve4
@@ -5704,19 +5785,20 @@
 布吉  b u4 j i2
 海峡群岛  h ai3 x ia2 q vn2 d ao3
 所在国  s uo3 z ai4 g uo2
-横眉冷对千夫指  h eng2|h eng4 m ei2 l eng3 d ui4 q ian1 f u1 zh ix3
+横眉冷对千夫指 null
 英子  ii ing1 z iy3
 另一方面  l ing4 ii i1 f ang1 m ian4
-转接电话  zh uan3|zh uan4 j ie1 d ian4 h ua4
+转接电话 null
 市场监管  sh ix4 ch ang3 j ian1 g uan3
 南美国家  n an2 m ei3 g uo2 j ia1
 无息  uu u2 x i1
 天山区  t ian1 sh an1 q v1
-那不勒斯  n a4 b u2|b u4 l e4|l ei1 s iy1
+那不勒斯 null
 基带芯片  j i1 d ai4 x in1 p ian4
 巴西您  b a1 x i1 n in2
 出台利  ch u1 t ai2 l i4
 金钥匙  j in1 ii iao4 sh ix5
+萨尔茨堡 null
 帐务  zh ang4 uu u4
 资金结算  z iy1 j in1 j ie2 s uan4
 手机炒股  sh ou3 j i1 ch ao2 g u3
@@ -5746,15 +5828,16 @@
 洗脑  x i3 n ao3
 端口  d uan1 k ou3
 建昌县  j ian4 ch ang1 x ian4
+呼和浩特市  h u1 h e2 h ao4 t e4 sh ix4
 外派  uu uai4 p ai4
 绑定  b ang3 d ing4
 花掉  h ua1 d iao4
-不清晰  b u2|b u4 q ing1 x i1
+不清晰 null
 再使用  z ai4 sh ix3 ii iong4
 申请信  sh en1 q ing3 x in4
 瑞龙  r ui4 l ong2
 约惠  vv ve1 h ui4
-每分钟  m ei3 f en1|f en4 zh ong1
+每分钟 null
 壕用  h ao2 ii iong4
 差价费  ch a1 j ia4 f ei4
 埃克斯昂普罗旺斯  aa ai1 k e4 s iy1 aa ang2 p u3 l uo2 uu uang4 s iy1
@@ -5764,7 +5847,7 @@
 母亲节  m u3 q in1 j ie2
 铜仁市  t ong2 r en2 sh ix4
 牛币  n iu2 b i4
-设备处  sh e4 b ei4|sh e4 b ei5 ch u3|ch u4
+设备处 null
 三十分钟  s an1 sh ix2 f en1 zh ong1
 优酷视频  ii iu1 k u4 sh ix4 p in2
 自然风光  z iy4 r an2 f eng1 g uang1
@@ -5776,13 +5859,13 @@
 屯溪区  t un2 x i1 q v1
 很多人  h en3 d uo1 r en2
 有限责任公司  ii iu3 x ian4 z e2 r en4 g ong1 s iy1
-远期结汇  vv van3 q i1 j ie1|j ie2 h ui4
+远期结汇 null
 涪陵区  f u2 l ing2 q v1
 梁辉  l iang2 h ui1
 方方  f ang1 f ang1
-监发  j ian1 f a1|f a4
+监发 null
 交易渠道  j iao1 ii i4 q v2 d ao4
-相伴  x iang1|x iang4 b an4
+相伴 null
 代码证  d ai4 m a3 zh eng4
 帕劳  p a4 l ao2
 手机彩铃  sh ou3 j i1 c ai3 l ing2
@@ -5803,6 +5886,7 @@
 生活缴费  sh eng1 h uo2 j iao3 f ei4
 计价  j i4 j ia4
 服务效率  f u2 uu u4 x iao4 l v5
+横屏 null
 前几天  q ian2 j i3 t ian1
 运营成本  vv vn4 ii ing2 ch eng2 b en3
 欧元周刊  oo ou1 vv van2 zh ou1 k an1
@@ -5831,7 +5915,7 @@
 昆明市  k un1 m ing2 sh ix4
 格罗德诺  g e2 l uo2 d e2 n uo4
 毫无意义  h ao2 uu u2 ii i4 ii i4
-搞不清  g ao3 b u2|b u4 q ing1
+搞不清 null
 晋源区  j in4 vv van2 q v1
 巅峰  d ian1 f eng1
 尚志市  sh ang4 zh ix4 sh ix4
@@ -5860,7 +5944,7 @@
 中文普通话  zh ong1 uu un2 p u3 t ong1 h ua4
 资助办法  z iy1 zh u4 b an4 f a3
 添翼宝  t ian1 ii i4 b ao3
-应收账款  ii ing1|ii ing4 sh ou1 zh ang4 k uan3
+应收账款 null
 冲印  ch ong1 ii in4
 信访  x in4 f ang3
 玛纳斯  m a3 n a4 s iy1
@@ -5875,16 +5959,16 @@
 漫游费用  m an4 ii iu2 f ei4 ii iong4
 西峰区  x i1 f eng1 q v1
 赤城县  ch ix4 ch eng2 x ian4
-原创性  vv van2 ch uang1|ch uang4 x ing4
+原创性 null
 义乌市  ii i4 uu u1 sh ix4
 八步镇  b a1 b u4 zh en4
 机构网点  j i1 g ou4 uu uang2 d ian3
 意外险  ii i4 uu uai4 x ian3
 玉田县  vv v4 t ian2 x ian4
-您每张卡片  n in2 m ei3 zh ang1 k a3 p ian1|p ian4
+您每张卡片  n in2 m ei3 zh ang1 k a3 p ian4
 电信公司  d ian4 x in4 g ong1 s iy1
 崇礼县  ch ong2 l i3 x ian4
-缺省呼转  q ve1 sh eng3 h u1 zh uan3|zh uan4
+缺省呼转 null
 双倍积分  sh uang1 b ei4 j i1 f en1
 介休市  j ie4 x iu1 sh ix4
 城阳  ch eng2 ii iang2
@@ -5910,19 +5994,20 @@
 天池  t ian1 ch ix2
 痞子英雄  p i3 z iy5 ii ing1 x iong2
 凯浦林  k ai3 p u3 l in2
+约堡分行 null
 品牌形象  p in3 p ai2 x ing2 x iang4
 护佑贵金属  h u4 ii iu4 g ui4 j in1 sh u3
 圣弗尔南多邦扳牙  sh eng4 f u2 ee er3 n an2 d uo1 b ang1 b an1 ii ia2
 第七期  d i4 q i1 q i1
 产品销路  ch an2 p in3 x iao1 l u4
-不公平  b u2|b u4 g ong1 p ing2
+不公平 null
 产品收益期  ch an2 p in3 sh ou1 ii i4 q i1
 焦作市  j iao1 z uo4 sh ix4
 新格  x in1 g e2
 白水县  b ai2 sh ui3 x ian4
 收支计划  sh ou1 zh ix1 j i4 h ua4
-超长  ch ao1 ch ang2|zh ang3
-尽责  j in3|j in4 z e2
+超长 null
+尽责 null
 假日表  j ia4 r iz4 b iao3
 第一期  d i4 ii i1 q i1
 历史记录  l i4 sh ix3 j i4 l u4
@@ -5982,13 +6067,14 @@
 金霍洛西街  j in1 h uo4 l uo4 x i1 j ie1
 拉孜县  l a1 z iy1 x ian4
 新闻频道  x in1 uu un2 p in2 d ao4
-提起来  t i2 q i3 l ai2|q i3 l ai5
-几份  j i1|j i3 f en4
+提起来  t i2 q i3 l ai2
+几份 null
 卧龙  uu uo4 l ong2
 超闲  ch ao1 x ian2
 返乡  f an3 x iang1
 全方位  q van2 f ang1 uu ui4
 第三方  d i4 s an1 f ang1
+风格广告共和国  f eng1 g e2 g uang3 g ao4 g ong4 h e2 g uo2
 星雅假日  x ing1 ii ia3 j ia4 r iz4
 技能型  j i4 n eng2 x ing2
 人民币资金  r en2 m in2 b i4 z iy1 j in1
@@ -6002,12 +6088,12 @@
 泛资管  f an4 z iy1 g uan3
 文清  uu un2 q ing1
 见证业务  j ian4 zh eng4 ii ie4 uu u4
-可转  k e3 zh uan3|zh uan4
+可转 null
 服务模式  f u2 uu u4 m o2 sh ix4
 广河县  g uang3 h e2 x ian4
 桥头街  q iao2 t ou2 j ie1
 上星期  sh ang4 x ing1 q i1
-转回到  zh uan3|zh uan4 h ui2 d ao4
+转回到 null
 流量模块  l iu2 l iang4 m o2 k uai4
 黄冈市  h uang2 g ang1 sh ix4
 金融产业  j in1 r ong2 ch an3 ii ie4
@@ -6015,7 +6101,7 @@
 天门市  t ian1 m en2 sh ix4
 本期余额  b en3 q i1 vv v2 ee e2
 无持续风向  uu u2 ch ix2 x v4 f eng1 x iang4
-斗地主  d ou3|d ou4 d i4 zh u3
+斗地主 null
 月基本费用  vv ve4 j i1 b en3 f ei4 ii iong4
 炫铃  x van4 l ing2
 提前预报  t i2 q ian2 vv v4 b ao4
@@ -6023,7 +6109,7 @@
 盖尼特拉  g ai4 n i2 t e4 l a1
 全州  q van2 zh ou1
 彩信报  c ai3 x in4 b ao4
-转存  zh uan3|zh uan4 c un2
+转存 null
 约定时间  vv ve1 d ing4 sh ix2 j ian1
 零存整取  l ing2 c un2 zh eng3 q v3
 产品体系  ch an2 p in3 t i3 x i4
@@ -6032,19 +6118,19 @@
 先付费  x ian1 f u4 f ei4
 已支付  ii i3 zh ix1 f u4
 港台澳  g ang3 t ai2 aa ao4
-相册  x iang1|x iang4 c e4
-运作  vv vn4 z uo1|z uo4
-横店  h eng2|h eng4 d ian4
+相册 null
+运作 null
+横店 null
 承包工程  ch eng2 b ao1 g ong1 ch eng2
-电子设备  d ian4 z iy3 sh e4 b ei4|sh e4 b ei5
+电子设备 null
 巴多  b a1 d uo1
 手动  sh ou3 d ong4
-斐济  f ei3 j i3|j i4
+斐济 null
 天祝县  t ian1 zh u4 x ian4
 合作机构  h e2 z uo4 j i1 g ou4
 出账日  ch u1 zh ang4 r iz4
 定制机  d ing4 zh ix4 j i1
-发展期  f a1|f a4 zh an3 q i1
+发展期  f a1 zh an3 q i1
 旅游国  l v3 ii iu2 g uo2
 列治文  l ie4 zh ix4 uu un2
 鲁甸地区  l u3 d ian4 d i4 q v1
@@ -6052,6 +6138,7 @@
 整点  zh eng3 d ian3
 南外镇  n an2 uu uai4 zh en4
 早报  z ao3 b ao4
+我行为您  uu uo3 x ing2 uu ui2 n in2
 江宁区  j iang1 n ing2 q v1
 腾讯  t eng2 x vn4
 融信  r ong2 x in4
@@ -6082,9 +6169,9 @@
 十西路  sh ix2 x i1 l u4
 资产亮眼  z iy1 ch an3 l iang4 ii ian3
 茅山  m ao2 sh an1
-经开  j ing1|j ing4 k ai1
+经开 null
 亚罗士打  ii ia4 l uo2 sh ix4 d a3
-几倍  j i1|j i3 b ei4
+几倍 null
 电视剧频道  d ian4 sh ix4 j v4 p in2 d ao4
 凯丰  k ai3 f eng1
 新安江  x in1 aa an1 j iang1
@@ -6100,7 +6187,7 @@
 上下游企业  sh ang4 x ia4 ii iu2 q i3 ii ie4
 波尔多  b o1 ee er3 d uo1
 娄底市  l ou2 d i3 sh ix4
-曲婉婷  q v1|q v3 uu uan3 t ing2
+曲婉婷 null
 这份  zh e4 f en4
 北海道  b ei2 h ai3 d ao4
 呼叫保持  h u1 j iao4 b ao3 ch ix2
@@ -6111,14 +6198,15 @@
 红旗街  h ong2 q i2 j ie1
 功夫小蝇  g ong1 f u5 x iao3 ii ing2
 戚家山  q i1 j ia1 sh an1
+泰和路  t ai4 h e2 l u4
 溪口  x i1 k ou3
 非第三方  f ei1 d i4 s an1 f ang1
 也不错  ii ie3 b u2 c uo4
 信用卡积分  x in4 ii iong4 k a3 j i1 f en1
 外汇支出  uu uai4 h ui4 zh ix1 ch u1
-周应波  zh ou1 ii ing1|ii ing4 b o1
+周应波 null
 艾丁湖  aa ai4 d ing1 h u2
-不进入  b u2|b u4 j in4 r u4
+不进入 null
 改一下  g ai3 ii i2 x ia4
 外汇收入  uu uai4 h ui4 sh ou1 r u4
 太平镇  t ai4 p ing2 zh en4
@@ -6137,8 +6225,8 @@
 马巴鲁马  m a3 b a1 l u3 m a3
 附表  f u4 b iao3
 视讯  sh ix4 x vn4
-扎鲁特旗  z a1|zh a1|zh a2 l u3 t e4 q i2
-小铺  x iao3 p u1|p u4
+扎鲁特旗 null
+小铺 null
 获奖企业  h uo4 j iang3 q i3 ii ie4
 港澳台居民  g ang3 aa ao4 t ai2 j v1 m in2
 爱情公寓  aa ai4 q ing2 g ong1 vv v4
@@ -6160,7 +6248,7 @@
 晋州市  j in4 zh ou1 sh ix4
 七色彩铃  q i1 s e4 c ai3 l ing2
 取现金额  q v3 x ian4 j in1 ee e2
-泡泡卡  p ao1|p ao4 p ao1|p ao4 k a3|q ia3
+泡泡卡 null
 互联互通  h u4 l ian2 h u4 t ong1
 厄兰岛  ee e4 l an2 d ao3
 套餐包  t ao4 c an1 b ao1
@@ -6178,6 +6266,7 @@
 小镇  x iao3 zh en4
 时间内  sh ix2 j ian1 n ei4
 经济条件  j ing1 j i4 t iao2 j ian4
+光纤宽带 null
 小微通  x iao3 uu ui1 t ong1
 穆拉姆维亚  m u4 l a1 m u3 uu ui2 ii ia4
 克雷菲尔德  k e4 l ei2 f ei1 ee er3 d e2
@@ -6186,7 +6275,7 @@
 宽带猫  k uan1 d ai4 m ao1
 皮尔  p i2 ee er3
 征信中心  zh eng1 x in4 zh ong1 x in1
-不要钱  b u2|b u4 ii iao4 q ian2
+不要钱  b u2 ii iao4 q ian2
 濮阳市  p u2 ii iang2 sh ix4
 胜利路  sh eng4 l i4 l u4
 民生银行  m in2 sh eng1 ii in2 h ang2
@@ -6201,7 +6290,7 @@
 痴狂  ch ix1 k uang2
 皮尼  p i2 n i2
 找下  zh ao3 x ia4
-龙柏  l ong2 b ai3|b o2
+龙柏 null
 茶城  ch a2 ch eng2
 才可  c ai2 k e3
 创业路  ch uang4 ii ie4 l u4
@@ -6209,11 +6298,11 @@
 息信贷  x i1 x in4 d ai4
 醴陵  l i3 l ing2
 普吉  p u3 j i2
-教育背景  j iao4 vv v4|j iao4 vv v5 b ei4 j ing3
+教育背景 null
 布雷根茨  b u4 l ei2 g en1 c iy2
 兰山区  l an2 sh an1 q v1
 出租车费  ch u1 z u1 ch e1 f ei4
-几元  j i1|j i3 vv van2
+几元 null
 英属维京群岛  ii ing1 sh u3 uu ui2 j ing1 q vn2 d ao3
 爱电影  aa ai4 d ian4 ii ing3
 收款人  sh ou1 k uan3 r en2
@@ -6228,7 +6317,7 @@
 欧非地区  oo ou1 f ei1 d i4 q v1
 左岸  z uo3 aa an4
 塔马塔夫  t a3 m a3 t a3 f u1
-兴庄  x ing1|x ing4 zh uang1
+兴庄 null
 呼入限制  h u1 r u4 x ian4 zh ix4
 记入  j i4 r u4
 运输过程  vv vn4 sh u1 g uo4 ch eng2
@@ -6241,7 +6330,7 @@
 扣减  k ou4 j ian3
 药妆网  ii iao4 zh uang1 uu uang3
 拉贝河畔乌斯季  l a1 b ei4 h e2 p an4 uu u1 s iy1 j i4
-不相同  b u2|b u4 x iang1 t ong2
+不相同 null
 人工台  r en2 g ong1 t ai2
 保通  b ao3 t ong1
 不准唯  b u4 zh un3 uu ui2
@@ -6254,12 +6343,12 @@
 点对点  d ian3 d ui4 d ian3
 等下  d eng3 x ia4
 库克岛  k u4 k e4 d ao3
-不清楚  b u2|b u4 q ing1 ch u3
+不清楚 null
 服饰潮流  f u2 sh ix4 ch ao2 l iu2
 飞利浦  f ei1 l i4 p u3
 流量叠加包  l iu2 l iang4 d ie2 j ia1 b ao1
 电脑医生  d ian4 n ao3 ii i1 sh eng1
-上不去  sh ang4 b u2|b u4 q v4
+上不去 null
 车库  ch e1 k u4
 不同层面  b u4 t ong2 c eng2 m ian4
 评估  p ing2 g u1
@@ -6270,7 +6359,7 @@
 双限  sh uang1 x ian4
 外勤助手  uu uai4 q in2 zh u4 sh ou3
 网络版  uu uang3 l uo4 b an3
-迫于  p ai3|p o4 vv v2
+迫于 null
 塔穆宁  t a3 m u4 n ing4
 打后  d a3 h ou4
 接入号  j ie1 r u4 h ao4
@@ -6285,7 +6374,7 @@
 天津北  t ian1 j in1 b ei3
 特殊情况  t e4 sh u1 q ing2 k uang4
 国外电话  g uo2 uu uai4 d ian4 h ua4
-几分  j i1|j i3 f en1|f en4
+几分 null
 消磁  x iao1 c iy2
 达曼胡尔  d a2 m an4 h u2 ee er3
 剪羊毛  j ian3 ii iang2 m ao2
@@ -6311,6 +6400,7 @@
 单位存款  d an1 uu ui4 c un2 k uan3
 妙招  m iao4 zh ao1
 离线  l i2 x ian4
+华中路  h ua2 zh ong1 l u4
 聚划算  j v4 h ua2 s uan4
 福州路  f u2 zh ou1 l u4
 宝贝计划  b ao3 b ei4 j i4 h ua4
@@ -6334,7 +6424,7 @@
 没错  m ei2 c uo4
 短信息  d uan3 x in4 x i1
 比特也威京  b i3 t e4 ii ie3 uu ui1 j ing1
-早教  z ao3 j iao1|j iao4
+早教 null
 慈善公益  c iy2 sh an4 g ong1 ii i4
 封顶  f eng1 d ing3
 招聘人员  zh ao1 p in4 r en2 vv van2
@@ -6355,7 +6445,7 @@
 金钢  j in1 g ang1
 臻美  zh en1 m ei3
 文化路  uu un2 h ua4 l u4
-经停站  j ing1|j ing4 t ing2 zh an4
+经停站 null
 扩到  k uo4 d ao4
 江都市  j iang1 d u1 sh ix4
 纳税所得额  n a4 sh ui4 s uo3 d e2 ee e2
@@ -6369,13 +6459,13 @@
 准留学生  zh un3 l iu2 x ve2 sh eng1
 订单类  d ing4 d an1 l ei4
 租赁保函  z u1 l in4 b ao3 h an2
-转开  zh uan3|zh uan4 k ai1
+转开 null
 离岸信托  l i2 aa an4 x in4 t uo1
 太热  t ai4 r e4
 元日  vv van2 r iz4
 嗨嗨  h ai1 h ai1
 罗兹  l uo2 z iy1
-马扎布卡  m a3 zh a2 b u4 k a3|q ia3
+马扎布卡 null
 优惠商户  ii iu1 h ui4 sh ang1 h u4
 洮北区  t ao2 b ei3 q v1
 要不要扣  ii iao4 b u5 ii iao4 k ou4
@@ -6395,26 +6485,26 @@
 流量王  l iu2 l iang4 uu uang2
 承保  ch eng2 b ao3
 醒鱼  x ing3 vv v2
-玫瑰湾  m ei2 g ui1|m ei2 g ui4 uu uan1
+玫瑰湾 null
 投注站  t ou2 zh u4 zh an4
 尔雅  ee er3 ii ia3
 音乐岛  ii in1 vv ve4 d ao3
 啥时  sh a2 sh ix2
 沙雅  sh a1 ii ia3
-星子县  x ing1 z iy3|x ing1 z iy5 x ian4
+星子县 null
 发票信息  f a1 p iao4 x in4 x i1
 逾期状态  vv v2 q i1 zh uang4 t ai4
 姜家  j iang1 j ia1
 外环  uu uai4 h uan2
 受限  sh ou4 x ian4
 用超  ii iong4 ch ao1
-不限量卡  b u2|b u4 x ian4 l iang4 k a3|q ia3
+不限量卡 null
 帝王玉  d i4 uu uang2 vv v4
 是否可以  sh ix4 f ou3 k e2 ii i3
 青橙  q ing1 ch eng2
 襄汾县  x iang1 f en2 x ian4
 金银  j in1 ii in2
-潜在供应商  q ian2 z ai4 g ong1 ii ing4|g ong4 ii ing4 sh ang1
+潜在供应商 null
 易支付  ii i4 zh ix1 f u4
 互相打  h u4 x iang1 d a3
 服务电话  f u2 uu u4 d ian4 h ua4
@@ -6439,11 +6529,11 @@
 消费清单  x iao1 f ei4 q ing1 d an1
 总院  z ong3 vv van4
 限制条件  x ian4 zh ix4 t iao2 j ian4
-结成  j ie1|j ie2 ch eng2
+结成 null
 复兴门  f u4 x ing1 m en2
 第十  d i4 sh ix2
 畅听包  ch ang4 t ing1 b ao1
-帖士  t ie1|t ie3|t ie4 sh ix4
+帖士 null
 告知书  g ao4 zh ix1 sh u1
 西青  x i1 q ing1
 续延  x v4 ii ian2
@@ -6458,7 +6548,7 @@
 新浦  x in1 p u3
 桑德贝  s ang1 d e2 b ei4
 跟进  g en1 j in4
-家里人  j ia1 l i3|j ia1 l i5 r en2
+家里人 null
 市场分析  sh ix4 ch ang3 f en1 x i5
 漳平市  zh ang1 p ing2 sh ix4
 问问  uu un4 uu un4
@@ -6483,31 +6573,31 @@
 专业技术  zh uan1 ii ie4 j i4 sh u4
 诺沃西比尔斯克  n uo4 uu uo4 x i1 b i3 ee er3 s iy1 k e4
 随意借  s ui2 ii i4 j ie4
-生产设备  sh eng1 ch an3 sh e4 b ei4|sh e4 b ei5
-发改委  f a1|f a4 g ai3 uu ui3
+生产设备 null
+发改委 null
 红桥  h ong2 q iao2
 未满足  uu ui4 m an3 z u2
 要素分析价格  ii iao4 s u4 f en1 x i5 j ia4 g e2
 氏船级社  sh ix4 ch uan2 j i2 sh e4
 一对一  ii i2 d ui4 ii i1
 国际要求  g uo2 j i4 ii iao1 q iu2
-几台  j i1|j i3 t ai2
+几台 null
 壁纸  b i4 zh ix3
 等值  d eng3 zh ix2
-几号  j i1|j i3 h ao4
+几号 null
 姜山  j iang1 sh an1
 生活小常识  sh eng1 h uo2 x iao3 ch ang2 sh ix2
 手工艺品  sh ou3 g ong1 ii i4 p in3
 延庆县  ii ian2 q ing4 x ian4
 格拉德斯通  g e2 l a1 d e2 s iy1 t ong1
 电话听  d ian4 h ua4 t ing1
-足不出户  z u2 b u2|b u4 ch u1 h u4
+足不出户 null
 电脑保姆  d ian4 n ao3 b ao2 m u3
 出口贸易型  ch u1 k ou3 m ao4 ii i4 x ing2
 车站路  ch e1 zh an4 l u4
 留学费用  l iu2 x ve2 f ei4 ii iong4
 南木林  n an2 m u4 l in2
-泡泡堂  p ao1|p ao4 p ao1|p ao4 t ang2
+泡泡堂 null
 法币券  f a3 b i4 q van4
 水磨沟  sh ui3 m o4 g ou1
 双频  sh uang1 p in2
@@ -6529,7 +6619,7 @@
 杨浦区  ii iang2 p u3 q v1
 梅陇  m ei2 l ong3
 跳跳  t iao4 t iao4
-看吧  k an1|k an4 b a1|b a5
+看吧 null
 支票账户  zh ix1 p iao4 zh ang4 h u4
 前三天  q ian2 s an1 t ian1
 申赎  sh en1 sh u2
@@ -6537,7 +6627,7 @@
 牵手  q ian1 sh ou3
 程真  ch eng2 zh en1
 穆富利拉  m u4 f u4 l i4 l a1
-几周  j i1|j i3 zh ou1
+几周 null
 松陵鲈乡  s ong1 l ing2 l u2 x iang1
 风险意识  f eng1 x ian3 ii i4 sh ix5
 家庭生活费  j ia1 t ing2 sh eng1 h uo2 f ei4
@@ -6554,7 +6644,7 @@
 理财经验  l i3 c ai2 j ing1 ii ian4
 响当当  x iang3 d ang1 d ang1
 电费  d ian4 f ei4
-搞不明白  g ao3 b u2|b u4 m ing2 b ai5
+搞不明白  g ao3 b u4 m ing2 b ai2
 缓存  h uan3 c un2
 移动电话  ii i2 d ong4 d ian4 h ua4
 视迅  sh ix4 x vn4
@@ -6564,13 +6654,13 @@
 辉南县  h ui1 n an2 x ian4
 业务资费  ii ie4 uu u4 z iy1 f ei4
 汾西县  f en2 x i1 x ian4
-扎兰屯  z a1|zh a1|zh a2 l an2 t un2
+扎兰屯 null
 出具  ch u1 j v4
-科尔沁区  k e1 ee er3 q in4|k e4 ee er3 q in4 q v1
+科尔沁区 null
 未返还  uu ui4 f an3 h uan2
 回报系列  h ui2 b ao4 x i4 l ie4
 景德镇市  j ing3 d e2 zh en4 sh ix4
-家里冷  j ia1 l i3|j ia1 l i5 l eng3
+家里冷 null
 韩国版  h an2 g uo2 b an3
 消费税  x iao1 f ei4 sh ui4
 圭尔夫  g ui1 ee er3 f u1
@@ -6578,7 +6668,7 @@
 龙泉驿区  l ong2 q van2 ii i4 q v1
 面向全球  m ian4 x iang4 q van2 q iu2
 慧生活  h ui4 sh eng1 h uo2
-不出去  b u2|b u4 ch u1 q v4
+不出去 null
 挂失理赔  g ua4 sh ix1 l i3 p ei2
 收钱么  sh ou1 q ian2 m e5
 洗车店  x i3 ch e1 d ian4
@@ -6590,18 +6680,18 @@
 黑莓  h ei1 m ei2
 城域网  ch eng2 vv v4 uu uang3
 十六岁  sh ix2 l iu4 s ui4
-网吧  uu uang3 b a1|b a5
-网否  uu uang3 f ou3|p i3
+网吧 null
+网否 null
 舒心惠  sh u1 x in1 h ui4
 流程图  l iu2 ch eng2 t u2
-短信群发  d uan3 x in4 q vn2 f a1|f a4
+短信群发 null
 甜橙快贷  t ian2 ch eng2 k uai4 d ai4
 汉滨区  h an4 b in1 q v1
 外大街  uu uai4 d a4 j ie1
 安徽卫视  aa an1 h ui1 uu ui4 sh ix4
 威士  uu ui1 sh ix4
 实物贵金属  sh ix2 uu u4 g ui4 j in1 sh u3
-中经汇通  zh ong1|zh ong4 j ing1|j ing4 h ui4 t ong1
+中经汇通 null
 主体作用  zh u2 t i3 z uo4 ii iong4
 汇市日  h ui4 sh ix4 r iz4
 交管通  j iao1 g uan3 t ong1
@@ -6617,6 +6707,7 @@
 这号  zh e4 h ao4
 选下  x van3 x ia4
 收款人姓名  sh ou1 k uan3 r en2 x ing4 m ing2
+都江堰 null
 欢乐颂  h uan1 l e4 s ong4
 资金运用  z iy1 j in1 vv vn4 ii iong4
 结算优势  j ie2 s uan4 ii iu1 sh ix4
@@ -6625,6 +6716,7 @@
 双立人  sh uang1 l i4 r en2
 银行汇票  ii in2 h ang2 h ui4 p iao4
 诚信  ch eng2 x in4
+圣基茨和尼维斯 null
 畅读  ch ang4 d u2
 第二季  d i4 ee er4 j i4
 龙虎山  l ong2 h u3 sh an1
@@ -6634,6 +6726,7 @@
 自营  z iy4 ii ing2
 米蒂利尼  m i3 d i4 l i4 n i2
 第三步  d i4 s an1 b u4
+汉堡分行 null
 后里  h ou4 l i3
 七里河区  q i1 l i3 h e2 q v1
 啥样  sh a2 ii iang4
@@ -6651,15 +6744,17 @@
 总代理  z ong3 d ai4 l i3
 定婚热  d ing4 h un1 r e4
 迁址  q ian1 zh ix3
+自己的账户 null
 布林迪西  b u4 l in2 d i2 x i1
 普兰店  p u3 l an2 d ian4
 犹太自治州  ii iu2 t ai4 z iy4 zh ix4 zh ou1
 下星期六  x ia4 x ing1 q i1 l iu4
 交易时间  j iao1 ii i4 sh ix2 j ian1
 上月五号  sh ang4 vv ve4 uu u3 h ao4
+嘉和 null
 科罗  k e1 l uo2
 绽开  zh an4 k ai1
-只限  zh ix1|zh ix3 x ian4
+只限 null
 两家门店  l iang3 j ia1 m en2 d ian4
 治安环境  zh ix4 aa an1 h uan2 j ing4
 这周  zh e4 zh ou1
@@ -6672,7 +6767,7 @@
 布拉索夫  b u4 l a1 s uo3 f u1
 福利社  f u2 l i4 sh e4
 台胞证  t ai2 b ao1 zh eng4
-相城  x iang1|x iang4 ch eng2
+相城 null
 达尔豪斯  d a2 ee er3 h ao2 s iy1
 短信业务  d uan3 x in4 ii ie4 uu u4
 投保  t ou2 b ao3
@@ -6682,7 +6777,7 @@
 天翼云盘  t ian1 ii i4 vv vn2 p an2
 江西卫视  j iang1 x i1 uu ui4 sh ix4
 茶山  ch a2 sh an1
-会不会收  h ui4 b u2 h ui4|h ui4 b u5 h ui4 sh ou1
+会不会收 null
 天翼领航  t ian1 ii i4 l ing3 h ang2
 汇业务  h ui4 ii ie4 uu u4
 乔治王子城  q iao2 zh ix4 uu uang2 z iy3 ch eng2
@@ -6714,7 +6809,7 @@
 乡亲网  x iang1 q in5 uu uang3
 龙沙  l ong2 sh a1
 英语银行服务  ii ing1 vv v3 ii in2 h ang2 f u2 uu u4
-转成  zh uan3|zh uan4 ch eng2
+转成 null
 小马  x iao3 m a3
 跨国资金  k ua4 g uo2 z iy1 j in1
 库里蒂巴  k u4 l i3 d i4 b a1
@@ -6727,14 +6822,14 @@
 望江门  uu uang4 j iang1 m en2
 循环信用  x vn2 h uan2 x in4 ii iong4
 爆笑校园  b ao4 x iao4 x iao4 vv van2
-转户  zh uan3|zh uan4 h u4
+转户 null
 永久居民  ii iong2 j iu3 j v1 m in2
 免费用  m ian3 f ei4 ii iong4
 物料  uu u4 l iao4
 信贷工厂  x in4 d ai4 g ong1 ch ang3
 购买成本  g ou4 m ai3 ch eng2 b en3
 汇款人  h ui4 k uan3 r en2
-听不清楚  t ing1 b u2|b u4 q ing1 ch u3
+听不清楚 null
 著名学府  zh u4 m ing2 x ve2 f u3
 移动公司  ii i2 d ong4 g ong1 s iy1
 示范单位  sh ix4 f an4 d an1 uu ui4
@@ -6781,6 +6876,7 @@
 鼓浪屿  g u3 l ang4 vv v3
 限购  x ian4 g ou4
 福袋  f u2 d ai4
+科特迪瓦共和国  k e1 t e4 d i2 uu ua3 g ong4 h e2 g uo2
 黑山扈  h ei1 sh an1 h u4
 秦皇岛市  q in2 h uang2 d ao3 sh ix4
 承压  ch eng2 ii ia1
@@ -6813,13 +6909,13 @@
 护佑  h u4 ii iu4
 号附  h ao4 f u4
 上海汇市  sh ang4 h ai3 h ui4 sh ix4
-好礼相送  h ao3 l i3 x iang1|x iang4 s ong4
+好礼相送 null
 路况通  l u4 k uang4 t ong1
-育空领地  vv v4 k ong1|k ong4 l ing3 d i4
+育空领地 null
 江苏卫视  j iang1 s u1 uu ui4 sh ix4
 缺失  q ve1 sh ix1
 晴天  q ing2 t ian1
-咋会事  z a3 h ui4|k uai4 sh ix4
+咋会事 null
 秀英  x iu4 ii ing1
 特色权益  t e4 s e4 q van2 ii i4
 号院  h ao4 vv van4
@@ -6849,40 +6945,40 @@
 台面  t ai2 m ian4
 普通贷记  p u3 t ong1 d ai4 j i4
 滩区  t an1 q v1
-几块  j i1|j i3 k uai4
+几块 null
 三九  s an1 j iu3
 尊礼遇  z un1 l i3 vv v4
-担保人  d an1|d an4 b ao3 r en2
+担保人  d an1 b ao3 r en2
 家服网  j ia1 f u2 uu uang3
 语信  vv v3 x in4
 接入器  j ie1 r u4 q i4
 追凶  zh ui1 x iong1
 美体  m ei3 t i3
 一对多账户  ii i2 d ui4 d uo1 zh ang4 h u4
-不明显  b u2|b u4 m ing2 x ian3
+不明显  b u4 m ing2 x ian3
 集群  j i2 q vn2
 合适资格  h e2 sh ix4 z iy1 g e2
 购买下  g ou4 m ai3 x ia4
 齐潘盖依  q i2 p an1 g ai4 ii i1
-不上  b u2|b u4 sh ang4
+不上 null
 转换器  zh uan3 h uan4 q i4
-不下  b u2|b u4 x ia4
+不下 null
 智机通  zh ix4 j i1 t ong1
 放缓  f ang4 h uan3
 辛辛那提  x in1 x in1 n a4 t i2
-不一  b u2|b u4 ii i1
+不一 null
 集美  j i2 m ei3
 诊功能  zh en3 g ong1 n eng2
 申请关闭  sh en1 q ing3 g uan1 b i4
 并入  b ing4 r u4
-转接  zh uan3|zh uan4 j ie1
+转接 null
 潍坊市  uu ui2 f ang2 sh ix4
 呆账  d ai1 zh ang4
 拉斯帕尔马斯  l a1 s iy1 p a4 ee er3 m a3 s iy1
-预结汇汇款  vv v4 j ie1|j ie2 h ui4 h ui4 k uan3
+预结汇汇款 null
 巴西蜂胶  b a1 x i1 f eng1 j iao1
 初值  ch u1 zh ix2
-分包  f en1|f en4 b ao1
+分包 null
 注册费  zh u4 c e4 f ei4
 三亚  s an1 ii ia4
 产品销售  ch an2 p in3 x iao1 sh ou4
@@ -6896,20 +6992,20 @@
 第四季  d i4 s iy4 j i4
 龙湖  l ong2 h u2
 贷款规模  d ai4 k uan3 g ui1 m o2
-切勿  q ie1|q ie4 uu u4
+切勿 null
 檀香山  t an2 x iang1 sh an1
 万份  uu uan4 f en4
 开放式  k ai1 f ang4 sh ix4
 报修  b ao4 x iu1
 河西路  h e2 x i1 l u4
 乌普萨拉  uu u1 p u3 s a4 l a1
-龙斗士  l ong2 d ou3|d ou4 sh ix4
+龙斗士 null
 霍州市  h uo4 zh ou1 sh ix4
 金太阳  j in1 t ai4 ii iang2
 保管箱  b ao2 g uan3 x iang1
 五等奖  uu u3 d eng3 j iang3
 秀莲  x iu4 l ian2
-亚马逊否  ii ia4 m a3 x vn4 f ou3|p i3
+亚马逊否 null
 非定制版  f ei1 d ing4 zh ix4 b an3
 高含金量  g ao1 h an2 j in1 l iang4
 收服务费  sh ou1 f u2 uu u4 f ei4
@@ -6924,15 +7020,16 @@
 全景  q van2 j ing3
 嘉园  j ia1 vv van2
 警卫局  j ing3 uu ui4 j v2
-不了  b u2|b u4 l e5
+不了 null
 龙湾  l ong2 uu uan1
 电邮  d ian4 ii iu2
 操作手册  c ao1 z uo4 sh ou3 c e4
 信用审查  x in4 ii iong4 sh en3 ch a2
 马赫迪耶  m a3 h e4 d i2 ii ie1
 外币兑换业务  uu uai4 b i4 d ui4 h uan4 ii ie4 uu u4
-好几次  h ao3|h ao4 j i3 c iy4
-不适合  b u2|b u4 sh ix4 h e2
+切换为 null
+好几次  h ao2 j i3 c iy4
+不适合 null
 梁卓恩  l iang2 zh uo2 ee en1
 服务客户端  f u2 uu u4 k e4 h u4 d uan1
 叶面  ii ie4 m ian4
@@ -6950,7 +7047,7 @@
 青漾  q ing1 ii iang4
 内夫谢希尔  n ei4 f u1 x ie4 x i1 ee er3
 等值货币  d eng3 zh ix2 h uo4 b i4
-不亮  b u2|b u4 l iang4
+不亮 null
 基茨比厄尔  j i1 c iy2 b i3 ee e4 ee er3
 体育村  t i3 vv v4 c un1
 翔安区  x iang2 aa an1 q v1
@@ -6969,12 +7066,12 @@
 动物园最好玩  d ong4 uu u4 vv van2 z ui4 h ao3 uu uan2
 温州市  uu un1 zh ou1 sh ix4
 不用钱  b u2 ii iong4 q ian2
-下会  x ia4 h ui4|k uai4
-小鲜  x iao3 x ian1|x ian3
+下会 null
+小鲜 null
 金融授信  j in1 r ong2 sh ou4 x in4
 话务  h ua4 uu u4
-全曲  q van2 q v1|q v3
-创元  ch uang1|ch uang4 vv van2
+全曲 null
+创元 null
 埃尔祖鲁姆  aa ai1 ee er3 z u3 l u3 m u3
 科教文卫  k e1 j iao4 uu un2 uu ui4
 吐钞  t u3 ch ao1
@@ -7014,7 +7111,7 @@
 上一年  sh ang4 ii i4 n ian2
 第十一  d i4 sh ix2 ii i1
 稍等  sh ao1 d eng3
-兴顺街  x ing1|x ing4 sh un4 j ie1
+兴顺街 null
 话包  h ua4 b ao1
 预付费手机  vv v4 f u4 f ei4 sh ou3 j i1
 刘凯  l iu2 k ai3
@@ -7025,13 +7122,14 @@
 专享  zh uan1 x iang3
 不同规定  b u4 t ong2 g ui1 d ing4
 高芸  g ao1 vv vn2
-空港  k ong1|k ong4 g ang3
+空港 null
 文献西路  uu un2 x ian4 x i1 l u4
 临川区  l in2 ch uan1 q v1
 服务号码  f u2 uu u4 h ao4 m a3
 刘刚  l iu2 g ang1
 实时汇率  sh ix2 sh ix2 h ui4 l v4
 盟市  m eng2 sh ix4
+莲都区 null
 到位  d ao4 uu ui4
 年包  n ian2 b ao1
 积分抵用券  j i1 f en1 d i3 ii iong4 q van4
@@ -7041,15 +7139,15 @@
 英属维尔京群岛  ii ing1 sh u3 uu ui2 ee er3 j ing1 q vn2 d ao3
 销易达  x iao1 ii i4 d a2
 天眼  t ian1 ii ian3
-稳定发展期  uu un3 d ing4 f a1|f a4 zh an3 q i1
+稳定发展期  uu un3 d ing4 f a1 zh an3 q i1
 下保  x ia4 b ao3
 查一下  ch a2 ii i2 x ia4
 主要货币  zh u3 ii iao4 h uo4 b i4
 荆州  j ing1 zh ou1
 其时  q i2 sh ix2
 一元  ii i1 vv van2
-制片人  zh ix4 p ian1|zh ix4 p ian4 r en2
-几大  j i1|j i3 d a4|d ai4
+制片人 null
+几大 null
 连续剧  l ian2 x v4 j v4
 德宏州  d e2 h ong2 zh ou1
 使用提示  sh ix3 ii iong4 t i2 sh ix4
@@ -7059,7 +7157,7 @@
 是否需要  sh ix4 f ou3 x v1 ii iao4
 绘本  h ui4 b en3
 净利润  j ing4 l i4 r un4
-宁可风  n ing2 k e3|n ing4 k e3 f eng1
+宁可风 null
 学生票  x ve2 sh eng1 p iao4
 层面  c eng2 m ian4
 绩效  j i4 x iao4
@@ -7101,11 +7199,12 @@
 小额款项  x iao3 ee e2 k uan3 x iang4
 沃特福德  uu uo4 t e4 f u2 d e2
 海德尔贝格  h ai3 d e2 ee er3 b ei4 g e2
-相容  x iang1|x iang4 r ong2
+相容 null
 您工资  n in2 g ong1 z iy1
 罗塔  l uo2 t a3
 银行部  ii in2 h ang2 b u4
 海良  h ai3 l iang2
+山上冷不冷啊 null
 天翼通  t ian1 ii i4 t ong1
 市中心路  sh ix4 zh ong1 x in1 l u4
 简体  j ian3 t i3
@@ -7113,7 +7212,7 @@
 传真件  ch uan2 zh en1 j ian4
 甘蔗镇  g an1 zh e5 zh en4
 优享包  ii iu1 x iang3 b ao1
-专供  zh uan1 g ong1|g ong4
+专供 null
 分支机构  f en1 zh ix1 j i1 g ou4
 保卫局  b ao3 uu ui4 j v2
 哥打基纳巴卢  g e1 d a3 j i1 n a4 b a1 l u2
@@ -7127,12 +7226,12 @@
 港汇  g ang3 h ui4
 所在国信息  s uo3 z ai4 g uo2 x in4 x i1
 三百六十五天  s an1 b ai3 l iu4 sh ix2 uu u3 t ian1
-话吧  h ua4 b a1|b a5
-几月几号  j i1|j i3 vv ve4 j i1|j i3 h ao4
+话吧 null
+几月几号 null
 误删  uu u4 sh an1
 何原因  h e2 vv van2 ii in1
 主办账户  zh u3 b an4 zh ang4 h u4
-会不会扣取  h ui4 b u2 h ui4|h ui4 b u5 h ui4 k ou4 q v3
+会不会扣取 null
 信用卡业务  x in4 ii iong4 k a3 ii ie4 uu u4
 追呼  zh ui1 h u1
 进境  j in4 j ing4
@@ -7154,10 +7253,11 @@
 豪门千金  h ao2 m en2 q ian1 j in1
 必要技能  b i4 ii iao4 j i4 n eng2
 邹城市  z ou1 ch eng2 sh ix4
+于都县  vv v2 d u1 x ian4
 布雷西亚  b u4 l ei2 x i1 ii ia4
 达拉特旗  d a2 l a1 t e4 q i2
 特约商户  t e4 vv ve1 sh ang1 h u4
-正当利益  zh eng4 d ang1|zh eng4 d ang4 l i4 ii i4
+正当利益 null
 客户张先生  k e4 h u4 zh ang1 x ian1 sh eng5
 狗屎  g ou3 sh ix3
 金融中心  j in1 r ong2 zh ong1 x in1
@@ -7173,6 +7273,7 @@
 这个手机号  zh e4 g e5 sh ou3 j i1 h ao4
 证明文件  zh eng4 m ing2 uu un2 j ian4
 时段  sh ix2 d uan4
+多米尼加共和国  d uo1 m i3 n i2 j ia1 g ong4 h e2 g uo2
 免功能费  m ian3 g ong1 n eng2 f ei4
 斯里巴加湾市  s iy1 l i3 b a1 j ia1 uu uan1 sh ix4
 巴西本土  b a1 x i1 b en2 t u3
@@ -7185,9 +7286,9 @@
 资产负债表  z iy1 ch an3 f u4 zh ai4 b iao3
 专业团队  zh uan1 ii ie4 t uan2 d ui4
 别克  b ie2 k e4
-不想要  b u2|b u4 x iang3 ii iao4
+不想要 null
 怀柔区  h uai2 r ou2 q v1
-几元钱  j i1|j i3 vv van2 q ian2
+几元钱 null
 美剧  m ei3 j v4
 创业基地  ch uang4 ii ie4 j i1 d i4
 学校通  x ve2 x iao4 t ong1
@@ -7208,7 +7309,8 @@
 春晓  ch un1 x iao3
 东风路  d ong1 f eng1 l u4
 好多费  h ao3 d uo1 f ei4
-一级分销商  ii i1 j i2 f en1|f en4 x iao1 sh ang1
+一级分销商 null
+自己的宝贝 null
 全方位服务  q van2 f ang1 uu ui4 f u2 uu u4
 我操  uu uo3 c ao1
 此号码  c iy3 h ao4 m a3
@@ -7223,9 +7325,9 @@
 漫享  m an4 x iang3
 融资保函  r ong2 z iy1 b ao3 h an2
 杨村镇  ii iang2 c un1 zh en4
-不入  b u2|b u4 r u4
+不入 null
 每月份额钱  m ei3 vv ve4 f en4 ee e2 q ian2
-不全  b u2|b u4 q van2
+不全 null
 青州市  q ing1 zh ou1 sh ix4
 下午六点  x ia4 uu u3 l iu4 d ian3
 法律责任  f a3 l v4 z e2 r en4
@@ -7250,7 +7352,7 @@
 稀缺  x i1 q ve1
 黔西  q ian2 x i1
 北九州  b ei3 j iu3 zh ou1
-广发  g uang3 f a1|f a4
+广发 null
 塔尔图斯  t a3 ee er3 t u2 s iy1
 凉州  l iang2 zh ou1
 使用情况  sh ix3 ii iong4 q ing2 k uang4
@@ -7261,7 +7363,7 @@
 相同式样  x iang1 t ong2 sh ix4 ii iang4
 专用网  zh uan1 ii iong4 uu uang3
 中心城市  zh ong1 x in1 ch eng2 sh ix4
-兴城市  x ing1|x ing4 ch eng2 sh ix4
+兴城市  x ing1 ch eng2 sh ix4
 文德路  uu un2 d e2 l u4
 液化气  ii ie4 h ua4 q i4
 高投资者  g ao1 t ou2 z iy1 zh e3
@@ -7276,10 +7378,10 @@
 石桥头  sh ix2 q iao2 t ou2
 让我同事  r ang4 uu uo3 t ong2 sh ix4
 天禄  t ian1 l u4
-水偏少  sh ui3 p ian1 sh ao3|sh ao4
+水偏少 null
 辣归西  l a4 g ui1 x i1
 关门山  g uan1 m en2 sh an1
-不限量  b u2|b u4 x ian4 l iang4
+不限量 null
 通话时  t ong1 h ua4 sh ix2
 范玮琪  f an4 uu ui3 q i2
 扣完  k ou4 uu uan2
@@ -7294,8 +7396,8 @@
 神庙逃亡  sh en2 m iao4 t ao2 uu uang2
 现在密码  x ian4 z ai4 m i4 m a3
 客户终端  k e4 h u4 zh ong1 d uan1
-优质教育  ii iu1 zh ix4 j iao4 vv v4|j iao4 vv v5
-差旅  c iy1|ch a1|ch a4|ch ai1 l v3
+优质教育 null
+差旅 null
 个别国家  g e4 b ie2 g uo2 j ia1
 科技贷  k e1 j i4 d ai4
 美属维尔京群岛  m ei3 sh u3 uu ui2 ee er3 j ing1 q vn2 d ao3
@@ -7303,7 +7405,7 @@
 迎宾  ii ing2 b in1
 社会融资  sh e4 h ui4 r ong2 z iy1
 汇款境内  h ui4 k uan3 j ing4 n ei4
-转接到  zh uan3|zh uan4 j ie1 d ao4
+转接到 null
 华夏行业  h ua2 x ia4 h ang2 ii ie4
 尼马  n i2 m a3
 算了  s uan4 l e5
@@ -7311,7 +7413,7 @@
 生活开支  sh eng1 h uo2 k ai1 zh ix1
 刮刮  g ua1 g ua1
 济宁市  j i3 n ing2 sh ix4
-假货  j ia3|j ia4 h uo4
+假货 null
 帮帮  b ang1 b ang1
 哈萨克斯坦  h a1 s a4 k e4 s iy1 t an3
 达川  d a2 ch uan1
@@ -7324,7 +7426,7 @@
 感恩节  g an3 ee en1 j ie2
 蔡灏海  c ai4 h ao4 h ai3
 小女子  x iao3 n v2 z iy3
-教育助学  j iao4 vv v4|j iao4 vv v5 zh u4 x ve2
+教育助学 null
 日漫  r iz4 m an4
 滨城  b in1 ch eng2
 凡客  f an2 k e4
@@ -7333,7 +7435,7 @@
 母语服务  m u2 vv v3 f u2 uu u4
 债券发行  zh ai4 q van4 f a1 x ing2
 绽放  zh an4 f ang4
-不列颠哥伦比亚  b u2|b u4 l ie4 d ian1 g e1 l un2 b i3 ii ia4
+不列颠哥伦比亚 null
 达州  d a2 zh ou1
 虹口区  h ong2 k ou3 q v1
 产品细节  ch an2 p in3 x i4 j ie2
@@ -7345,13 +7447,13 @@
 博士学位  b o2 sh ix4 x ve2 uu ui4
 经济增长  j ing1 j i4 z eng1 zh ang3
 墨脱县  m o4 t uo1 x ian4
-美发  m ei3 f a1|f a4
+美发 null
 滨江区  b in1 j iang1 q v1
 伤害险  sh ang1 h ai4 x ian3
 布控  b u4 k ong4
 中兴新村  zh ong1 x ing1 x in1 c un1
 去你妹  q v4 n i3 m ei4
-切换到  q ie1|q ie4 h uan4 d ao4
+切换到 null
 三包  s an1 b ao1
 开放日  k ai1 f ang4 r iz4
 互联星空  h u4 l ian2 x ing1 k ong1
@@ -7366,7 +7468,7 @@
 内有  n ei4 ii iu3
 担保方式  d an1 b ao3 f ang1 sh ix4
 数字代表您  sh u4 z iy4 d ai4 b iao3 n in2
-不加  b u2|b u4 j ia1
+不加 null
 像素  x iang4 s u4
 吴兴区  uu u2 x ing1 q v1
 高尔夫  g ao1 ee er3 f u1
@@ -7399,7 +7501,7 @@
 新建路  x in1 j ian4 l u4
 狗年  g ou3 n ian2
 林青霞  l in2 q ing1 x ia2
-债转股结果  zh ai4 zh uan3|zh uan4 g u3 j ie2 g uo3
+债转股结果 null
 客户增额  k e4 h u4 z eng1 ee e2
 扩容  k uo4 r ong2
 眉山  m ei2 sh an1
@@ -7409,10 +7511,10 @@
 下一年  x ia4 ii i4 n ian2
 多米  d uo1 m i3
 北仑区  b ei3 l un2 q v1
-结欠  j ie1|j ie2 q ian4
+结欠 null
 格雷韦纳  g e2 l ei2 uu ui2 n a4
 无线座机  uu u2 x ian4 z uo4 j i1
-几岁  j i1|j i3 s ui4
+几岁 null
 金鹰  j in1 ii ing1
 选择题  x van3 z e2 t i2
 预交  vv v4 j iao1
@@ -7422,19 +7524,20 @@
 手机上网流量  sh ou3 j i1 sh ang4 uu uang3 l iu2 l iang4
 绥化市  s ui2 h ua4 sh ix4
 海珠区  h ai3 zh u1 q v1
-通济隆  t ong1 j i3|j i4 l ong2
+通济隆 null
 业务综述  ii ie4 uu u4 z ong1 sh u4
 电子商务  d ian4 z iy3 sh ang1 uu u4
 嘉实  j ia1 sh ix2
 彩信版  c ai3 x in4 b an3
 维权  uu ui2 q van2
 李宇春  l i3 vv v3 ch un1
-约炮  vv ve1 p ao2|p ao4
+约炮 null
 年度审查  n ian2 d u4 sh en3 ch a2
 四百所  s iy4 b ai3 s uo3
 李沧区  l i3 c ang1 q v1
 银行假日  ii in2 h ang2 j ia4 r iz4
 货币体系  h uo4 b i4 t i3 x i4
+和硕县 null
 东关  d ong1 g uan1
 服务心跳  f u2 uu u4 x in1 t iao4
 拉斯坦努拉  l a1 s iy1 t an3 n u3 l a1
@@ -7442,9 +7545,9 @@
 一账户  ii i1 zh ang4 h u4
 鱼台  vv v2 t ai2
 这家  zh e4 j ia1
-不想订  b u2|b u4 x iang3 d ing4
+不想订 null
 市场竞争  sh ix4 ch ang3 j ing4 zh eng1
-未下载  uu ui4 x ia4 z ai3|z ai4
+未下载 null
 所愿  s uo3 vv van4
 蓬塔戈尔达  p eng2 t a3 g e1 ee er3 d a2
 八宝贝  b a1 b ao3 b ei4
@@ -7453,7 +7556,7 @@
 同程网  t ong2 ch eng2 uu uang3
 军粮城  j vn1 l iang2 ch eng2
 澳门元  aa ao4 m en2 vv van2
-不喜欢  b u2|b u4 x i3 h uan1
+不喜欢  b u4 x i3 h uan1
 济南市  j i3 n an2 sh ix4
 山镇  sh an1 zh en4
 环东路  h uan2 d ong1 l u4
@@ -7470,7 +7573,7 @@
 佩恩六道  p ei4 ee en1 l iu4 d ao4
 社会招聘  sh e4 h ui4 zh ao1 p in4
 手机上网  sh ou3 j i1 sh ang4 uu uang3
-下发  x ia4 f a1|f a4
+下发 null
 滁州  ch u2 zh ou1
 主业  zh u3 ii ie4
 三门峡市  s an1 m en2 x ia2 sh ix4
@@ -7487,14 +7590,15 @@
 年均  n ian2 j vn1
 国际网络  g uo2 j i4 uu uang3 l uo4
 灯市口  d eng1 sh ix4 k ou3
-不变  b u2|b u4 b ian4
+不变 null
 客服热线  k e4 f u2 r e4 x ian4
-肚子疼  d u3 z iy5|d u4 z iy5 t eng2
+肚子疼 null
 解决问题  j ie3 j ve2 uu un4 t i2
 车模  ch e1 m o2
 嘻嘻  x i1 x i1
-不发  b u2|b u4 f a1|f a4
+不发 null
 查询号  ch a2 x vn2 h ao4
+自己的信用 null
 存款收入  c un2 k uan3 sh ou1 r u4
 资费清单  z iy1 f ei4 q ing1 d an1
 龙珠  l ong2 zh u1
@@ -7506,7 +7610,7 @@
 天算  t ian1 s uan4
 升级包  sh eng1 j i2 b ao1
 西双版纳  x i1 sh uang1 b an3 n a4
-制片厂  zh ix4 p ian1|zh ix4 p ian4 ch ang3
+制片厂 null
 督办  d u1 b an4
 邵阳市  sh ao4 ii iang2 sh ix4
 康佳  k ang1 j ia1
@@ -7530,11 +7634,11 @@
 高科技企业  g ao1 k e1 j i4 q i3 ii ie4
 圣马力诺  sh eng4 m a3 l i4 n uo4
 奖名单公告  j iang3 m ing2 d an1 g ong1 g ao4
-横河  h eng2|h eng4 h e2
+横河 null
 计录  j i4 l u4
 高品质金融  g ao1 p in3 zh ix4 j in1 r ong2
 海虞  h ai3 vv v2
-背达囡囡穿吧  b ei1 d a2 n an1 n an1 ch uan1 b a1|b a5
+背达囡囡穿吧 null
 马拉开波  m a3 l a1 k ai1 b o1
 融资券  r ong2 z iy1 q van4
 访客  f ang3 k e4
@@ -7543,7 +7647,7 @@
 资产情况  z iy1 ch an3 q ing2 k uang4
 细胞分裂  x i4 b ao1 f en1 l ie4
 护照复印件  h u4 zh ao4 f u4 ii in4 j ian4
-结汇  j ie1|j ie2 h ui4
+结汇 null
 卢森堡政府  l u2 s en1 b ao3 zh eng4 f u3
 无线网  uu u2 x ian4 uu uang3
 昌江  ch ang1 j iang1
@@ -7564,10 +7668,10 @@
 远山  vv van3 sh an1
 布斯  b u4 s iy1
 预借  vv v4 j ie4
-关上镇  g uan1 sh ang4|g uan1 sh ang5 zh en4
+关上镇 null
 历阳大街  l i4 ii iang2 d a4 j ie1
 报酬待遇  b ao4 ch ou5 d ai4 vv v5
-拆分  ch ai1 f en1|f en4
+拆分 null
 陈总统  ch en2 z ong2 t ong3
 东加  d ong1 j ia1
 世博  sh ix4 b o2
@@ -7582,7 +7686,7 @@
 漫出  m an4 ch u1
 添益  t ian1 ii i4
 怀安县  h uai2 aa an1 x ian4
-泉兴路  q van2 x ing1|x ing4 l u4
+泉兴路 null
 里贝郎普雷图  l i3 b ei4 l ang2 p u3 l ei2 t u2
 人民币政策  r en2 m in2 b i4 zh eng4 c e4
 促销包  c u4 x iao1 b ao1
@@ -7591,6 +7695,7 @@
 资金管理  z iy1 j in1 g uan2 l i3
 红星路  h ong2 x ing1 l u4
 卢布尔雅那  l u2 b u4 ee er3 ii ia3 n a4
+奥格斯堡 null
 无线商话  uu u2 x ian4 sh ang1 h ua4
 雨船  vv v3 ch uan2
 少部分地区  sh ao3 b u4 f en5 d i4 q v1
@@ -7612,7 +7717,7 @@
 费克拉布鲁克  f ei4 k e4 l a1 b u4 l u3 k e4
 花泽类  h ua1 z e2 l ei4
 借钱  j ie4 q ian2
-兴武  x ing1|x ing4 uu u3
+兴武 null
 汤斯维尔  t ang1 s iy1 uu ui2 ee er3
 地狱蝴蝶丸  d i4 vv v4 h u2 d ie2 uu uan2
 网络经济  uu uang3 l uo4 j ing1 j i4
@@ -7634,16 +7739,18 @@
 桂林市  g ui4 l in2 sh ix4
 奥维耶多  aa ao4 uu ui2 ii ie1 d uo1
 巴黎市  b a1 l i2 sh ix4
-几年  j i1|j i3 n ian2
+几年 null
 算入  s uan4 r u4
 东升  d ong1 sh eng1
-群发  q vn2 f a1|f a4
-乌当区  uu u1 d ang1|d ang4 q v1
+群发 null
+乌当区 null
 百年唔遇  b ai3 n ian2 uu u2 vv v4
 荣德  r ong2 d e2
 保健产品  b ao3 j ian4 ch an2 p in3
 辉期  h ui1 q i1
 石油城  sh ix2 ii iu2 ch eng2
+和讯 null
+和记 null
 小宾馆  x iao3 b in1 g uan3
 选型  x van3 x ing2
 抽取  ch ou1 q v3
@@ -7654,13 +7761,14 @@
 群可  q vn2 k e3
 天翼视频  t ian1 ii i4 sh ix4 p in2
 年度报表  n ian2 d u4 b ao4 b iao3
+弹出来 null
 多纳  d uo1 n a4
 滕州市  t eng2 zh ou1 sh ix4
-不需要钱  b u2|b u4 x v1 ii iao4 q ian2
+不需要钱 null
 油性签字笔  ii iu2 x ing4 q ian1 z iy4 b i3
 数联  sh u4 l ian2
 赫耳茫特  h e4 ee er3 m ang2 t e4
-不啦  b u2|b u4 l a5
+不啦 null
 外网  uu uai4 uu uang3
 骚逼  s ao1 b i1
 红五月  h ong2 uu u3 vv ve4
@@ -7687,7 +7795,7 @@
 天津市  t ian1 j in1 sh ix4
 美图  m ei3 t u2
 配套产品  p ei4 t ao4 ch an2 p in3
-转款  zh uan3|zh uan4 k uan3
+转款 null
 废后  f ei4 h ou4
 动漫剧场  d ong4 m an4 j v4 ch ang3
 安全问题  aa an1 q van2 uu un4 t i2
@@ -7704,7 +7812,7 @@
 写字楼  x ie3 z iy4 l ou2
 网店  uu uang3 d ian4
 牛背梁  n iu2 b ei1 l iang2
-扫一扫  s ao3|s ao4 ii i1 s ao3|s ao4
+扫一扫 null
 畅阅  ch ang4 vv ve4
 平湖市  p ing2 h u2 sh ix4
 圣佩德罗  sh eng4 p ei4 d e2 l uo2
@@ -7715,24 +7823,24 @@
 玉潭镇  vv v4 t an2 zh en4
 第二学年  d i4 ee er4 x ve2 n ian2
 中国网通  zh ong1 g uo2 uu uang3 t ong1
-中创  zh ong1|zh ong4 ch uang1|ch uang4
+中创 null
 所订购  s uo3 d ing4 g ou4
 押品  ii ia1 p in3
-分销商  f en1|f en4 x iao1 sh ang1
+分销商 null
 诏安  zh ao4 aa an1
 是否能  sh ix4 f ou3 n eng2
 爱疯  aa ai4 f eng1
 东吴  d ong1 uu u2
 呼入转移  h u1 r u4 zh uan3 ii i2
 陌陌  m o4 m o4
-应用能力  ii ing1 ii iong4|ii ing4 ii iong4 n eng2 l i4
+应用能力 null
 美属萨摩亚  m ei3 sh u3 s a4 m o2 ii ia4
-结清  j ie1|j ie2 q ing1
+结清 null
 养老健康产业  ii iang2 l ao3 j ian4 k ang1 ch an3 ii ie4
 银行客服电话  ii in2 h ang2 k e4 f u2 d ian4 h ua4
 拔出  b a2 ch u1
 第二季度  d i4 ee er4 j i4 d u4
-该处  g ai1 ch u3|ch u4
+该处 null
 户部银行  h u4 b u4 ii in2 h ang2
 终结者  zh ong1 j ie2 zh e3
 瑞安市  r ui4 aa an1 sh ix4
@@ -7759,10 +7867,10 @@
 市北区  sh ix4 b ei3 q v1
 丰利  f eng1 l i4
 西青区  x i1 q ing1 q v1
-横滨  h eng2|h eng4 b in1
+横滨 null
 港版  g ang3 b an3
 市场化  sh ix4 ch ang3 h ua4
-收不收  sh ou1 b u2|b u4 sh ou1
+收不收 null
 北美洲  b ei3 m ei3 zh ou1
 欧债  oo ou1 zh ai4
 七台河市  q i1 t ai2 h e2 sh ix4
@@ -7773,7 +7881,7 @@
 隐身  ii in3 sh en1
 一见钟情  ii i2 j ian4 zh ong1 q ing2
 漫友  m an4 ii iu3
-第三个月  d i4 s an1 g e4 vv ve4|s an1 g e5 vv ve4
+第三个月  d i4 s an1 g e4 vv ve4
 产品套餐  ch an2 p in3 t ao4 c an1
 天翼宽带客户端  t ian1 ii i4 k uan1 d ai4 k e4 h u4 d uan1
 手持  sh ou3 ch ix2
@@ -7789,13 +7897,14 @@
 韦斯特罗斯  uu ui2 s iy1 t e4 l uo2 s iy1
 刘易斯顿  l iu2 ii i4 s iy1 d un4
 来电铃声  l ai2 d ian4 l ing2 sh eng1
+蒙特塞拉特岛 null
 产业链  ch an3 ii ie4 l ian4
-浪漫情人  l ang4 m an4 q ing2 r en2|q ing2 r en5
+浪漫情人 null
 莲城  l ian2 ch eng2
 安塔利亚  aa an1 t a3 l i4 ii ia4
 曹刚  c ao2 g ang1
 环保局  h uan2 b ao3 j v2
-客户结汇  k e4 h u4 j ie1|j ie2 h ui4
+客户结汇 null
 动漫谷  d ong4 m an4 g u3
 家德淘  j ia1 d e2 t ao2
 亭可马里  t ing2 k e3 m a2 l i3
@@ -7810,7 +7919,7 @@
 下在  x ia4 z ai4
 洗钱  x i3 q ian2
 领到  l ing3 d ao4
-呼转  h u1 zh uan3|zh uan4
+呼转 null
 最具  z ui4 j v4
 幼女  ii iu4 n v3
 这个号  zh e4 g e5 h ao4
@@ -7821,7 +7930,7 @@
 派送  p ai4 s ong4
 高阳县  g ao1 ii iang2 x ian4
 加拿大学校  j ia1 n a2 d a4 x ve2 x iao4
-转托管  zh uan3|zh uan4 t uo1 g uan3
+转托管 null
 日报新闻热线  r iz4 b ao4 x in1 uu un2 r e4 x ian4
 零风险  l ing2 f eng1 x ian3
 神龙川  sh en2 l ong2 ch uan1
@@ -7830,7 +7939,7 @@
 保质期  b ao3 zh ix4 q i1
 有效措施  ii iu3 x iao4 c uo4 sh ix1
 圣巴夫林米  sh eng4 b a1 f u1 l in2 m i3
-是不是会  sh ix4 b u2 sh ix4|sh ix4 b u5 sh ix4 h ui4|k uai4
+是不是会 null
 现金管理  x ian4 j in1 g uan2 l i3
 讯息  x vn4 x i1
 电脑宽带  d ian4 n ao3 k uan1 d ai4
@@ -7838,12 +7947,12 @@
 个人定制套餐  g e4 r en2 d ing4 zh ix4 t ao4 c an1
 防骗  f ang2 p ian4
 武林门  uu u3 l in2 m en2
-隔三差五  g e2 s an1 c iy1|ch a1|ch a4|ch ai1 uu u3
+隔三差五 null
 平阳路  p ing2 ii iang2 l u4
 新老客户  x in1 l ao3 k e4 h u4
 电话录  d ian4 h ua4 l u4
 嘉德  j ia1 d e2
-中行典藏  zh ong1 h ang2|zh ong1 x ing2|zh ong1 h ang2 d ian3 c ang2|z ang4
+中行典藏 null
 订房  d ing4 f ang2
 礼仪存折福  l i3 ii i2 c un2 zh e2 f u2
 企业客户  q i3 ii ie4 k e4 h u4
@@ -7908,7 +8017,7 @@
 西安路  x i1 aa an1 l u4
 阳原县  ii iang2 vv van2 x ian4
 监督委员会  j ian1 d u1 uu ui3 vv van2 h ui4
-欧冠  oo ou1 g uan1|g uan4
+欧冠 null
 蝙蝠侠  b ian1 f u2 x ia2
 尽职者  j in4 zh ix2 zh e3
 收视  sh ou1 sh ix4
@@ -7929,11 +8038,11 @@
 签证手续  q ian1 zh eng4 sh ou3 x v4
 模煳  m o2 h u2
 金交所  j in1 j iao1 s uo3
-也不  ii ie3 b u2|b u4
+也不 null
 服务点  f u2 uu u4 d ian3
 退定  t ui4 d ing4
 品牌车辆  p in3 p ai2 ch e1 l iang4
-更名  g eng1|g eng4 m ing2
+更名 null
 咨询电话  z iy1 x vn2 d ian4 h ua4
 该号码  g ai1 h ao4 m a3
 让我  r ang4 uu uo3
@@ -7960,20 +8069,20 @@
 宁夏大学  n ing2 x ia4 d a4 x ve2
 七套  q i1 t ao4
 预受  vv v4 sh ou4
-感激不尽  g an3 j i1 b u2|b u4 j in3|j in4
+感激不尽 null
 基本资质  j i1 b en3 z iy1 zh ix4
 清远市  q ing1 vv van3 sh ix4
 迪庆  d i2 q ing4
 帮一下  b ang1 ii i2 x ia4
 唐家庄  t ang2 j ia1 zh uang1
-需不需要付  x v1 b u2|b u4 x v1 ii iao4 f u4
+需不需要付 null
 每一个月  m ei3 ii i2 g e4 vv ve4
-预发  vv v4 f a1|f a4
+预发 null
 花样男子  h ua1 ii iang4 n an2 z iy3
 暖心  n uan3 x in1
 胡锦淘  h u2 j in3 t ao2
 第二期  d i4 ee er4 q i1
-俄斯特拉发  ee e2 s iy1 t e4 l a1 f a1|f a4
+俄斯特拉发 null
 操作方式  c ao1 z uo4 f ang1 sh ix4
 艾伯塔  aa ai4 b o2 t a3
 提款机取现  t i2 k uan3 j i1 q v3 x ian4
@@ -8002,7 +8111,8 @@
 情何以堪  q ing2 h e2 ii i3 k an1
 艾维  aa ai4 uu ui2
 金融形势  j in1 r ong2 x ing2 sh ix4
-不满意  b u2|b u4 m an3 ii i4
+盛大点券  sh eng4 d a4 d ian3 q van4
+不满意  b u4 m an3 ii i4
 味多美  uu ui4 d uo1 m ei3
 饭统网  f an4 t ong3 uu uang3
 偷跑  t ou1 p ao3
@@ -8034,7 +8144,7 @@
 扣扣  k ou4 k ou4
 内测  n ei4 c e4
 新加坡市场  x in1 j ia1 p o1 sh ix4 ch ang3
-乐像  l e4|vv ve4 x iang4
+乐像 null
 续签手续  x v4 q ian1 sh ou3 x v4
 智能网  zh ix4 n eng2 uu uang3
 挂住  g ua4 zh u4
@@ -8046,20 +8156,22 @@
 暗恋  aa an4 l ian4
 第一笔  d i4 ii i1 b i3
 电业局  d ian4 ii ie4 j v2
-不收费  b u2|b u4 sh ou1 f ei4
+不收费 null
 八点  b a1 d ian3
-不多  b u2|b u4 d uo1
+不多 null
 一百多年  ii i4 b ai3 d uo1 n ian2
 刘宾  l iu2 b in1
 人民币市场  r en2 m in2 b i4 sh ix4 ch ang3
-几折  j i1|j i3 sh e2|zh e2
+几折 null
+人和街  r en2 h e2 j ie1
 艾美  aa ai4 m ei3
-分帐  f en1|f en4 zh ang4
+分帐 null
 河源市  h e2 vv van2 sh ix4
 神马  sh en2 m a3
 海警  h ai3 j ing3
 新颖时尚  x in1 ii ing3 sh ix2 sh ang4
 本地版  b en3 d i4 b an3
+和运 null
 天天享  t ian1 t ian1 x iang3
 笔数  b i3 sh u4
 号码显示  h ao4 m a3 x ian3 sh ix4
@@ -8070,7 +8182,7 @@
 商票  sh ang1 p iao4
 吴小邪  uu u2 x iao3 x ie2
 反封锁  f an3 f eng1 s uo3
-创客  ch uang1|ch uang4 k e4
+创客 null
 月包  vv ve4 b ao1
 上礼拜天  sh ang4 l i3 b ai4 t ian1
 春湾  ch un1 uu uan1
@@ -8080,21 +8192,22 @@
 潮人  ch ao2 r en2
 宝安南路  b ao3 aa an1 n an2 l u4
 审计意见  sh en3 j i4 ii i4 j ian5
-之分  zh ix1 f en1|f en4
+之分 null
 资费公司  z iy1 f ei4 g ong1 s iy1
 现金交易  x ian4 j in1 j iao1 ii i4
-预结汇  vv v4 j ie1|j ie2 h ui4
+预结汇 null
 主号  zh u3 h ao4
 比雷埃夫斯  b i3 l ei2 aa ai1 f u1 s iy1
 水电气  sh ui3 d ian4 q i4
-清空  q ing1 k ong1|k ong4
+清空 null
 主叫  zh u3 j iao4
-创富  ch uang1|ch uang4 f u4
+创富 null
 向阳街  x iang4 ii iang2 j ie1
 鸡冠区  j i1 g uan1 q v1
 高配版  g ao1 p ei4 b an3
 城关区  ch eng2 g uan1 q v1
 威斯巴登  uu ui1 s iy1 b a1 d eng1
+成都医学院  ch eng2 d u1 ii i1 x ve2 vv van4
 海证  h ai3 zh eng4
 金水区  j in1 sh ui3 q v1
 高清机顶盒  g ao1 q ing1 j i1 d ing3 h e2
@@ -8105,7 +8218,7 @@
 预售  vv v4 sh ou4
 植物大战僵尸  zh ix2 uu u4 d a4 zh an4 j iang1 sh ix1
 东城  d ong1 ch eng2
-假钞  j ia3|j ia4 ch ao1
+假钞 null
 漫图  m an4 t u2
 储蓄账户  ch u3 x v4 zh ang4 h u4
 外汇兑换券  uu uai4 h ui4 d ui4 h uan4 q van4
@@ -8127,7 +8240,7 @@
 发红包  f a1 h ong2 b ao1
 滴币  d i1 b i4
 淘宝屋  t ao2 b ao3 uu u1
-冒泡  m ao4 p ao1|p ao4
+冒泡 null
 青羊区  q ing1 ii iang2 q v1
 版权所有  b an3 q van2 s uo2 ii iu3
 报安  b ao4 aa an1
@@ -8156,7 +8269,8 @@
 补偿费  b u3 ch ang2 f ei4
 业务凭证  ii ie4 uu u4 p ing2 zh eng4
 煤气费  m ei2 q i4 f ei4
-卷帘门  j van3|j van4 l ian2 m en2
+和兴路 null
+卷帘门 null
 直显  zh ix2 x ian3
 招商  zh ao1 sh ang1
 蕉城区  j iao1 ch eng2 q v1
@@ -8179,14 +8293,14 @@
 大宗消费  d a4 z ong1 x iao1 f ei4
 荷兰学生  h e2 l an2 x ve2 sh eng1
 客户服务  k e4 h u4 f u2 uu u4
-自动转账  z iy4 d ong4 zh uan3|zh uan4 zh ang4
+自动转账 null
 出境定居  ch u1 j ing4 d ing4 j v1
 贸易金融服务  m ao4 ii i4 j in1 r ong2 f u2 uu u4
 尼尔森  n i2 ee er3 s en1
-莘庄  sh en1|x in1 zh uang1
+莘庄 null
 误导  uu u4 d ao3
 小清新  x iao3 q ing1 x in1
-可不可以  k e3 b u4|k e3 b u5 k e2 ii i3
+可不可以 null
 速汇金业务  s u4 h ui4 j in1 ii ie4 uu u4
 拨号  b o1 h ao4
 森林王子  s en1 l in2 uu uang2 z iy3
@@ -8194,7 +8308,7 @@
 电源灯  d ian4 vv van2 d eng1
 前二天  q ian2 ee er4 t ian1
 顺德区  sh un4 d e2 q v1
-任丘市  r en2|r en4 q iu1 sh ix4
+任丘市 null
 翼云  ii i4 vv vn2
 汇率优惠  h ui4 l v4 ii iu1 h ui4
 武清区  uu u3 q ing1 q v1
@@ -8258,10 +8372,10 @@
 一二级  ii i1 ee er4 j i2
 打印期限  d a3 ii in4 q i1 x ian4
 上安  sh ang4 aa an1
-正能量  zh eng1|zh eng4 n eng2 l iang4
+正能量 null
 保险合同  b ao2 x ian3 h e2 t ong5
 管理体系  g uan2 l i3 t i3 x i4
-贺岁片  h e4 s ui4 p ian1|p ian4
+贺岁片 null
 断线  d uan4 x ian4
 工资账户  g ong1 z iy1 zh ang4 h u4
 账户个人  zh ang4 h u4 g e4 r en2
@@ -8305,7 +8419,7 @@
 雷德迪尔  l ei2 d e2 d i2 ee er3
 关爱  g uan1 aa ai4
 手机套餐  sh ou3 j i1 t ao4 c an1
-不完  b u2|b u4 uu uan2
+不完 null
 拿到  n a2 d ao4
 荆门市  j ing1 m en2 sh ix4
 开个  k ai1 g e4
@@ -8314,15 +8428,16 @@
 帐款  zh ang4 k uan3
 湖北路  h u2 b ei3 l u4
 外资银行  uu uai4 z iy1 ii in2 h ang2
-代发薪  d ai4 f a1|f a4 x in1
-天翼亲情网  t ian1 ii i4 q in1|q ing4 q ing2 uu uang3
+代发薪 null
+天翼亲情网 null
 办个  b an4 g e4
-横琴  h eng2|h eng4 q in2
+横琴 null
 断网  d uan4 uu uang3
+永和县  ii iong3 h e2 x ian4
 东高地  d ong1 g ao1 d i4
 互拨打  h u4 b o1 d a3
 留学签证  l iu2 x ve2 q ian1 zh eng4
-结汇光票  j ie1|j ie2 h ui4 g uang1 p iao4
+结汇光票 null
 消话  x iao1 h ua4
 发卡量  f a4 q ia3 l iang4
 第二步  d i4 ee er4 b u4
@@ -8357,15 +8472,16 @@
 商务考察  sh ang1 uu u4 k ao3 ch a2
 加之  j ia1 zh ix1
 要不要支付  ii iao4 b u5 ii iao4 zh ix1 f u4
-不小  b u2|b u4 x iao3
+不小 null
 延保  ii ian2 b ao3
+哈萨克斯坦共和国  h a1 s a4 k e4 s iy1 t an3 g ong4 h e2 g uo2
 蒂珀雷里  d i4 p o4 l ei2 l i3
 韦斯特曼纳埃亚尔  uu ui2 s iy1 t e4 m an4 n a4 aa ai1 ii ia4 ee er3
 放贷  f ang4 d ai4
 订有  d ing4 ii iu3
 车牌  ch e1 p ai2
 鲤城  l i3 ch eng2
-大唐不夜城  d a4 t ang2 b u2|b u4 ii ie4 ch eng2
+大唐不夜城 null
 京钱票  j ing1 q ian2 p iao4
 止付  zh ix3 f u4
 公司名录  g ong1 s iy1 m ing2 l u4
@@ -8374,8 +8490,8 @@
 小型保管箱  x iao3 x ing2 b ao2 g uan3 x iang1
 收件人  sh ou1 j ian4 r en2
 提示灯  t i2 sh ix4 d eng1
-转账汇款  zh uan3|zh uan4 zh ang4 h ui4 k uan3
-几方  j i1|j i3 f ang1
+转账汇款 null
+几方 null
 淘宝店  t ao2 b ao3 d ian4
 延伸服务  ii ian2 sh en1 f u2 uu u4
 开仓  k ai1 c ang1
@@ -8386,15 +8502,15 @@
 卡片磁条  k a3 p ian4 c iy2 t iao2
 印本网站  ii in4 b en3 uu uang3 zh an4
 下岗  x ia4 g ang3
-整体供应链  zh eng2 t i3 g ong1 ii ing4|g ong4 ii ing4 l ian4
+整体供应链 null
 日常生活  r iz4 ch ang2 sh eng1 h uo2
 三峡  s an1 x ia2
 右安门  ii iu4 aa an1 m en2
 机修  j i1 x iu1
-情人节  q ing2 r en2|q ing2 r en5 j ie2
+情人节 null
 圣文森  sh eng4 uu un2 s en1
 汇款费用  h ui4 k uan3 f ei4 ii iong4
-冲正  ch ong1 zh eng1|zh eng4
+冲正 null
 虎豹  h u3 b ao4
 骑士们  q i2 sh ix4 m en5
 伪基站  uu ui3 j i1 zh an4
@@ -8402,19 +8518,19 @@
 票据福费廷  p iao4 j v4 f u2 f ei4 t ing2
 确定因素  q ve4 d ing4 ii in1 s u4
 刚果金  g ang1 g uo3 j in1
-几日  j i1|j i3 r iz4
+几日 null
 西华门  x i1 h ua2 m en2
 达标  d a2 b iao1
 国债指数  g uo2 zh ai4 zh ix3 sh u4
 迪拜  d i2 b ai4
 羊年  ii iang2 n ian2
-教育专网  j iao4 vv v4|j iao4 vv v5 zh uan1 uu uang3
+教育专网 null
 圣文森特  sh eng4 uu un2 s en1 t e4
 左权县  z uo3 q van2 x ian4
 体验厅  t i3 ii ian4 t ing1
-动起来  d ong4 q i3 l ai2|q i3 l ai5
+动起来 null
 唯美  uu ui2 m ei3
-经用  j ing1|j ing4 ii iong4
+经用 null
 融易  r ong2 ii i4
 停兑令  t ing2 d ui4 l ing4
 股票投资  g u3 p iao4 t ou2 z iy1
@@ -8435,7 +8551,7 @@
 人民币担保  r en2 m in2 b i4 d an1 b ao3
 通话记录  t ong1 h ua4 j i4 l u4
 收款方  sh ou1 k uan3 f ang1
-不需要  b u2|b u4 x v1 ii iao4
+不需要 null
 法定假日  f a3 d ing4 j ia4 r iz4
 元祖  vv van2 z u3
 艾伯特王子城  aa ai4 b o2 t e4 uu uang2 z iy3 ch eng2
@@ -8444,7 +8560,7 @@
 飞机票  f ei1 j i1 p iao4
 上个月  sh ang4 g e4 vv ve4
 本贷款  b en3 d ai4 k uan3
-韩正  h an2 zh eng1|zh eng4
+韩正 null
 宝庆东路  b ao3 q ing4 d ong1 l u4
 签约机  q ian1 vv ve1 j i1
 米西索加  m i3 x i1 s uo3 j ia1
@@ -8457,16 +8573,18 @@
 丰收路  f eng1 sh ou1 l u4
 助业  zh u4 ii ie4
 专属  zh uan1 sh u3
+压力和温度 null
 李丹  l i3 d an1
 高邑  g ao1 ii i4
 意大利当地  ii i4 d a4 l i4 d ang1 d i4
 如意通  r u2 ii i4 t ong1
 恋人絮语  l ian4 r en2 x v4 vv v3
 声讯  sh eng1 x vn4
+曾培 null
 阳江市  ii iang2 j iang1 sh ix4
 未加  uu ui4 j ia1
 碧欧泉  b i4 oo ou1 q van2
-不加入  b u2|b u4 j ia1 r u4
+不加入 null
 期后  q i1 h ou4
 塔拉哈西  t a3 l a1 h a1 x i1
 蛟河市  j iao1 h e2 sh ix4
@@ -8477,7 +8595,7 @@
 批发风筝  p i1 f a1 f eng1 zh eng5
 七年  q i1 n ian2
 结算服务  j ie2 s uan4 f u2 uu u4
-来电转接  l ai2 d ian4 zh uan3|zh uan4 j ie1
+来电转接 null
 星猫  x ing1 m ao1
 掉水里  d iao4 sh ui3 l i3
 港澳台同胞  g ang3 aa ao4 t ai2 t ong2 b ao1
@@ -8493,7 +8611,7 @@
 新股  x in1 g u3
 是否要  sh ix4 f ou3 ii iao4
 武侯  uu u3 h ou2
-金融融  j in1 r ong2 r ong2|r ong2 r ong5
+金融融  j in1 r ong2 r ong2
 您账户  n in2 zh ang4 h u4
 妮可罗宾  n i1 k e3 l uo2 b in1
 截止时间  j ie2 zh ix3 sh ix2 j ian1
@@ -8505,16 +8623,17 @@
 海辰  h ai3 ch en2
 港澳漫游  g ang3 aa ao4 m an4 ii iu2
 有图  ii iu3 t u2
-混合型  h un3 h e2|h un4 h e2 x ing2
+混合型 null
 查尔斯顿  ch a2 ee er3 s iy1 d un4
 新胜  x in1 sh eng4
 议期  ii i4 q i1
-几月  j i1|j i3 vv ve4
+几月 null
 加多宝  j ia1 d uo1 b ao3
 一张  ii i1 zh ang1
-甜橙分  t ian2 ch eng2 f en1|f en4
+甜橙分 null
 市南区  sh ix4 n an2 q v1
-不好笑  b u2|b u4 h ao3 x iao4
+尧都区 null
+不好笑  b u4 h ao3 x iao4
 硬美元  ii ing4 m ei3 vv van2
 光票  g uang1 p iao4
 防紫外线伞  f ang2 z iy3 uu uai4 x ian4 s an3
@@ -8538,7 +8657,7 @@
 租车  z u1 ch e1
 一体机  ii i4 t i3 j i1
 余江县  vv v2 j iang1 x ian4
-哦哦哦  oo o2|oo o4 oo o2|oo o4 oo o2|oo o4
+哦哦哦 null
 青花瓷  q ing1 h ua1 c iy2
 厄斯特松德  ee e4 s iy1 t e4 s ong1 d e2
 具体情况  j v4 t i3 q ing2 k uang4
@@ -8559,9 +8678,9 @@
 三年  s an1 n ian2
 皮特  p i2 t e4
 上一次  sh ang4 ii i1 c iy4
-翼分  ii i4 f en1|f en4
-不差  b u2|b u4 c iy1|ch a1|ch a4|ch ai1
-几条  j i1|j i3 t iao2
+翼分 null
+不差 null
+几条 null
 审核委员会  sh en3 h e2 uu ui3 vv van2 h ui4
 海通  h ai3 t ong1
 汇款笔数套餐  h ui4 k uan3 b i3 sh u4 t ao4 c an1
@@ -8571,7 +8690,7 @@
 孝义市  x iao4 ii i4 sh ix4
 未用完  uu ui4 ii iong4 uu uan2
 企业网银  q i3 ii ie4 uu uang3 ii in2
-跟不上  g en1 b u2|b u4 sh ang4
+跟不上 null
 上市银行  sh ang4 sh ix4 ii in2 h ang2
 七措施  q i1 c uo4 sh ix1
 实习月  sh ix2 x i2 vv ve4
@@ -8588,7 +8707,7 @@
 廊坊  l ang2 f ang2
 意大利邮局  ii i4 d a4 l i4 ii iu2 j v2
 康平县  k ang1 p ing2 x ian4
-不明白  b u2|b u4 m ing2 b ai5
+不明白  b u4 m ing2 b ai2
 国际交流  g uo2 j i4 j iao1 l iu2
 猴年  h ou2 n ian2
 第四步  d i4 s iy4 b u4
@@ -8596,16 +8715,16 @@
 下庄  x ia4 zh uang1
 晴朗云安小区  q ing2 l ang3 vv vn2 aa an1 x iao3 q v1
 小妙招  x iao3 m iao4 zh ao1
-大方县  d a4 f ang1|d a4 f ang5 x ian4
+大方县 null
 历下区  l i4 x ia4 q v1
 兴安盟  x ing1 aa an1 m eng2
 漫客  m an4 k e4
 共用  g ong4 ii iong4
-结汇业务  j ie1|j ie2 h ui4 ii ie4 uu u4
+结汇业务 null
 宁乡县  n ing2 x iang1 x ian4
 老带新  l ao3 d ai4 x in1
 白金岛  b ai2 j in1 d ao3
-几月几日  j i1|j i3 vv ve4 j i1|j i3 r iz4
+几月几日 null
 到帐  d ao4 zh ang4
 建军  j ian4 j vn1
 交互操作  j iao1 h u4 c ao1 z uo4
@@ -8629,7 +8748,7 @@
 房山区  f ang2 sh an1 q v1
 结合部  j ie2 h e2 b u4
 最多  z ui4 d uo1
-提供者  t i2 g ong1|t i2 g ong4 zh e3
+提供者 null
 宝坻区  b ao2 d i3 q v1
 红米  h ong2 m i3
 南沙区  n an2 sh a1 q v1
@@ -8639,11 +8758,11 @@
 虚拟网  x v1 n i3 uu uang3
 魅蓝  m ei4 l an2
 退一下  t ui4 ii i2 x ia4
-切换  q ie1|q ie4 h uan4
+切换 null
 日签  r iz4 q ian1
 云资源池  vv vn2 z iy1 vv van2 ch ix2
 响起  x iang3 q i3
-不起作用  b u2|b u4 q i3 z uo4 ii iong4
+不起作用 null
 稽核履职  j i1 h e2 l v3 zh ix2
 本号  b en3 h ao4
 格瓦拉  g e2 uu ua3 l a1
@@ -8653,15 +8772,15 @@
 联营公司  l ian2 ii ing2 g ong1 s iy1
 补上  b u3 sh ang4
 潮女衣柜  ch ao2 n v3 ii i1 g ui4
-不然送不出去  b u4 r an2 s ong4 b u2|b u4 ch u1 q v4
+不然送不出去 null
 短号码  d uan3 h ao4 m a3
-创意  ch uang1|ch uang4 ii i4
+创意 null
 科布伦茨  k e1 b u4 l un2 c iy2
 这月  zh e4 vv ve4
 溧水  l i4 sh ui3
 平凉市  p ing2 l iang2 sh ix4
 人工客服  r en2 g ong1 k e4 f u2
-详细档案  x iang2 x i4 d ang3 aa an4|d ang4 aa an4
+详细档案 null
 方能  f ang1 n eng2
 青羊  q ing1 ii iang2
 全盈  q van2 ii ing2
@@ -8679,7 +8798,7 @@
 汾阳市  f en2 ii iang2 sh ix4
 企业发展  q i3 ii ie4 f a1 zh an3
 法库县  f a3 k u4 x ian4
-书吧  sh u1 b a1|b a5
+书吧 null
 陶屯乡  t ao2 t un2 x iang1
 诺夫哥罗德  n uo4 f u1 g e1 l uo2 d e2
 国家经济  g uo2 j ia1 j ing1 j i4
@@ -8689,7 +8808,7 @@
 安源区  aa an1 vv van2 q v1
 银企通  ii in2 q i3 t ong1
 抓拍  zh ua1 p ai1
-教育历史  j iao4 vv v4|j iao4 vv v5 l i4 sh ix3
+教育历史 null
 客户价值  k e4 h u4 j ia4 zh ix2
 显示器  x ian3 sh ix4 q i4
 加元  j ia1 vv van2
@@ -8702,7 +8821,7 @@
 基金份额  j i1 j in1 f en4 ee e2
 旅顺口  l v3 sh un4 k ou3
 决议公告  j ve2 ii i4 g ong1 g ao4
-切列波维茨  q ie1|q ie4 l ie4 b o1 uu ui2 c iy2
+切列波维茨 null
 浏阳  l iu2 ii iang2
 时移  sh ix2 ii i2
 管理建议  g uan2 l i3 j ian4 ii i4
@@ -8730,7 +8849,7 @@
 数据线  sh u4 j v4 x ian4
 行业准入  h ang2 ii ie4 zh un3 r u4
 道德风险  d ao4 d e2 f eng1 x ian3
-结售汇  j ie1|j ie2 sh ou4 h ui4
+结售汇 null
 有声  ii iu3 sh eng1
 平台布局  p ing2 t ai2 b u4 j v2
 富查伊拉  f u4 ch a2 ii i1 l a1
@@ -8740,6 +8859,7 @@
 迪斯  d i2 s iy1
 其所辖网点  q i2 s uo3 x ia2 uu uang2 d ian3
 互换期限  h u4 h uan4 q i1 x ian4
+光纤改造 null
 追捧  zh ui1 p eng3
 扣话费  k ou4 h ua4 f ei4
 凭条  p ing2 t iao2
@@ -8766,7 +8886,7 @@
 比亚维森西奥  b i3 ii ia4 uu ui2 s en1 x i1 aa ao4
 打款  d a3 k uan3
 金融俱乐部  j in1 r ong2 j v4 l e4 b u4
-时空  sh ix2 k ong1|k ong4
+时空 null
 本周一  b en3 zh ou1 ii i1
 价格走势  j ia4 g e2 z ou3 sh ix4
 凸显  t u1 x ian3
@@ -8777,7 +8897,7 @@
 潼南  t ong2 n an2
 天翼客户俱乐部  t ian1 ii i4 k e4 h u4 j v4 l e4 b u4
 自由版  z iy4 ii iu2 b an3
-是不是有  sh ix4 b u2 sh ix4|sh ix4 b u5 sh ix4 ii iu3
+是不是有 null
 白水洋  b ai2 sh ui3 ii iang2
 价值增值  j ia4 zh ix2 z eng1 zh ix2
 三亚市  s an1 ii ia4 sh ix4
@@ -8789,12 +8909,13 @@
 回事  h ui2 sh ix4
 来个  l ai2 g e4
 获取免费笑话  h uo4 q v3 m ian3 f ei4 x iao4 h ua5
-天下有情人  t ian1 x ia4 ii iu3 q ing2 r en2|q ing2 r en5
+天下有情人 null
 肯第史城  k en3 d i4 sh ix3 ch eng2
 国际货币  g uo2 j i4 h uo4 b i4
 客户版  k e4 h u4 b an3
 拉塔昆加  l a1 t a3 k un1 j ia1
-新不伦瑞克  x in1 b u2|b u4 l un2 r ui4 k e4
+布鲁塞尔分行  b u4 l u3 s ai4 ee er3 f en1 h ang2
+新不伦瑞克 null
 请您  q ing3 n in2
 履约保函  l v3 vv ve1 b ao3 h an2
 同事们  t ong2 sh ix4 m en5
@@ -8828,7 +8949,7 @@
 四位  s iy4 uu ui4
 牌价基础  p ai2 j ia4 j i1 ch u3
 宽带拆机  k uan1 d ai4 ch ai1 j i1
-连不上  l ian2 b u2|b u4 sh ang4
+连不上 null
 相应补偿  x iang1 ii ing4 b u3 ch ang2
 商业机构  sh ang1 ii ie4 j i1 g ou4
 李兰  l i3 l an2
@@ -8847,8 +8968,8 @@
 敬请  j ing4 q ing3
 福田区  f u2 t ian2 q v1
 江门市  j iang1 m en2 sh ix4
-之处  zh ix1 ch u3|ch u4
-济阳县  j i3|j i4 ii iang2 x ian4
+之处 null
+济阳县  j i3 ii iang2 x ian4
 老号  l ao3 h ao4
 助农  zh u4 n ong2
 兆麟街  zh ao4 l in2 j ie1
@@ -8857,18 +8978,20 @@
 分享日  f en1 x iang3 r iz4
 监管规则  j ian1 g uan3 g ui1 z e2
 马绍尔群岛  m a3 sh ao4 ee er3 q vn2 d ao3
+行包 null
 一直以来  ii i4 zh ix2 ii i3 l ai2
 在线游戏  z ai4 x ian4 ii iu2 x i4
 利州东路  l i4 zh ou1 d ong1 l u4
 纳米  n a4 m i3
 金融机构  j in1 r ong2 j i1 g ou4
 易丰展业  ii i4 f eng1 zh an3 ii ie4
-不收钱  b u2|b u4 sh ou1 q ian2
+不收钱 null
 上下游  sh ang4 x ia4 ii iu2
 下班后  x ia4 b an1 h ou4
 软件园  r uan3 j ian4 vv van2
 庄河市  zh uang1 h e2 sh ix4
 记账式  j i4 zh ang4 sh ix4
+和静 null
 下个月  x ia4 g e4 vv ve4
 天翼高清电视  t ian1 ii i4 g ao1 q ing1 d ian4 sh ix4
 优机汇  ii iu1 j i1 h ui4
@@ -8887,11 +9010,11 @@
 新营  x in1 ii ing2
 红桥区  h ong2 q iao2 q v1
 社会责任  sh e4 h ui4 z e2 r en4
-行卡  h ang2|x ing2 k a3|q ia3
+行卡 null
 微贷通  uu ui1 d ai4 t ong1
-呼转到  h u1 zh uan3|zh uan4 d ao4
+呼转到 null
 亚信  ii ia4 x in4
-不想  b u2|b u4 x iang3
+不想 null
 朵唯  d uo3 uu ui2
 景洪  j ing3 h ong2
 法属波里尼西亚  f a3 sh u3 b o1 l i3 n i2 x i1 ii ia4
@@ -8902,8 +9025,8 @@
 弹指之间  t an2 zh ix3 zh ix1 j ian1
 崇文区  ch ong2 uu un2 q v1
 宝格丽  b ao3 g e2 l i4
-分时  f en1|f en4 sh ix2
-喀什地  k a1 sh ix2 d e5|d i4
+分时 null
+喀什地 null
 福利邦  f u2 l i4 b ang1
 黄金期权业务  h uang2 j in1 q i1 q van2 ii ie4 uu u4
 三十元  s an1 sh ix2 vv van2
@@ -8950,12 +9073,12 @@
 时间段  sh ix2 j ian1 d uan4
 五元  uu u3 vv van2
 打洞  d a3 d ong4
-涨跌  zh ang3|zh ang4 d ie1
-秘密否  m i4 m i4 f ou3|p i3
+涨跌 null
+秘密否 null
 三成  s an1 ch eng2
 河东区  h e2 d ong1 q v1
 详细信息  x iang2 x i4 x in4 x i1
-无缝  uu u2 f eng2|f eng4
+无缝 null
 服务密码  f u2 uu u4 m i4 m a3
 扣款  k ou4 k uan3
 手游  sh ou3 ii iu2
@@ -8965,30 +9088,31 @@
 张健  zh ang1 j ian4
 人民币金额  r en2 m in2 b i4 j in1 ee e2
 买方信贷  m ai3 f ang1 x in4 d ai4
-几款  j i1|j i3 k uan3
+几款 null
 麻烦你  m a2 f an5 n i3
 每个自然月  m ei3 g e5 z iy4 r an2 vv ve4
 达尔豪斯大学  d a2 ee er3 h ao2 s iy1 d a4 x ve2
 短消息  d uan3 x iao1 x i5
 巴里纳斯  b a1 l i3 n a4 s iy1
-不懂  b u2|b u4 d ong3
+不懂 null
 市孙逸仙  sh ix4 s un1 ii i4 x ian1
 项目外汇  x iang4 m u5 uu uai4 h ui4
 删掉  sh an1 d iao4
+和顺 null
 购物消费  g ou4 uu u4 x iao1 f ei4
 监督管理  j ian1 d u1 g uan2 l i3
 声道  sh eng1 d ao4
 跨境汇款  k ua4 j ing4 h ui4 k uan3
 金融论  j in1 r ong2 l un4
 第一节  d i4 ii i1 j ie2
-包不包含  b ao1 b u2|b u4 b ao1 h an2
+包不包含 null
 全称  q van2 ch eng1
 贸易试验区  m ao4 ii i4 sh ix4 ii ian4 q v1
 认沽  r en4 g u1
-会计算  h ui4|k uai4 j i4 s uan4
-玩吧  uu uan2 b a1|b a5
+会计算  k uai4 j i5 s uan4
+玩吧 null
 椰风  ii ie1 f eng1
-资产配置  z iy1 ch an3 p ei4 zh ix4|p ei4 zh ix5
+资产配置 null
 区锦山大街  q v1 j in3 sh an1 d a4 j ie1
 短信  d uan3 x in4
 采购中心  c ai3 g ou4 zh ong1 x in1
@@ -8997,7 +9121,7 @@
 神偷妙探  sh en2 t ou1 m iao4 t an4
 丰州  f eng1 zh ou1
 信息中心  x in4 x i1 zh ong1 x in1
-爱情片  aa ai4 q ing2 p ian1|p ian4
+爱情片 null
 贵金属期权  g ui4 j in1 sh u3 q i1 q van2
 邮储  ii iu2 ch u3
 招收第  zh ao1 sh ou1 d i4
@@ -9012,7 +9136,7 @@
 国际酒店  g uo2 j i4 j iu3 d ian4
 自驾  z iy4 j ia4
 石佛  sh ix2 f o2
-分月  f en1|f en4 vv ve4
+分月 null
 亮亮  l iang4 l iang4
 积金  j i1 j in1
 云券  vv vn2 q van4
@@ -9021,15 +9145,15 @@
 风情节  f eng1 q ing2 j ie2
 聊天版  l iao2 t ian1 b an3
 保险产品类  b ao2 x ian3 ch an3 p in3 l ei4
-几毛  j i1|j i3 m ao2
+几毛 null
 资金账户  z iy1 j in1 zh ang4 h u4
 航天桥  h ang2 t ian1 q iao2
-那几种  n a4 j i1|j i3 zh ong3|zh ong4
+那几种 null
 平鲁区  p ing2 l u3 q v1
-手机壳  sh ou3 j i1 k e2|q iao4
+手机壳 null
 东北路  d ong1 b ei3 l u4
 传统领域  ch uan2 t ong3 l ing3 vv v4
-不扣  b u2|b u4 k ou4
+不扣 null
 交易成本  j iao1 ii i4 ch eng2 b en3
 上述部门  sh ang4 sh u4 b u4 m en2
 图文类  t u2 uu un2 l ei4
@@ -9040,7 +9164,7 @@
 到户  d ao4 h u4
 穿越火线  ch uan1 vv ve4 h uo3 x ian4
 农私人银行  n ong2 s iy1 r en2 ii in2 h ang2
-钻卡  z uan1|z uan4 k a3|q ia3
+钻卡 null
 如果是女生  r u2 g uo3 sh ix4 n v3 sh eng1
 下拉  x ia4 l a1
 十二星座  sh ix2 ee er4 x ing1 z uo4
@@ -9054,7 +9178,7 @@
 花花  h ua1 h ua1
 收汇保值  sh ou1 h ui4 b ao3 zh ix2
 智慧屋  zh ix4 h ui4 uu u1
-投诉处  t ou2 s u4 ch u3|ch u4
+投诉处 null
 下拨  x ia4 b o1
 收钱  sh ou1 q ian2
 外币现钞  uu uai4 b i4 x ian4 ch ao1
@@ -9063,17 +9187,17 @@
 抵扣  d i3 k ou4
 鞋类  x ie2 l ei4
 系统信息  x i4 t ong3 x in4 x i1
-亲亲  q in1|q ing4 q in1|q ing4
+亲亲 null
 融汇  r ong2 h ui4
 那格普尔  n a4 g e2 p u3 ee er3
-燕赵  ii ian1|ii ian4 zh ao4
+燕赵 null
 花苑  h ua1 vv van4
 央视  ii iang1 sh ix4
 网银业务  uu uang3 ii in2 ii ie4 uu u4
 舞钢  uu u3 g ang1
 亚洲风险  ii ia4 zh ou1 f eng1 x ian3
 生活条件  sh eng1 h uo2 t iao2 j ian4
-幼教  ii iu4 j iao1|j iao4
+幼教 null
 融水  r ong2 sh ui3
 白金信用卡  b ai2 j in1 x in4 ii iong4 k a3
 桂花西路  g ui4 h ua1 x i1 l u4
@@ -9086,16 +9210,17 @@
 营业厅  ii ing2 ii ie4 t ing1
 中国城  zh ong1 g uo2 ch eng2
 北碚区  b ei3 b ei4 q v1
-亲们  q in1|q ing4 m en5
+光纤 null
+亲们 null
 现钞服务  x ian4 ch ao1 f u2 uu u4
 在线申请  z ai4 x ian4 sh en1 q ing3
 方法人  f ang1 f a3 r en2
-切换成  q ie1|q ie4 h uan4 ch eng2
+切换成 null
 产品包  ch an2 p in3 b ao1
 漏接  l ou4 j ie1
 车友惠  ch e1 ii iu3 h ui4
 级联  j i2 l ian2
-教育体制  j iao4 vv v4|j iao4 vv v5 t i3 zh ix4
+教育体制 null
 边漫  b ian1 m an4
 因公  ii in1 g ong1
 担保金额  d an1 b ao3 j in1 ee e2
@@ -9108,6 +9233,7 @@
 无线通  uu u2 x ian4 t ong1
 张冲  zh ang1 ch ong1
 网络设  uu uang3 l uo4 sh e4
+北奥塞梯 null
 季度包  j i4 d u4 b ao1
 年三十  n ian2 s an1 sh ix2
 河曲县  h e2 q v3 x ian4
@@ -9126,7 +9252,7 @@
 拉科鲁纳  l a1 k e1 l u3 n a4
 活期保  h uo2 q i1 b ao3
 之家  zh ix1 j ia1
-分栏  f en1|f en4 l an2
+分栏 null
 监管基  j ian1 g uan3 j i1
 补办  b u3 b an4
 北站路  b ei3 zh an4 l u4
@@ -9134,12 +9260,12 @@
 入境检查处  r u4 j ing4 j ian3 ch a2 ch u3
 东昌西路  d ong1 ch ang1 x i1 l u4
 回函  h ui2 h an2
-天津津  t ian1 j in1 j in1|j in1 j in5
+天津津  t ian1 j in1 j in1
 光缆  g uang1 l an3
 科隆  k e1 l ong2
 免税州  m ian3 sh ui4 zh ou1
-曲径  q v1|q v3 j ing4
-尽在掌握  j in3|j in4 z ai4 zh ang3 uu uo4
+曲径 null
+尽在掌握 null
 二号  ee er4 h ao4
 话术  h ua4 sh u4
 金融资产  j in1 r ong2 z iy1 ch an3
@@ -9148,14 +9274,14 @@
 拨号上网  b o1 h ao4 sh ang4 uu uang3
 话机  h ua4 j i1
 二台  ee er4 t ai2
-教育人  j iao1|j iao4 vv v4 r en2
+教育人 null
 这段  zh e4 d uan4
 电子病历  d ian4 z iy3 b ing4 l i4
 哈尔科特港  h a1 ee er3 k e1 t e4 g ang3
 智游  zh ix4 ii iu2
 安溪县  aa an1 x i1 x ian4
 凭本人  p ing2 b en3 r en2
-不换  b u2|b u4 h uan4
+不换 null
 迎泽  ii ing2 z e2
 加拿大分行  j ia1 n a2 d a4 f en1 h ang2
 外币汇票  uu uai4 b i4 h ui4 p iao4
@@ -9164,14 +9290,14 @@
 换个  h uan4 g e4
 家庭固话  j ia1 t ing2 g u4 h ua4
 福尔米亚  f u2 ee er3 m i3 ii ia4
-经办人  j ing1|j ing4 b an4 r en2
+经办人 null
 报告摘要  b ao4 g ao4 zh ai1 ii iao4
 使馆区  sh ix2 g uan3 q v1
 普丽普莱  p u3 l i4 p u3 l ai2
 企业主  q i3 ii ie4 zh u3
 雷德克利夫  l ei2 d e2 k e4 l i4 f u1
-不掉  b u2|b u4 d iao4
-分课程  f en1|f en4 k e4 ch eng2
+不掉 null
+分课程 null
 伊斯兰  ii i1 s iy1 l an2
 光网  g uang1 uu uang3
 金融套餐  j in1 r ong2 t ao4 c an1
@@ -9189,13 +9315,14 @@
 格尔木  g e2 ee er3 m u4
 避孕套  b i4 vv vn4 t ao4
 伊斯梅利亚  ii i1 s iy1 m ei2 l i4 ii ia4
-友谊县  ii iu3 ii i2|ii iu3 ii i4 x ian4
-教育业  j iao4 vv v4|j iao4 vv v5 ii ie4
-撒丁岛  s a1|s a3 d ing1 d ao3
+友谊县 null
+教育业 null
+撒丁岛 null
 多贵  d uo1 g ui4
 至高  zh ix4 g ao1
+康塞普西翁 null
 里亚尔现钞  l i3 ii ia4 ee er3 x ian4 ch ao1
-手机下载  sh ou3 j i1 x ia4 z ai3|z ai4
+手机下载 null
 凭证式  p ing2 zh eng4 sh ix4
 巴盟  b a1 m eng2
 贺新年  h e4 x in1 n ian2
@@ -9205,18 +9332,18 @@
 苏莱曼尼亚  s u1 l ai2 m an4 n i2 ii ia4
 杨凌  ii iang2 l ing2
 意见书  ii i4 j ian5 sh u1
-音乐片  ii in1 vv ve4 p ian1|p ian4
+音乐片 null
 音乐版  ii in1 vv ve4 b an3
 资产规模  z iy1 ch an3 g ui1 m o2
 圣伊西德罗  sh eng4 ii i1 x i1 d e2 l uo2
 邵兵  sh ao4 b ing1
 西湖区  x i1 h u2 q v1
-互发  h u4 f a1|f a4
+互发 null
 武汉通  uu u3 h an4 t ong1
 伊尔比德  ii i1 ee er3 b i3 d e2
 成本债券  ch eng2 b en3 zh ai4 q van4
 郑东  zh eng4 d ong1
-更快  g eng1|g eng4 k uai4
+更快 null
 征信业规范  zh eng1 x in4 ii ie4 g ui1 f an4
 消费者协会  x iao1 f ei4 zh e3 x ie2 h ui4
 小白楼  x iao3 b ai2 l ou2
@@ -9226,7 +9353,7 @@
 操作员  c ao1 z uo4 vv van2
 中华英才网  zh ong1 h ua2 ii ing1 c ai2 uu uang3
 比尔森  b i3 ee er3 s en1
-金冠里  j in1 g uan1|g uan4 l i3
+金冠里 null
 取消短信服务  q v3 x iao1 d uan3 x in4 f u2 uu u4
 国际机票  g uo2 j i4 j i1 p iao4
 福永支行  f u2 ii iong3 zh ix1 h ang2
@@ -9247,7 +9374,7 @@
 汕头市  sh an4 t ou2 sh ix4
 樱桃小丸子  ii ing1 t ao2 x iao3 uu uan2 z iy5
 辽源市  l iao2 vv van2 sh ix4
-晚上十一点  uu uan3 sh ang4|uu uan3 sh ang5 sh ix2 ii i4 d ian3
+晚上十一点 null
 广晟  g uang3 sh eng4
 留学机构  l iu2 x ve2 j i1 g ou4
 换代  h uan4 d ai4
@@ -9269,7 +9396,7 @@
 天语  t ian1 vv v3
 生育保险  sh eng1 vv v4 b ao2 x ian3
 汶川中学  uu un4 ch uan1 zh ong1 x ve2
-一起来  ii i1 q i3 l ai2|q i3 l ai5
+一起来  ii i4 q i3 l ai2
 澳元  aa ao4 vv van2
 双辽市  sh uang1 l iao2 sh ix4
 亲属关系  q in1 sh u3 g uan1 x i5
@@ -9280,7 +9407,7 @@
 莱斯  l ai2 s iy1
 斐讯  f ei3 x vn4
 游网  ii iu2 uu uang3
-转称  zh uan3|zh uan4 ch eng1
+转称 null
 七一路  q i1 ii i2 l u4
 极佳  j i2 j ia1
 补号  b u3 h ao4
@@ -9292,7 +9419,8 @@
 新华西  x in1 h ua2 x i1
 汇率一点  h ui4 l v4 ii i4 d ian3
 宝银期  b ao3 ii in2 q i1
-中行惠  zh ong1 h ang2|zh ong1 x ing2|zh ong1 h ang2 h ui4
+杜伊斯堡 null
+中行惠 null
 主管部门  zh u2 g uan3 b u4 m en2
 晋生  j in4 sh eng1
 乡巴佬餐厅  x iang1 b a1 l ao3 c an1 t ing1
@@ -9311,7 +9439,7 @@
 遇忙  vv v4 m ang2
 葛兰  g e3 l an2
 两成  l iang3 ch eng2
-朝阳门  ch ao2 ii iang2|zh ao1 ii iang2 m en2
+朝阳门 null
 安全性  aa an1 q van2 x ing4
 中国银联  zh ong1 g uo2 ii in2 l ian2
 时尚版  sh ix2 sh ang4 b an3
@@ -9337,10 +9465,10 @@
 文昌市  uu un2 ch ang1 sh ix4
 道店  d ao4 d ian4
 海青  h ai3 q ing1
-不显示  b u2|b u4 x ian3 sh ix4
+不显示 null
 献映  x ian4 ii ing4
 团南  t uan2 n an2
-不收  b u2|b u4 sh ou1
+不收 null
 弄坏  n ong4 h uai4
 萨迦县  s a4 j ia1 x ian4
 融资权  r ong2 z iy1 q van2
@@ -9370,7 +9498,7 @@
 淇滨区  q i2 b in1 q v1
 库列萨雷  k u4 l ie4 s a4 l ei2
 密云县  m i4 vv vn2 x ian4
-不散  b u2|b u4 s an3|s an4
+不散 null
 小鸡鸡  x iao3 j i1 j i1
 组网  z u3 uu uang3
 萌宠  m eng2 ch ong3
@@ -9385,20 +9513,20 @@
 免税店  m ian3 sh ui4 d ian4
 一期  ii i1 q i1
 预期收益率  vv v4 q i1 sh ou1 ii i4 l v4
-当上  d ang1|d ang4 sh ang4
+当上 null
 商业原则  sh ang1 ii ie4 vv van2 z e2
-美发店  m ei3 f a1|f a4 d ian4
+美发店 null
 木子  m u4 z iy3
 通易  t ong1 ii i4
 规定限额  g ui1 d ing4 x ian4 ee e2
 斯普林菲尔德  s iy1 p u3 l in2 f ei1 ee er3 d e2
-应收  ii ing1|ii ing4 sh ou1
-兴林街  x ing1|x ing4 l in2 j ie1
+应收 null
+兴林街 null
 外币汇款  uu uai4 b i4 h ui4 k uan3
 这部分资金  zh e4 b u4 f en5 z iy1 j in1
 美有  m ei3 ii iu3
 短厅  d uan3 t ing1
-动漫乐斗  d ong4 m an4 l e4|vv ve4 d ou3|d ou4
+动漫乐斗 null
 电力局  d ian4 l i4 j v2
 博瑞世纪  b o2 r ui4 sh ix4 j i4
 乌市  uu u1 sh ix4
@@ -9413,13 +9541,15 @@
 定居服务  d ing4 j v1 f u2 uu u4
 若羌  r uo4 q iang1
 北京电影学院  b ei3 j ing1 d ian4 ii ing3 x ve2 vv van4
+和谐调整  h e2 x ie2 t iao2 zh eng3
 汇入资本金  h ui4 r u4 z iy1 b en3 j in1
+都能看 null
 博尔查诺  b o2 ee er3 ch a2 n uo4
 万事达金卡  uu uan4 sh ix4 d a2 j in1 k a3
 本活动  b en3 h uo2 d ong4
 警务通  j ing3 uu u4 t ong1
 早晨报  z ao3 ch en2 b ao4
-经济转型  j ing1 j i4 zh uan3|zh uan4 x ing2
+经济转型 null
 旅游资讯信息  l v3 ii iu2 z iy1 x vn4 x in4 x i1
 达茂旗  d a2 m ao4 q i2
 语言版本  vv v3 ii ian2 b an2 b en3
@@ -9428,7 +9558,7 @@
 布里斯托尔  b u4 l i3 s iy1 t uo1 ee er3
 独立财产  d u2 l i4 c ai2 ch an3
 公历年度  g ong1 l i4 n ian2 d u4
-不限量套餐  b u2|b u4 x ian4 l iang4 t ao4 c an1
+不限量套餐 null
 诉求  s u4 q iu2
 下是  x ia4 sh ix4
 拆掉  ch ai1 d iao4
@@ -9436,7 +9566,7 @@
 击水  j i1 sh ui3
 手机礼包  sh ou3 j i1 l i3 b ao1
 领头羊  l ing3 t ou2 ii iang2
-燕郊  ii ian1|ii ian4 j iao1
+燕郊 null
 响铃  x iang3 l ing2
 发售时间  f a1 sh ou4 sh ix2 j ian1
 这些天  zh e4 x ie1 t ian1
@@ -9470,6 +9600,7 @@
 力天  l i4 t ian1
 金沙县  j in1 sh a1 x ian4
 园区  vv van2 q v1
+弹出 null
 虎门销烟  h u3 m en2 x iao1 ii ian1
 天路  t ian1 l u4
 空虚位  k ong1 x v1 uu ui4
@@ -9514,7 +9645,7 @@
 开奖  k ai1 j iang3
 全线  q van2 x ian4
 电话未接  d ian4 h ua4 uu ui4 j ie1
-当你  d ang1|d ang4 n i3
+当你 null
 对公短信  d ui4 g ong1 d uan3 x in4
 入境准备  r u4 j ing4 zh un3 b ei4
 定居咨询  d ing4 j v1 z iy1 x vn2
@@ -9529,15 +9660,15 @@
 浏览器  l iu2 l an3 q i4
 警示  j ing3 sh ix4
 多特蒙  d uo1 t e4 m eng2
-不继续  b u2|b u4 j i4 x v4
+不继续 null
 信息办  x in4 x i1 b an4
 基本准则  j i1 b en3 zh un3 z e2
 上村  sh ang4 c un1
-乌当  uu u1 d ang1|d ang4
+乌当 null
 澳台  aa ao4 t ai2
 家庭水电气  j ia1 t ing2 sh ui3 d ian4 q i4
 贵溪市  g ui4 x i1 sh ix4
-帕帕托伊托伊  p a4 p a4|p a4 p a5 t uo1 ii i1 t uo1 ii i1
+帕帕托伊托伊 null
 银联标识  ii in2 l ian2 b iao1 sh ix2
 于佳妮  vv v2 j ia1 n i1
 销售收入  x iao1 sh ou4 sh ou1 r u4
@@ -9561,7 +9692,7 @@
 澄迈县  ch eng2 m ai4 x ian4
 有情  ii iu3 q ing2
 仓位  c ang1 uu ui4
-几点  j i1|j i3 d ian3
+几点 null
 资本支出  z iy1 b en3 zh ix1 ch u1
 音乐疯  ii in1 vv ve4 f eng1
 购物街  g ou4 uu u4 j ie1
@@ -9571,7 +9702,7 @@
 上架  sh ang4 j ia4
 加如  j ia1 r u2
 瑞金市  r ui4 j in1 sh ix4
-拖拽  t uo1 ii ie4|zh uai4
+拖拽 null
 哈利法克斯  h a1 l i4 f a3 k e4 s iy1
 手机银行功能  sh ou3 j i1 ii in2 h ang2 g ong1 n eng2
 桐庐县  t ong2 l u2 x ian4
@@ -9580,7 +9711,7 @@
 日落  r iz4 l uo4
 大兴区  d a4 x ing1 q v1
 可不可  k e3 b u4 k e3
-转账密码  zh uan3|zh uan4 zh ang4 m i4 m a3
+转账密码 null
 替我  t i4 uu uo3
 双网双待  sh uang1 uu uang3 sh uang1 d ai4
 换到  h uan4 d ao4
@@ -9598,7 +9729,7 @@
 回复短信  h ui2 f u4 d uan3 x in4
 中国法律  zh ong1 g uo2 f a3 l v4
 东新  d ong1 x in1
-劲爆体育  j in4|j ing4 b ao4 t i3 vv v4
+劲爆体育 null
 汇率损失  h ui4 l v4 s un3 sh ix1
 希诺特佩  x i1 n uo4 t e4 p ei4
 白山市  b ai2 sh an1 sh ix4
@@ -9609,7 +9740,7 @@
 凯里尼亚  k ai3 l i3 n i2 ii ia4
 第一时间  d i4 ii i1 sh ix2 j ian1
 夜里十二点  ii ie4 l i3 sh ix2 ee er4 d ian3
-干死  g an1|g an4 s iy3
+干死 null
 彩虹桥  c ai3 h ong2 q iao2
 捷信  j ie2 x in4
 韦尔维耶  uu ui2 ee er3 uu ui2 ii ie1
@@ -9622,9 +9753,10 @@
 手机店  sh ou3 j i1 d ian4
 投保提示  t ou2 b ao3 t i2 sh ix4
 有人值守  ii iu3 r en2 zh ix2 sh ou3
-更胜一筹  g eng1|g eng4 sh eng4 ii i1 ch ou2
+更胜一筹 null
 全魔王  q van2 m o2 uu uang2
-新斯科舍  x in1 s iy1 k e1 sh e3|sh e4
+爱的供养 null
+新斯科舍 null
 中东地区  zh ong1 d ong1 d i4 q v1
 放飞  f ang4 f ei1
 公网  g ong1 uu uang3
@@ -9636,7 +9768,7 @@
 一楼  ii i1 l ou2
 喷涂厂  p en1 t u2 ch ang3
 玄幻  x van2 h uan4
-听不清  t ing1 b u2|b u4 q ing1
+听不清 null
 土库曼斯坦  t u3 k u4 m an4 s iy1 t an3
 无人接  uu u2 r en2 j ie1
 才能拥有  c ai2 n eng2 ii iong1 ii iu3
@@ -9645,7 +9777,7 @@
 这么慢  zh e4 m e5 m an4
 地方财政  d i4 f ang1 c ai2 zh eng4
 琼山区  q iong2 sh an1 q v1
-猪尾巴  zh u1 ii i3 b a5|uu ui3 b a5
+猪尾巴 null
 少量药品  sh ao3 l iang4 ii iao4 p in3
 且末  q ie3 m o4
 询证函  x vn2 zh eng4 h an2
@@ -9660,7 +9792,7 @@
 移除  ii i2 ch u2
 张囡  zh ang1 n an1
 天运  t ian1 vv vn4
-滚犊子  g un3 d u2 z iy3|d u2 z iy5
+滚犊子 null
 包个  b ao1 g e4
 海信小岛  h ai3 x in4 x iao3 d ao3
 东风西路  d ong1 f eng1 x i1 l u4
@@ -9678,13 +9810,13 @@
 松原  s ong1 vv van2
 土伦  t u3 l un2
 全职  q van2 zh ix2
-在不  z ai4 b u2|b u4
+在不 null
 音乐盒  ii in1 vv ve4 h e2
 掌上  zh ang3 sh ang4
 壹圆券  ii i1 vv van2 q van4
 沃尔维斯湾  uu uo4 ee er3 uu ui2 s iy1 uu uan1
 花山路  h ua1 sh an1 l u4
-任何卡组织  r en4 h e2 k a3|q ia3 z u3 zh ix1
+任何卡组织 null
 综合配货  z ong1 h e2 p ei4 h uo4
 上网络  sh ang4 uu uang3 l uo4
 新设  x in1 sh e4
@@ -9718,6 +9850,7 @@
 中国学生  zh ong1 g uo2 x ve2 sh eng1
 信息台  x in4 x i1 t ai2
 转移呼叫  zh uan3 ii i2 h u1 j iao4
+捷克共和国  j ie2 k e4 g ong4 h e2 g uo2
 巴巴奥约  b a1 b a1 aa ao4 vv ve1
 入境日期  r u4 j ing4 r iz4 q i1
 埃斯基尔斯图纳  aa ai1 s iy1 j i1 ee er3 s iy1 t u2 n a4
@@ -9747,15 +9880,16 @@
 来我家  l ai2 uu uo3 j ia1
 零钞  l ing2 ch ao1
 天翼之心  t ian1 ii i4 zh ix1 x in1
-国发  g uo2 f a1|f a4
+国发 null
 天邑  t ian1 ii i4
+和平北路 null
 锁具  s uo3 j v4
 现金流  x ian4 j in1 l iu2
 开完  k ai1 uu uan2
-控制力  k ong4 zh ix4|k ong4 zh ix5 l i4
+控制力 null
 投保信息  t ou2 b ao3 x in4 x i1
 就业前景  j iu4 ii ie4 q ian2 j ing3
-中等职业教育  zh ong1 d eng3 zh ix2 ii ie4 j iao4 vv v4|j iao4 vv v5
+中等职业教育 null
 平治  p ing2 zh ix4
 辽宁卫视  l iao2 n ing2 uu ui4 sh ix4
 客运汽车  k e4 vv vn4 q i4 ch e1
@@ -9765,10 +9899,11 @@
 法兰克福  f a3 l an2 k e4 f u2
 汇聚宝  h ui4 j v4 b ao3
 产品奖  ch an2 p in3 j iang3
-更新时间  g eng1 x in1|g eng4 x in1 sh ix2 j ian1
+更新时间 null
 移民方案  ii i2 m in2 f ang1 aa an4
 云天  vv vn2 t ian1
 学位门类  x ve2 uu ui4 m en2 l ei4
+杜塞尔多夫 null
 通榆  t ong1 vv v2
 新安路  x in1 aa an1 l u4
 郏县  j ia2 x ian4
@@ -9783,7 +9918,7 @@
 平遥县  p ing2 ii iao2 x ian4
 联动  l ian2 d ong4
 仨人  s a1 r en2
-差几天  c iy1|ch a1|ch a4|ch ai1 j i3 t ian1
+差几天 null
 批准书  p i1 zh un3 sh u1
 科索沃  k e1 s uo3 uu uo4
 三十多  s an1 sh ix2 d uo1
@@ -9794,7 +9929,7 @@
 武宣  uu u3 x van1
 基金名称  j i1 j in1 m ing2 ch eng1
 母婴保健  m u3 ii ing1 b ao3 j ian4
-供应链  g ong1 ii ing4|g ong4 ii ing4 l ian4
+供应链 null
 对对碰  d ui4 d ui4 p eng4
 自助缴纳服务  z iy4 zh u4 j iao3 n a4 f u2 uu u4
 短信聊  d uan3 x in4 l iao2
@@ -9811,13 +9946,13 @@
 费米尼诺  f ei4 m i3 n i2 n uo4
 捐赠协议  j van1 z eng4 x ie2 ii i4
 打马里亚那群岛  d a3 m a2 l i3 ii ia4 n a4 q vn2 d ao3
-聊吧  l iao2 b a1|b a5
+聊吧 null
 新号码  x in1 h ao4 m a3
 墨尔本  m o4 ee er3 b en3
 信用风险  x in4 ii iong4 f eng1 x ian3
 明细栏  m ing2 x i4 l an2
 正阳路  zh eng4 ii iang2 l u4
-教育台  j iao4 vv v4|j iao4 vv v5 t ai2
+教育台 null
 电子券  d ian4 z iy3 q van4
 信息包  x in4 x i1 b ao1
 澳洲历史  aa ao4 zh ou1 l i4 sh ix3
@@ -9828,7 +9963,7 @@
 抽奖机会  ch ou1 j iang3 j i1 h ui4
 入境许可  r u4 j ing4 x v2 k e3
 一次  ii i1 c iy4
-行将  h ang2|x ing2 j iang1|j iang4
+行将 null
 加密  j ia1 m i4
 安科纳  aa an1 k e1 n a4
 交易限额  j iao1 ii i4 x ian4 ee e2
@@ -9858,16 +9993,16 @@
 戴利沃特斯  d ai4 l i4 uu uo4 t e4 s iy1
 新天地  x in1 t ian1 d i4
 一本通  ii i4 b en3 t ong1
-以供  ii i3 g ong1|g ong4
+以供 null
 通化市  t ong1 h ua4 sh ix4
 国际精品  g uo2 j i4 j ing1 p in3
-伽利略  g a1|j ia1 l i4 l ve4
+伽利略 null
 一步  ii i1 b u4
 市场纪录  sh ix4 ch ang3 j i4 l u4
 新购  x in1 g ou4
 包保  b ao1 b ao3
 十五元  sh ix2 uu u3 vv van2
-转网  zh uan3|zh uan4 uu uang3
+转网 null
 座机  z uo4 j i1
 保山市  b ao3 sh an1 sh ix4
 有损  ii iu3 s un3
@@ -9875,14 +10010,14 @@
 联升  l ian2 sh eng1
 狮子座  sh ix1 z iy5 z uo4
 进入网  j in4 r u4 uu uang3
-每张卡片  m ei3 zh ang1 k a3 p ian1|p ian4
+每张卡片  m ei3 zh ang1 k a3 p ian4
 篮球鞋  l an2 q iu2 x ie2
 录制  l u4 zh ix4
 象州  x iang4 zh ou1
 聚力  j v4 l i4
 计生  j i4 sh eng1
 文化西路  uu un2 h ua4 x i1 l u4
-钱少  q ian2 sh ao3|sh ao4
+钱少 null
 彩信  c ai3 x in4
 京津冀  j ing1 j in1 j i4
 嘉元路  j ia1 vv van2 l u4
@@ -9920,13 +10055,14 @@
 长城环球  ch ang2 ch eng2 h uan2 q iu2
 非要  f ei1 ii iao4
 郴州市  ch en1 zh ou1 sh ix4
-无缘情人  uu u2 vv van2 q ing2 r en2|q ing2 r en5
+无缘情人 null
 机巴  j i1 b a1
 动账类  d ong4 zh ang4 l ei4
 连云港市  l ian2 vv vn2 g ang3 sh ix4
 须有  x v1 ii iu3
 本克别霍  b en3 k e4 b ie2 h uo4
 明星机  m ing2 x ing1 j i1
+厄塞比奥阿亚拉 null
 网络游戏  uu uang3 l uo4 ii iu2 x i4
 此电话  c iy3 d ian4 h ua4
 理光  l i3 g uang1
@@ -9942,20 +10078,21 @@
 上个礼拜  sh ang4 g e4 l i3 b ai4
 香港大学  x iang1 g ang3 d a4 x ve2
 临翔区  l in2 x iang2 q v1
-研发  ii ian2 f a1|f a4
+研发 null
 延平  ii ian2 p ing2
 承兑汇票  ch eng2 d ui4 h ui4 p iao4
 秘密潜入  m i4 m i4 q ian2 r u4
 庆民  q ing4 m in2
 卡片正面  k a3 p ian4 zh eng4 m ian4
 全金融产品  q van2 j in1 r ong2 ch an2 p in3
-行约惠  h ang2|x ing2 vv ve1 h ui4
+刚果民主共和国  g ang1 g uo3 m in2 zh u3 g ong4 h e2 g uo2
+行约惠 null
 返现  f an3 x ian4
 英文本科  ii ing1 uu un2 b en3 k e1
 渭惠路  uu ui4 h ui4 l u4
 竞争优势  j ing4 zh eng1 ii iu1 sh ix4
 吉安县  j i2 aa an1 x ian4
-打不出  d a3 b u2|b u4 ch u1
+打不出 null
 东森  d ong1 s en1
 吉林市  j i2 l in2 sh ix4
 三季度  s an1 j i4 d u4
@@ -9972,7 +10109,7 @@
 结算业务  j ie2 s uan4 ii ie4 uu u4
 林北  l in2 b ei3
 存仓  c un2 c ang1
-任丘  r en2|r en4 q iu1
+任丘 null
 一汽  ii i1 q i4
 资本金  z iy1 b en3 j in1
 优快公司  ii iu1 k uai4 g ong1 s iy1
@@ -9986,7 +10123,7 @@
 本人资金  b en3 r en2 z iy1 j in1
 奥兰群岛  aa ao4 l an2 q vn2 d ao3
 五十元  uu u3 sh ix2 vv van2
-钱转到  q ian2 zh uan3|zh uan4 d ao4
+钱转到 null
 滴滴  d i1 d i1
 乡情  x iang1 q ing2
 不要笑话  b u2 ii iao4 x iao4 h ua5
@@ -9997,7 +10134,7 @@
 风险管理  f eng1 x ian3 g uan2 l i3
 东北风  d ong1 b ei3 f eng1
 风险等级  f eng1 x ian3 d eng3 j i2
-转股  zh uan3|zh uan4 g u3
+转股 null
 上海银行  sh ang4 h ai3 ii in2 h ang2
 海勃湾区  h ai3 b o2 uu uan1 q v1
 前村  q ian2 c un1
@@ -10016,6 +10153,7 @@
 感应器  g an3 ii ing4 q i4
 解除上限  j ie3 ch u2 sh ang4 x ian4
 石塘  sh ix2 t ang2
+弹回 null
 下午两点  x ia4 uu u3 l iang3 d ian3
 临朐县  l in2 q v2 x ian4
 怎么做  z en3 m e5 z uo4
@@ -10055,14 +10193,15 @@
 今日头条  j in1 r iz4 t ou2 t iao2
 萨拉戈萨  s a4 l a1 g e1 s a4
 天天理财  t ian1 t ian1 l i3 c ai2
-不准确  b u2|b u4 zh un3 q ve4
+不准确  b u4 zh un3 q ve4
 电子发票  d ian4 z iy3 f a1 p iao4
+光纤到户 null
 锦佳  j in3 j ia1
 客户交易量奖  k e4 h u4 j iao1 ii i4 l iang4 j iang3
 广安路  g uang3 aa an1 l u4
 国政通  g uo2 zh eng4 t ong1
 日表  r iz4 b iao3
-不正常  b u2|b u4 zh eng4 ch ang2
+不正常 null
 巨大潜力  j v4 d a4 q ian2 l i4
 镇江市  zh en4 j iang1 sh ix4
 联储弦  l ian2 ch u3 x ian2
@@ -10108,9 +10247,10 @@
 报消  b ao4 x iao1
 自备机  z iy4 b ei4 j i1
 逼格  b i1 g e2
-经办机构  j ing1|j ing4 b an4 j i1 g ou4
+魏都 null
+经办机构 null
 消费额  x iao1 f ei4 ee e2
-学乐  x ve2 l e4|vv ve4
+学乐 null
 影像云  ii ing3 x iang4 vv vn2
 业务介绍  ii ie4 uu u4 j ie4 sh ao4
 工伤保险  g ong1 sh ang1 b ao2 x ian3
@@ -10146,7 +10286,7 @@
 制造业  zh ix4 z ao4 ii ie4
 裕东  vv v4 d ong1
 邕州  ii iong1 zh ou1
-西西里  x i1 x i1|x i1 x i5 l i3
+西西里 null
 比克  b i3 k e4
 那个时候  n a4 g e5 sh ix2 h ou5
 私出境人员  s iy1 ch u1 j ing4 r en2 vv van2
@@ -10165,8 +10305,8 @@
 雾霾  uu u4 m ai2
 互相拨打  h u4 x iang1 b o1 d a3
 定西市  d ing4 x i1 sh ix4
-干什么  g an1|g an4 sh en2 m e5
-转至  zh uan3|zh uan4 zh ix4
+干什么 null
+转至 null
 移民资金  ii i2 m in2 z iy1 j in1
 第二级  d i4 ee er4 j i2
 接入码  j ie1 r u4 m a3
@@ -10174,7 +10314,7 @@
 铁西区  t ie3 x i1 q v1
 郫县  p i2 x ian4
 克拉约瓦  k e4 l a1 vv ve1 uu ua3
-经办人员  j ing1|j ing4 b an4 r en2 vv van2
+经办人员 null
 推介  t ui1 j ie4
 下注  x ia4 zh u4
 任何形式  r en4 h e2 x ing2 sh ix4
@@ -10184,7 +10324,8 @@
 客户服务电话  k e4 h u4 f u2 uu u4 d ian4 h ua4
 招远市  zh ao1 vv van3 sh ix4
 小剪刀  x iao3 j ian3 d ao1
-不允许  b u2|b u4 vv vn2 x v3
+都没用 null
+不允许 null
 开户网点  k ai1 h u4 uu uang2 d ian3
 黄石市  h uang2 sh ix2 sh ix4
 预案  vv v4 aa an4
@@ -10219,7 +10360,7 @@
 均价  j vn1 j ia4
 萨德  s a4 d e2
 面试  m ian4 sh ix4
-亚运村  ii ia3 vv vn4|ii ia4 vv vn4 c un1
+亚运村 null
 湘永路  x iang1 ii iong3 l u4
 银园  ii in2 vv van2
 礼拜五  l i3 b ai4 uu u3
@@ -10243,8 +10384,9 @@
 靠谱  k ao4 p u3
 信用记录者  x in4 ii iong4 j i4 l u4 zh e3
 港剧风云  g ang3 j v4 f eng1 vv vn2
-不相符  b u2|b u4 x iang1 f u2
+不相符 null
 北四环  b ei3 s iy4 h uan2
+宁都县  n ing2 d u1 x ian4
 认知  r en4 zh ix1
 报告原文  b ao4 g ao4 vv van2 uu un2
 新时代  x in1 sh ix2 d ai4
@@ -10252,7 +10394,7 @@
 被人偷  b ei4 r en2 t ou1
 光头熊  g uang1 t ou2 x iong2
 移动支付  ii i2 d ong4 zh ix1 f u4
-大师连环炮  d a4 sh ix1 l ian2 h uan2 p ao2|p ao4
+大师连环炮 null
 镍先锋  n ie4 x ian1 f eng1
 市级  sh ix4 j i2
 个人电脑  g e4 r en2 d ian4 n ao3
@@ -10278,7 +10420,7 @@
 加德  j ia1 d e2
 首映剧场  sh ou3 ii ing4 j v4 ch ang3
 圣诞下雪  sh eng4 d an4 x ia4 x ve3
-强多  j iang4|q iang2|q iang3 d uo1
+强多 null
 萨尔蒂约  s a4 ee er3 d i4 vv ve1
 其他号码  q i2 t a1 h ao4 m a3
 礼拜一  l i3 b ai4 ii i1
@@ -10288,7 +10430,7 @@
 港西  g ang3 x i1
 客运站  k e4 vv vn4 zh an4
 出口全益达  ch u1 k ou3 q van2 ii i4 d a2
-代发  d ai4 f a1|f a4
+代发 null
 药监  ii iao4 j ian1
 太阳神  t ai4 ii iang2 sh en2
 年收费  n ian2 sh ou1 f ei4
@@ -10319,9 +10461,9 @@
 授后  sh ou4 h ou4
 银城  ii in2 ch eng2
 唐山市  t ang2 sh an1 sh ix4
-玫瑰金  m ei2 g ui1|m ei2 g ui4 j in1
+玫瑰金 null
 食府  sh ix2 f u3
-不清  b u2|b u4 q ing1
+不清 null
 巴科洛德  b a1 k e1 l uo4 d e2
 密码汇款  m i4 m a3 h ui4 k uan3
 阜外大街  f u4 uu uai4 d a4 j ie1
@@ -10352,7 +10494,7 @@
 无语  uu u2 vv v3
 收月租  sh ou1 vv ve4 z u1
 按揭  aa an4 j ie1
-大咖秀  d a4|d ai4 g a1|k a1 x iu4
+大咖秀 null
 请问下  q ing3 uu un4 x ia4
 查询手续  ch a2 x vn2 sh ou3 x v4
 音箱  ii in1 x iang1
@@ -10407,7 +10549,7 @@
 删除掉  sh an1 ch u2 d iao4
 辅导站  f u2 d ao3 zh an4
 产品结构  ch an2 p in3 j ie2 g ou4
-潘玮柏  p an1 uu ui3 b ai3|b o2
+潘玮柏 null
 贡献网点奖  g ong4 x ian4 uu uang2 d ian3 j iang3
 守夜者  sh ou3 ii ie4 zh e3
 贝尔格莱德  b ei4 ee er3 g e2 l ai2 d e2
@@ -10422,9 +10564,9 @@
 孟加拉  m eng4 j ia1 l a1
 排号  p ai2 h ao4
 神农架  sh en2 n ong2 j ia4
-记不起  j i4 b u2|b u4 q i3
-血拼  x ie3|x ve4 p in1
-不接受  b u2|b u4 j ie1 sh ou4
+记不起 null
+血拼 null
+不接受 null
 来一份  l ai2 ii i1 f en4
 宁东  n ing4 d ong1
 吾舒服  uu u2 sh u1 f u5
@@ -10435,18 +10577,19 @@
 查下  ch a2 x ia4
 第一部  d i4 ii i1 b u4
 网购宝  uu uang3 g ou4 b ao3
-亲子  q in1|q ing4 z iy3
+亲子 null
 一国经济  ii i1 g uo2 j ing1 j i4
-上游供应商  sh ang4 ii iu2 g ong1 ii ing4|g ong4 ii ing4 sh ang1
+上游供应商 null
 巫峡镇  uu u1 x ia2 zh en4
 任何时间  r en4 h e2 sh ix2 j ian1
 天雷  t ian1 l ei2
 挂断  g ua4 d uan4
 一些问题  ii i4 x ie1 uu un4 t i2
+仪和 null
 红山区  h ong2 sh an1 q v1
 唐伯虎点秋香  t ang2 b o2 h u3 d ian3 q iu1 x iang1
 综艺  z ong1 ii i4
-交界处理得  j iao1 j ie4 ch u2 l i3|ch u4 l i3 d e2|d e5|d ei3
+交界处理得 null
 个毛  g e4 m ao2
 商户电话  sh ang1 h u4 d ian4 h ua4
 签名式样  q ian1 m ing2 sh ix4 ii iang4
@@ -10476,7 +10619,7 @@
 翼安居  ii i4 aa an1 j v1
 开房  k ai1 f ang2
 颛桥  zh uan1 q iao2
-倒计时  d ao3|d ao4 j i4 sh ix2
+倒计时 null
 存话费  c un2 h ua4 f ei4
 娘要嫁人  n iang2 ii iao4 j ia4 r en2
 银河街  ii in2 h e2 j ie1
@@ -10486,9 +10629,9 @@
 励志  l i4 zh ix4
 赛尔号游戏  s ai4 ee er3 h ao4 ii iu2 x i4
 储蓄账户资金  ch u3 x v4 zh ang4 h u4 z iy1 j in1
-典藏  d ian3 c ang2|z ang4
+典藏 null
 语音套餐  vv v3 ii in1 t ao4 c an1
-横街  h eng2|h eng4 j ie1
+横街 null
 其众多网点  q i2 zh ong4 d uo1 uu uang2 d ian3
 第三轮  d i4 s an1 l un2
 机损  j i1 s un3
@@ -10499,13 +10642,13 @@
 加成  j ia1 ch eng2
 个人外汇  g e4 r en2 uu uai4 h ui4
 巴州区  b a1 zh ou1 q v1
-回应  h ui2 ii ing1|ii ing4
+回应 null
 惠民金融  h ui4 m in2 j in1 r ong2
 张店  zh ang1 d ian4
 动感  d ong4 g an3
 发财怎么排  f a1 c ai2 z en3 m e5 p ai2
 活期宝  h uo2 q i1 b ao3
-跟谁学  g en1 sh ei2|sh ui2 x ve2
+跟谁学 null
 网上营业厅  uu uang3 sh ang4 ii ing2 ii ie4 t ing1
 弄成  n ong4 ch eng2
 冲绳  ch ong1 sh eng2
@@ -10545,7 +10688,7 @@
 天音  t ian1 ii in1
 基本知识  j i1 b en3 zh ix1 sh ix5
 永新县  ii iong3 x in1 x ian4
-几种  j i1|j i3 zh ong3|zh ong4
+几种 null
 嘉定区  j ia1 d ing4 q v1
 特隆赫姆  t e4 l ong2 h e4 m u3
 定位调度  d ing4 uu ui4 d iao4 d u4
@@ -10557,7 +10700,7 @@
 资金流  z iy1 j in1 l iu2
 昌乐县  ch ang1 l e4 x ian4
 中心区  zh ong1 x in1 q v1
-流量不限量套餐  l iu2 l iang4 b u2|b u4 x ian4 l iang4 t ao4 c an1
+流量不限量套餐 null
 专题包  zh uan1 t i2 b ao1
 日费  r iz4 f ei4
 有限时  ii iu3 x ian4 sh ix2
@@ -10566,7 +10709,7 @@
 潘桥  p an1 q iao2
 罗西格诺尔  l uo2 x i1 g e2 n uo4 ee er3
 光谷  g uang1 g u3
-其教育文凭  q i2 j iao4 vv v4|j iao4 vv v5 uu un2 p ing2
+其教育文凭 null
 扣税  k ou4 sh ui4
 期权  q i1 q van2
 医保  ii i1 b ao3
@@ -10583,7 +10726,7 @@
 每周工作  m ei3 zh ou1 g ong1 z uo4
 银行电话  ii in2 h ang2 d ian4 h ua4
 普赫海姆  p u3 h e4 h ai3 m u3
-会不会计  h ui4 b u2 h ui4|h ui4 b u5 h ui4 j i4
+会不会计 null
 全球公司金融  q van2 q iu2 g ong1 s iy1 j in1 r ong2
 人客  r en2 k e4
 获奖公告  h uo4 j iang3 g ong1 g ao4
@@ -10598,11 +10741,12 @@
 巴西商户  b a1 x i1 sh ang1 h u4
 永安里  ii iong3 aa an1 l i3
 证件类型  zh eng4 j ian4 l ei4 x ing2
-不开放  b u2|b u4 k ai1 f ang4
+不开放 null
 书面声明  sh u1 m ian4 sh eng1 m ing2
+弹屏 null
 转换套餐  zh uan3 h uan4 t ao4 c an1
 养生堂  ii iang3 sh eng1 t ang2
-是不是可以  sh ix4 b u2 sh ix4|sh ix4 b u5 sh ix4 k e2 ii i3
+是不是可以 null
 北斗导航  b ei2 d ou3 d ao3 h ang2
 加拨  j ia1 b o1
 智宽生活  zh ix4 k uan1 sh eng1 h uo2
@@ -10643,12 +10787,12 @@
 支行杭州市  zh ix1 h ang2 h ang2 zh ou1 sh ix4
 城榆山路  ch eng2 vv v2 sh an1 l u4
 亦庄  ii i4 zh uang1
-几小时  j i1|j i3 x iao3 sh ix2
+几小时 null
 举报制度  j v3 b ao4 zh ix4 d u4
 魔镜  m o2 j ing4
 充费  ch ong1 f ei4
 国家税务  g uo2 j ia1 sh ui4 uu u4
-什字  sh en2|sh ix2 z iy4
+什字 null
 收款方式  sh ou1 k uan3 f ang1 sh ix4
 频次  p in2 c iy4
 替别人  t i4 b ie2 r en2
@@ -10656,12 +10800,12 @@
 栖霞市  q i1 x ia2 sh ix4
 实体店  sh ix2 t i3 d ian4
 保险产品  b ao2 x ian3 ch an2 p in3
-不存在  b u2|b u4 c un2 z ai4
+不存在 null
 天翼畅聊  t ian1 ii i4 ch ang4 l iao2
 投资策略  t ou2 z iy1 c e4 l ve4
 天天有  t ian1 t ian1 ii iu3
-答疑  d a1|d a2 ii i2
-结汇申请  j ie1|j ie2 h ui4 sh en1 q ing3
+答疑 null
+结汇申请 null
 英文简称  ii ing1 uu un2 j ian3 ch eng1
 权利证书  q van2 l i4 zh eng4 sh u1
 松山  s ong1 sh an1
@@ -10676,7 +10820,7 @@
 途牛  t u2 n iu2
 纸尿裤  zh ix3 n iao4 k u4
 查询版  ch a2 x vn2 b an3
-汇差损失  h ui4 c iy1|ch a1|ch a4|ch ai1 s un3 sh ix1
+汇差损失 null
 新华镇  x in1 h ua2 zh en4
 十二宫  sh ix2 ee er4 g ong1
 伊斯帕尔塔  ii i1 s iy1 p a4 ee er3 t a3
@@ -10691,8 +10835,8 @@
 活仓位  h uo2 c ang1 uu ui4
 织金县  zh ix1 j in1 x ian4
 不同国家  b u4 t ong2 g uo2 j ia1
-参保人  c an1|sh en1 b ao3 r en2
-不安全  b u2|b u4 aa an1 q van2
+参保人 null
+不安全  b u4 aa an1 q van2
 太极十二拍  t ai4 j i2 sh ix2 ee er4 p ai1
 常用外币  ch ang2 ii iong4 uu uai4 b i4
 弄掉  n ong4 d iao4
@@ -10712,7 +10856,7 @@
 外汇局  uu uai4 h ui4 j v2
 二手  ee er4 sh ou3
 开学时间  k ai1 x ve2 sh ix2 j ian1
-不熟  b u2|b u4 sh u2
+不熟 null
 临潼区  l in2 t ong2 q v1
 圣多美  sh eng4 d uo1 m ei3
 手机钱包  sh ou3 j i1 q ian2 b ao1
@@ -10725,14 +10869,14 @@
 国际业务  g uo2 j i4 ii ie4 uu u4
 更换成  g eng1 h uan4 ch eng2
 个人金融  g e4 r en2 j in1 r ong2
-教育展  j iao4 vv v4|j iao4 vv v5 zh an3
+教育展 null
 爱游戏  aa ai4 ii iu2 x i4
 安信  aa an1 x in4
 公司渠道  g ong1 s iy1 q v2 d ao4
 实质性  sh ix2 zh ix4 x ing4
 他妈  t a1 m a1
 免责  m ian3 z e2
-不知情  b u2|b u4 zh ix1 q ing2
+不知情  b u4 zh ix1 q ing2
 电影频道  d ian4 ii ing3 p in2 d ao4
 本期  b en3 q i1
 纸质  zh ix3 zh ix4
@@ -10740,10 +10884,12 @@
 亳州  b o2 zh ou1
 放松下  f ang4 s ong1 x ia4
 白象  b ai2 x iang4
-学吧  x ve2 b a1|b a5
+学吧 null
+漫游和长途 null
 天香  t ian1 x iang1
 营业网点  ii ing2 ii ie4 uu uang2 d ian3
 土壕  t u3 h ao2
+丰都县 null
 开播  k ai1 b o1
 飞拓  f ei1 t uo4
 网站  uu uang3 zh an4
@@ -10753,14 +10899,14 @@
 账上  zh ang4 sh ang4
 绿色通道  l v4 s e4 t ong1 d ao4
 插你  ch a1 n i3
-卡尔扎伊  k a2 ee er3 z a1|zh a1|zh a2 ii i1
-卡通片  k a3 t ong1 p ian1|p ian4
+卡尔扎伊 null
+卡通片 null
 东方山  d ong1 f ang1 sh an1
 黎元洪  l i2 vv van2 h ong2
 延时  ii ian2 sh ix2
 光路  g uang1 l u4
 信息资讯  x in4 x i1 z iy1 x vn4
-发出去  f a1|f a4 ch u1 q v4
+发出去  f a1 ch u1 q v4
 工商银行  g ong1 sh ang1 ii in2 h ang2
 老方  l ao3 f ang1
 模试  m o2 sh ix4
@@ -10771,13 +10917,14 @@
 手绘  sh ou3 h ui4
 谷歌  g u3 g e1
 有毒  ii iu3 d u2
+塞利比费奇韦 null
 客户隐私  k e4 h u4 ii in3 s iy1
 联动优势  l ian2 d ong4 ii iu1 sh ix4
-领涨  l ing3 zh ang3|zh ang4
+领涨 null
 犯罪率  f an4 z ui4 l v4
 谊兄弟  ii i4 x iong1 d i4
 购汇手续  g ou4 h ui4 sh ou3 x v4
-客户手中  k e4 h u4 sh ou3 zh ong1|sh ou3 zh ong1
+客户手中  k e4 h u4 sh ou3 zh ong1
 手机终端  sh ou3 j i1 zh ong1 d uan1
 微信  uu ui1 x in4
 未央区  uu ui4 ii iang1 q v1
@@ -10786,12 +10933,12 @@
 建新  j ian4 x in1
 客户需求  k e4 h u4 x v1 q iu2
 交易商  j iao1 ii i4 sh ang1
-扎巴达尼  z a1|zh a1|zh a2 b a1 d a2 n i2
+扎巴达尼 null
 互打  h u4 d a3
 社会势力  sh e4 h ui4 sh ix4 l i4
 老旧  l ao3 j iu4
 使用信用卡  sh ix3 ii iong4 x in4 ii iong4 k a3
-不通畅  b u2|b u4 t ong1 ch ang4
+不通畅  b u4 t ong1 ch ang4
 星街  x ing1 j ie1
 优利  ii iu1 l i4
 游赏  ii iu2 sh ang3
@@ -10829,7 +10976,7 @@
 保证金货币  b ao3 zh eng4 j in1 h uo4 b i4
 派遣公司  p ai4 q ian3 g ong1 s iy1
 守护宝  sh ou3 h u4 b ao3
-铺就  p u1|p u4 j iu4
+铺就 null
 漏话业务  l ou4 h ua4 ii ie4 uu u4
 德惠市  d e2 h ui4 sh ix4
 历史新高  l i4 sh ix3 x in1 g ao1
@@ -10857,7 +11004,7 @@
 黄金知识  h uang2 j in1 zh ix1 sh ix5
 买有  m ai3 ii iu3
 国际直拨  g uo2 j i4 zh ix2 b o1
-几类  j i1|j i3 l ei4
+几类 null
 上市企业  sh ang4 sh ix4 q i3 ii ie4
 弗拉  f u2 l a1
 加收  j ia1 sh ou1
@@ -10872,26 +11019,26 @@
 出票  ch u1 p iao4
 越秀区  vv ve4 x iu4 q v1
 中国毕业生  zh ong1 g uo2 b i4 ii ie4 sh eng1
-结转流量  j ie1|j ie2 zh uan3|zh uan4 l iu2 l iang4
+结转流量 null
 锁定  s uo3 d ing4
 您留学  n in2 l iu2 x ve2
 国币  g uo2 b i4
 扣取款  k ou4 q v3 k uan3
 漯河市  l uo4 h e2 sh ix4
 稻香  d ao4 x iang1
-晚上十二点  uu uan3 sh ang4|uu uan3 sh ang5 sh ix2 ee er4 d ian3
+晚上十二点 null
 经销商  j ing1 x iao1 sh ang1
 程控功能  ch eng2 k ong4 g ong1 n eng2
 贷款用途  d ai4 k uan3 ii iong4 t u2
 租赁业  z u1 l in4 ii ie4
 买机  m ai3 j i1
-改回来  g ai3 h ui2 l ai2|h ui2 l ai5
+改回来 null
 沈河区  sh en3 h e2 q v1
 朔城区  sh uo4 ch eng2 q v1
 包天  b ao1 t ian1
 汇款手续  h ui4 k uan3 sh ou3 x v4
 客户范围  k e4 h u4 f an4 uu ui2
-相纸  x iang1|x iang4 zh ix3
+相纸 null
 止日  zh ix3 r iz4
 仙剑梦缘  x ian1 j ian4 m eng4 vv van2
 外派公司  uu uai4 p ai4 g ong1 s iy1
@@ -10906,7 +11053,7 @@
 负值  f u4 zh ix2
 购物过程  g ou4 uu u4 g uo4 ch eng2
 征信业发展  zh eng1 x in4 ii ie4 f a1 zh an3
-立行  l i4 h ang2|x ing2
+立行 null
 预拆机  vv v4 ch ai1 j i1
 手续费  sh ou3 x v4 f ei4
 买来  m ai3 l ai2
@@ -10921,23 +11068,25 @@
 截止日  j ie2 zh ix3 r iz4
 嗨翻  h ai1 f an1
 天天来  t ian1 t ian1 l ai2
-结计  j ie1|j ie2 j i4
-下载易信  x ia4 z ai3|z ai4 ii i4 x in4
+结计 null
+下载易信 null
 齐鲁  q i2 l u3
 自助挂号  z iy4 zh u4 g ua4 h ao4
 开鲁县  k ai1 l u3 x ian4
 融资产品  r ong2 z iy1 ch an2 p in3
 合约期限  h e2 vv ve1 q i1 x ian4
+魏都区 null
 旅行支票品牌  l v3 x ing2 zh ix1 p iao4 p in3 p ai2
 仁川  r en2 ch uan1
 亚速尔群岛  ii ia4 s u4 ee er3 q vn2 d ao3
 万瑞  uu uan4 r ui4
-转账周期  zh uan3|zh uan4 zh ang4 zh ou1 q i1
+转账周期 null
 升级版  sh eng1 j i2 b an3
+安提瓜和巴布达 null
 财务摘要  c ai2 uu u4 zh ai1 ii iao4
 联络人  l ian2 l uo4 r en2
 行驶证  x ing2 sh ix3 zh eng4
-亲情号码  q in1|q ing4 q ing2 h ao4 m a3
+亲情号码 null
 首个  sh ou3 g e4
 翼城县  ii i4 ch eng2 x ian4
 学士学位  x ve2 sh ix4 x ve2 uu ui4
@@ -10946,7 +11095,7 @@
 清徐县  q ing1 x v2 x ian4
 集宁区  j i2 n ing4 q v1
 美男  m ei3 n an2
-易相册  ii i4 x iang1|x iang4 c e4
+易相册 null
 跨境理财  k ua4 j ing4 l i3 c ai2
 格雷茅斯  g e2 l ei2 m ao2 s iy1
 公债风潮  g ong1 zh ai4 f eng1 ch ao2
@@ -10956,13 +11105,13 @@
 交易员  j iao1 ii i4 vv van2
 锦城  j in3 ch eng2
 土库曼  t u3 k u4 m an4
-不怎么好  b u2|b u4 z en3 m e5 h ao3|h ao4
+不怎么好 null
 非泰籍  f ei1 t ai4 j i2
 风险金  f eng1 x ian3 j in1
 消费交易  x iao1 f ei4 j iao1 ii i4
 经理办  j ing1 l i3 b an4
 光迁  g uang1 q ian1
-大同路  d a4|d ai4 t ong2 l u4
+大同路  d a4 t ong2 l u4
 速汇金系统  s u4 h ui4 j in1 x i4 t ong3
 到期责任  d ao4 q i1 z e2 r en4
 币制改革  b i4 zh ix4 g ai3 g e2
@@ -10990,18 +11139,18 @@
 工程建设  g ong1 ch eng2 j ian4 sh e4
 华西街  h ua2 x i1 j ie1
 区县  q v1 x ian4
-突发事件  t u1 f a1|f a4 sh ix4 j ian4
+突发事件 null
 邀请文件  ii iao1 q ing3 uu un2 j ian4
-长安区韦曲  ch ang2 aa an1 q v1 uu ui2 q v1|q v3
+长安区韦曲 null
 第二个月  d i4 ee er4 g e4 vv ve4
 巴音郭楞  b a1 ii in1 g uo1 l eng2
 崇明县  ch ong2 m ing2 x ian4
 酒仙  j iu3 x ian1
-不花钱  b u2|b u4 h ua1 q ian2
+不花钱 null
 银市  ii in2 sh ix4
 上饶市  sh ang4 r ao2 sh ix4
 国际化人才  g uo2 j i4 h ua4 r en2 c ai2
-重新设置  ch ong2 x in1 sh e4 zh ix4|sh e4 zh ix5
+重新设置 null
 申购手续费  sh en1 g ou4 sh ou3 x v4 f ei4
 真笨  zh en1 b en4
 封闭式  f eng1 b i4 sh ix4
@@ -11021,6 +11170,7 @@
 构建  g ou4 j ian4
 公话  g ong1 h ua4
 会计通  k uai4 j i5 t ong1
+教育惠 null
 扣手续费  k ou4 sh ou3 x v4 f ei4
 首付  sh ou3 f u4
 多伦多  d uo1 l un2 d uo1
@@ -11039,13 +11189,13 @@
 基础交易  j i1 ch u3 j iao1 ii i4
 中国国内  zh ong1 g uo2 g uo2 n ei4
 网银常见问题  uu uang3 ii in2 ch ang2 j ian4 uu un4 t i2
-会否  h ui4|k uai4 f ou3|p i3
+会否 null
 全部货款  q van2 b u4 h uo4 k uan3
 母婴  m u3 ii ing1
-旺铺通  uu uang4 p u1|p u4 t ong1
+旺铺通 null
 先决条件  x ian1 j ve2 t iao2 j ian4
-相联  x iang1|x iang4 l ian2
-亲情  q in1|q ing4 q ing2
+相联 null
+亲情 null
 此机  c iy3 j i1
 碎琐事  s ui4 s uo3 sh ix4
 第一个月  d i4 ii i2 g e4 vv ve4
@@ -11059,16 +11209,16 @@
 入账  r u4 zh ang4
 森林公园  s en1 l in2 g ong1 vv van2
 购物网站  g ou4 uu u4 uu uang3 zh an4
-披露事项  p i1 l ou4|p i1 l u4 sh ix4 x iang4
+披露事项 null
 此条  c iy3 t iao2
 代西拉德岛  d ai4 x i1 l a1 d e2 d ao3
-大同道  d a4|d ai4 t ong2 d ao4
+大同道  d a4 t ong2 d ao4
 电子式  d ian4 z iy3 sh ix4
 嘉源路  j ia1 vv van2 l u4
 新绛县  x in1 j iang4 x ian4
 锋尚  f eng1 sh ang4
 劳动保护用品  l ao2 d ong4 b ao3 h u4 ii iong4 p in3
-商铺  sh ang1 p u1|p u4
+商铺 null
 日金  r iz4 j in1
 固安县  g u4 aa an1 x ian4
 水电煤气  sh ui3 d ian4 m ei2 q i4
@@ -11095,8 +11245,8 @@
 手机游  sh ou3 j i1 ii iu2
 消息通  x iao1 x i5 t ong1
 字头  z iy4 t ou2
-麦当劳  m ai4 d ang1|d ang4 l ao2
-结账  j ie1|j ie2 zh ang4
+麦当劳 null
+结账 null
 本加尔丹  b en3 j ia1 ee er3 d an1
 查号  ch a2 h ao4
 收入范围  sh ou1 r u4 f an4 uu ui2
@@ -11106,8 +11256,8 @@
 直营店  zh ix2 ii ing2 d ian4
 方静  f ang1 j ing4
 苏老师  s u1 l ao3 sh ix1
-挥杆  h ui1 g an1|g an3
-几级  j i1|j i3 j i2
+挥杆 null
+几级 null
 标准版白金卡  b iao1 zh un3 b an3 b ai2 j in1 k a3
 登进  d eng1 j in4
 意外情况  ii i4 uu uai4 q ing2 k uang4
@@ -11126,7 +11276,7 @@
 融资难题  r ong2 z iy1 n an2 t i2
 随州市  s ui2 zh ou1 sh ix4
 包季  b ao1 j i4
-南兴  n an2 x ing1|x ing4
+南兴 null
 十一点  sh ix2 ii i4 d ian3
 仙岩  x ian1 ii ian2
 武林  uu u3 l in2
@@ -11135,7 +11285,7 @@
 小丸子  x iao3 uu uan2 z iy5
 中国梦  zh ong1 g uo2 m eng4
 沽源县  g u1 vv van2 x ian4
-劳教  l ao2 j iao1|j iao4
+劳教 null
 工农路  g ong1 n ong2 l u4
 栏位  l an2 uu ui4
 场外  ch ang3 uu uai4
@@ -11157,7 +11307,7 @@
 南京政府  n an2 j ing1 zh eng4 f u3
 如何回事  r u2 h e2 h ui2 sh ix4
 民生路  m in2 sh eng1 l u4
-苏州翟  s u1 zh ou1 d i2|zh ai2
+苏州翟 null
 送花热线  s ong4 h ua1 r e4 x ian4
 活期账户  h uo2 q i1 zh ang4 h u4
 移动网  ii i2 d ong4 uu uang3
@@ -11201,7 +11351,7 @@
 印件  ii in4 j ian4
 仓巷  c ang1 x iang4
 查得到  ch a2 d e2 d ao4
-舍布鲁克  sh e3|sh e4 b u4 l u3 k e4
+舍布鲁克 null
 电话粥  d ian4 h ua4 zh ou1
 龙羊峡  l ong2 ii iang2 x ia2
 到期日  d ao4 q i1 r iz4
@@ -11214,7 +11364,7 @@
 畅游型  ch ang4 ii iu2 x ing2
 索洛图恩  s uo3 l uo4 t u2 ee en1
 星语  x ing1 vv v3
-不太清楚  b u2|b u4 t ai4 q ing1 ch u3
+不太清楚 null
 驿城区  ii i4 ch eng2 q v1
 老爸必胜  l ao3 b a4 b i4 sh eng4
 动感地带  d ong4 g an3 d i4 d ai4
@@ -11232,7 +11382,7 @@
 进口贸易型  j in4 k ou3 m ao4 ii i4 x ing2
 余万  vv v2 uu uan4
 产业集群  ch an3 ii ie4 j i2 q vn2
-斗鱼  d ou3|d ou4 vv v2
+斗鱼 null
 购入  g ou4 r u4
 加档  j ia1 d ang4
 普通版  p u3 t ong1 b an3
@@ -11246,7 +11396,7 @@
 长城银联  ch ang2 ch eng2 ii in2 l ian2
 医达通  ii i1 d a2 t ong1
 年租  n ian2 z u1
-转话  zh uan3|zh uan4 h ua4
+转话 null
 珀斯  p o4 s iy1
 最热  z ui4 r e4
 获益  h uo4 ii i4
@@ -11254,12 +11404,14 @@
 物价局  uu u4 j ia4 j v2
 奖项  j iang3 x iang4
 小管家  x iao3 g uan3 j ia1
-燕鸽湖  ii ian1|ii ian4 g e1 h u2
+蜀都 null
+燕鸽湖 null
 用户密码  ii iong4 h u4 m i4 m a3
 非实名制  f ei1 sh ix2 m ing2 zh ix4
 这些地区  zh e4 x ie1 d i4 q v1
 奖活动  j iang3 h uo2 d ong4
 玩游戏  uu uan2 ii iu2 x i4
+兴华道 null
 吴月娘  uu u2 vv ve4 n iang2
 受益人  sh ou4 ii i4 r en2
 这些企业  zh e4 x ie1 q i3 ii ie4
@@ -11294,7 +11446,7 @@
 青青  q ing1 q ing1
 日报社  r iz4 b ao4 sh e4
 北社区  b ei3 sh e4 q v1
-红钻  h ong2 z uan1|z uan4
+红钻 null
 东瓯  d ong1 oo ou1
 余额查询  vv v2 ee e2 ch a2 x vn2
 用途材料  ii iong4 t u2 c ai2 l iao4
@@ -11316,12 +11468,14 @@
 步步高升  b u4 b u4 g ao1 sh eng1
 破局  p o4 j v2
 实名制  sh ix2 m ing2 zh ix4
-旧扎戈拉  j iu4 z a1|zh a1|zh a2 g e1 l a1
+阿甘正传 null
+旧扎戈拉 null
 大陆地区  d a4 l u4 d i4 q v1
 套餐  t ao4 c an1
 天翼导航  t ian1 ii i4 d ao3 h ang2
 销往  x iao1 uu uang3
 服务规定  f u2 uu u4 g ui1 d ing4
+民和 null
 本地通  b en3 d i4 t ong1
 张新  zh ang1 x in1
 半年包  b an4 n ian2 b ao1
@@ -11331,22 +11485,22 @@
 板房  b an3 f ang2
 无年费  uu u2 n ian2 f ei4
 川菜馆  ch uan1 c ai4 g uan3
-铁杆  t ie3 g an1|g an3
+铁杆 null
 汇东  h ui4 d ong1
 丽阳街  l i4 ii iang2 j ie1
-不眠  b u2|b u4 m ian2
+不眠 null
 市区版  sh ix4 q v1 b an3
 季节不会变  j i4 j ie2 b u2 h ui4 b ian4
 安义县  aa an1 ii i4 x ian4
 尖草坪  j ian1 c ao3 p ing2
-那曲  n a4 q v1|q v3
+那曲 null
 委托书  uu ui3 t uo1 sh u1
 汇丰  h ui4 f eng1
 娄葑  l ou2 f eng1
 进网  j in4 uu uang3
 南医  n an2 ii i1
 财务状况  c ai2 uu u4 zh uang4 k uang4
-库看  k u4 k an1|k an4
+库看 null
 经营机构  j ing1 ii ing2 j i1 g ou4
 面包超人  m ian4 b ao1 ch ao1 r en2
 换成  h uan4 ch eng2
@@ -11358,7 +11512,7 @@
 伯利兹城  b o2 l i4 z iy1 ch eng2
 科技大学  k e1 j i4 d a4 x ve2
 古杰兰瓦拉  g u3 j ie2 l an2 uu ua3 l a1
-结转  j ie1|j ie2 zh uan3|zh uan4
+结转 null
 那点事  n a4 d ian3 sh ix4
 温州一家人  uu un1 zh ou1 ii i1 j ia1 r en2
 文龙  uu un2 l ong2
@@ -11370,8 +11524,9 @@
 山茶花  sh an1 ch a2 h ua1
 在线客服  z ai4 x ian4 k e4 f u2
 朱雀森林公园  zh u1 q ve4 s en1 l in2 g ong1 vv van2
-不顶用  b u2|b u4 d ing3 ii iong4
+不顶用 null
 规定比例  g ui1 d ing4 b i3 l i4
+南和县  n an2 h e2 x ian4
 互打通  h u4 d a3 t ong1
 抢票  q iang3 p iao4
 资信  z iy1 x in4
@@ -11389,7 +11544,7 @@
 新高  x in1 g ao1
 体育路  t i3 vv v4 l u4
 通讯费  t ong1 x vn4 f ei4
-转账  zh uan3|zh uan4 zh ang4
+转账 null
 汇交  h ui4 j iao1
 国投  g uo2 t ou2
 南二路  n an2 ee er4 l u4
@@ -11412,7 +11567,7 @@
 亚历克斯湾  ii ia4 l i4 k e4 s iy1 uu uan1
 滚续  g un3 x v4
 保障惠  b ao3 zh ang4 h ui4
-汇美舍  h ui4 m ei3 sh e3|sh e4
+汇美舍 null
 老歌  l ao3 g e1
 印象西湖  ii in4 x iang4 x i1 h u2
 临猗  l in2 ii i1
@@ -11430,12 +11585,13 @@
 汉莎航空  h an4 sh a1 h ang2 k ong1
 品牌内涵  p in3 p ai2 n ei4 h an2
 波多黎各  b o1 d uo1 l i2 g e4
+弗赖堡 null
 圣路易斯  sh eng4 l u4 ii i4 s iy1
 资产安全性  z iy1 ch an3 aa an1 q van2 x ing4
 轮台县  l un2 t ai2 x ian4
-格尔森基兴  g e2 ee er3 s en1 j i1 x ing1|x ing4
+格尔森基兴 null
 汇价  h ui4 j ia4
-真经  zh en1 j ing1|j ing4
+真经 null
 莱阳市  l ai2 ii iang2 sh ix4
 物权法  uu u4 q van2 f a3
 证网  zh eng4 uu uang3
@@ -11482,7 +11638,7 @@
 加一个  j ia1 ii i2 g e4
 拉塔基亚  l a1 t a3 j i1 ii ia4
 已订  ii i3 d ing4
-会议通  h ui4 ii i4|h ui4 ii i5 t ong1
+会议通 null
 国际电话  g uo2 j i4 d ian4 h ua4
 青果包  q ing1 g uo3 b ao1
 包年  b ao1 n ian2
@@ -11519,7 +11675,7 @@
 艺龙  ii i4 l ong2
 超高清  ch ao1 g ao1 q ing1
 乱扣费  l uan4 k ou4 f ei4
-几种卡  j i1|j i3 zh ong3|zh ong4 k a3|q ia3
+几种卡 null
 配号  p ei4 h ao4
 张杰  zh ang1 j ie2
 企业文  q i3 ii ie4 uu un2
@@ -11556,9 +11712,10 @@
 本机号码  b en3 j i1 h ao4 m a3
 招聘信息  zh ao1 p in4 x in4 x i1
 察隅县  ch a2 vv v2 x ian4
+杜塞尔道夫 null
 糗事  q iu3 sh ix4
 七里河  q i1 l i3 h e2
-迭哥伽西亚  d ie2 g e1 g a1|j ia1 x i1 ii ia4
+迭哥伽西亚 null
 付息  f u4 x i1
 汇率分析  h ui4 l v4 f en1 x i5
 杀毒  sh a1 d u2
@@ -11576,8 +11733,8 @@
 室友  sh ix4 ii iu3
 杨月  ii iang2 vv ve4
 宝石产地  b ao3 sh ix2 ch an3 d i4
-转存周期  zh uan3|zh uan4 c un2 zh ou1 q i1
-千正万确  q ian1 zh eng1|zh eng4 uu uan4 q ve4
+转存周期 null
+千正万确 null
 通话费  t ong1 h ua4 f ei4
 信息资源优势  x in4 x i1 z iy1 vv van2 ii iu1 sh ix4
 张某  zh ang1 m ou3
@@ -11585,7 +11742,7 @@
 马克杯  m a3 k e4 b ei1
 钱款  q ian2 k uan3
 客户告知书  k e4 h u4 g ao4 zh ix1 sh u1
-车载  ch e1 z ai3|z ai4
+车载 null
 杜梦  d u4 m eng4
 精准  j ing1 zh un3
 呼出限制  h u1 ch u1 x ian4 zh ix4
@@ -11600,11 +11757,11 @@
 安庆市  aa an1 q ing4 sh ix4
 常营  ch ang2 ii ing2
 集源路  j i2 vv van2 l u4
-首发  sh ou3 f a1|f a4
+首发 null
 月资费  vv ve4 z iy1 f ei4
 贝斯柯德  b ei4 s iy1 k e1 d e2
 银检通  ii in2 j ian3 t ong1
-长办  ch ang2|zh ang3 b an4
+长办 null
 金钟路  j in1 zh ong1 l u4
 红色警戒  h ong2 s e4 j ing3 j ie4
 漏话服务  l ou4 h ua4 f u2 uu u4
@@ -11613,7 +11770,7 @@
 密克罗尼西亚  m i4 k e4 l uo2 n i2 x i1 ii ia4
 未满  uu ui4 m an3
 准确性  zh un3 q ve4 x ing4
-酒吧  j iu3 b a1|b a5
+酒吧 null
 评聘  p ing2 p in4
 十堰  sh ix2 ii ian4
 赣东  g an4 d ong1
@@ -11628,29 +11785,30 @@
 杨林  ii iang2 l in2
 销户  x iao1 h u4
 有效性  ii iu3 x iao4 x ing4
-倒带人生  d ao3|d ao4 d ai4 r en2 sh eng1
+倒带人生 null
 省内包  sh eng3 n ei4 b ao1
 通河县  t ong1 h e2 x ian4
 无需  uu u2 x v1
 宝鸡市  b ao3 j i1 sh ix4
 隆子县  l ong2 z iy3 x ian4
 收话费  sh ou1 h ua4 f ei4
-不管用  b u2|b u4 g uan3 ii iong4
+不管用  b u4 g uan3 ii iong4
 固定台  g u4 d ing4 t ai2
 台湾狗  t ai2 uu uan1 g ou3
 预留  vv v4 l iu2
-不理想  b u2|b u4 l i2 x iang3
+不理想  b u4 l i3 x iang3
 下称  x ia4 ch eng1
 巴利亚多利德  b a1 l i4 ii ia4 d uo1 l i4 d e2
+光纤猫 null
 死缠烂打  s iy3 ch an2 l an4 d a3
 税政策  sh ui4 zh eng4 c e4
-念亲  n ian4 q in1|q ing4
+念亲 null
 配送费  p ei4 s ong4 f ei4
 台湾独  t ai2 uu uan1 d u2
 下城区  x ia4 ch eng2 q v1
 下移  x ia4 ii i2
 院线通  vv van4 x ian4 t ong1
-打不开  d a3 b u2|b u4 k ai1
+打不开 null
 学生账户  x ve2 sh eng1 zh ang4 h u4
 五楼  uu u3 l ou2
 弱智  r uo4 zh ix4
@@ -11674,7 +11832,7 @@
 魁北克城  k ui2 b ei3 k e4 ch eng2
 江东  j iang1 d ong1
 维尔京群岛  uu ui2 ee er3 j ing1 q vn2 d ao3
-转转  zh uan3|zh uan4 zh uan3|zh uan4
+转转 null
 璧山县  b i4 sh an1 x ian4
 张丹峰  zh ang1 d an1 f eng1
 付月租  f u4 vv ve4 z u1
@@ -11700,7 +11858,7 @@
 洛斯安第斯  l uo4 s iy1 aa an1 d i4 s iy1
 诺维萨德  n uo4 uu ui2 s a4 d e2
 江户川乱步  j iang1 h u4 ch uan1 l uan4 b u4
-不稳  b u2|b u4 uu un3
+不稳 null
 易到用车  ii i4 d ao4 ii iong4 ch e1
 浦东机场  p u3 d ong1 j i1 ch ang3
 丰南区  f eng1 n an2 q v1
@@ -11728,12 +11886,12 @@
 何勇  h e2 ii iong3
 新农合  x in1 n ong2 h e2
 无音  uu u2 ii in1
-惠教育  h ui4 j iao4 vv v4|j iao4 vv v5
+惠教育 null
 王者荣耀  uu uang2 zh e3 r ong2 ii iao4
 水口  sh ui3 k ou3
 重新办理  ch ong2 x in1 b an4 l i3
 普通开放日  p u3 t ong1 k ai1 f ang4 r iz4
-毕节地  b i4 j ie2 d e5|d i4
+毕节地 null
 电力猫  d ian4 l i4 m ao1
 牛肉面  n iu2 r ou4 m ian4
 电信宽带  d ian4 x in4 k uan1 d ai4
@@ -11742,7 +11900,7 @@
 份儿钱  f en4 ee er5 q ian2
 宝岛债  b ao2 d ao3 zh ai4
 图文  t u2 uu un2
-旺铺  uu uang4 p u1|p u4
+旺铺 null
 马提尼克岛  m a3 t i2 n i2 k e4 d ao3
 硕士学位  sh uo4 sh ix4 x ve2 uu ui4
 倡导者  ch ang4 d ao3 zh e3
@@ -11764,12 +11922,12 @@
 面馆  m ian4 g uan3
 佟凯  t ong2 k ai3
 定向套餐  d ing4 x iang4 t ao4 c an1
-更省  g eng1|g eng4 sh eng3|x ing3
+更省 null
 打包贷款  d a3 b ao1 d ai4 k uan3
 布伦瑞克  b u4 l un2 r ui4 k e4
 法律意识  f a3 l v4 ii i4 sh ix5
 证券市场  zh eng4 q van4 sh ix4 ch ang3
-不确定  b u2|b u4 q ve4 d ing4
+不确定 null
 具体产品  j v4 t i3 ch an2 p in3
 克隆  k e4 l ong2
 身份证件  sh en1 f en4 zh eng4 j ian4
@@ -11793,7 +11951,7 @@
 怀仁  h uai2 r en2
 维也纳新城  uu ui2 ii ie3 n a4 x in1 ch eng2
 十四纬路  sh ix2 s iy4 uu ui3 l u4
-不等  b u2|b u4 d eng3
+不等 null
 一个开放日  ii i2 g e4 k ai1 f ang4 r iz4
 寄到  j i4 d ao4
 三江四海  s an1 j iang1 s iy4 h ai3
@@ -11809,7 +11967,7 @@
 艾莫伊登  aa ai4 m o4 ii i1 d eng1
 被打  b ei4 d a3
 警官证  j ing3 g uan1 zh eng4
-大巴扎  d a4|d ai4 b a1 z a1|zh a1|zh a2
+大巴扎 null
 推动力  t ui1 d ong4 l i4
 银政  ii in2 zh eng4
 驾讯通  j ia4 x vn4 t ong1
@@ -11818,6 +11976,7 @@
 土耳其航空  t u2 ee er3 q i2 h ang2 k ong1
 产品说明书  ch an2 p in3 sh uo1 m ing2 sh u1
 实时交易  sh ix2 sh ix2 j iao1 ii i4
+望都县  uu uang4 d u1 x ian4
 签章  q ian1 zh ang1
 浙江台  zh e4 j iang1 t ai2
 电子支付  d ian4 z iy3 zh ix1 f u4
@@ -11829,8 +11988,8 @@
 出自  ch u1 z iy4
 梦月精灵  m eng4 vv ve4 j ing1 l ing2
 退网  t ui4 uu uang3
-命丧九泉  m ing4 s ang1|s ang4 j iu3 q van2
-汪汪吧  uu uang1 uu uang1 b a1|b a5
+命丧九泉 null
+汪汪吧 null
 金融功能  j in1 r ong2 g ong1 n eng2
 文峰路  uu un2 f eng1 l u4
 注册流程  zh u4 c e4 l iu2 ch eng2
@@ -11855,7 +12014,7 @@
 份儿钱型  f en4 ee er5 q ian2 x ing2
 唯一银行  uu ui2 ii i1 ii in2 h ang2
 北京西路  b ei3 j ing1 x i1 l u4
-无处不在  uu u2 ch u3|ch u4 b u2 z ai4
+无处不在 null
 木樨园  m u4 x i1 vv van2
 长城环球通  ch ang2 ch eng2 h uan2 q iu2 t ong1
 代我  d ai4 uu uo3
@@ -11879,6 +12038,7 @@
 银行个人  ii in2 h ang2 g e4 r en2
 车小秘  ch e1 x iao3 m i4
 赛况  s ai4 k uang4
+瑟堡 null
 赵云  zh ao4 vv vn2
 侦测电话  zh en1 c e4 d ian4 h ua4
 甘井子  g an1 j ing3 z iy3
@@ -11898,7 +12058,7 @@
 汉化  h an4 h ua4
 包打  b ao1 d a3
 护照号码  h u4 zh ao4 h ao4 m a3
-金档案  j in1 d ang3 aa an4|d ang4 aa an4
+金档案 null
 代扣  d ai4 k ou4
 威尼斯  uu ui1 n i2 s iy1
 汇出业务  h ui4 ch u1 ii ie4 uu u4
@@ -11918,13 +12078,13 @@
 区别基金  q v1 b ie2 j i1 j in1
 摄氏温度  sh e4 sh ix4 uu un1 d u4
 翼炫  ii i4 x van4
-汤丽柏琦  t ang1 l i4 b ai3|b o2 q i2
+汤丽柏琦 null
 在手  z ai4 sh ou3
 服务条款  f u2 uu u4 t iao2 k uan3
 回款  h ui2 k uan3
 贵金属代理  g ui4 j in1 sh u3 d ai4 l i3
 伊春市  ii i1 ch un1 sh ix4
-创维  ch uang1|ch uang4 uu ui2
+创维 null
 东站  d ong1 zh an4
 融通资金  r ong2 t ong1 z iy1 j in1
 科摩罗  k e1 m o2 l uo2
@@ -11945,8 +12105,8 @@
 天下第一  t ian1 x ia4 d i4 ii i1
 定期账户  d ing4 q i1 zh ang4 h u4
 廖仲恺  l iao4 zh ong4 k ai3
-起任  q i3 r en2|r en4
-不参与  b u2|b u4 c an1 vv v4
+起任 null
+不参与 null
 花非花  h ua1 f ei1 h ua1
 延寿县  ii ian2 sh ou4 x ian4
 浩特市  h ao4 t e4 sh ix4
@@ -11967,17 +12127,18 @@
 儿童手机  ee er2 t ong2 sh ou3 j i1
 劳务合作型  l ao2 uu u4 h e2 z uo4 x ing2
 英才网  ii ing1 c ai2 uu uang3
-不执行  b u2|b u4 zh ix2 x ing2
-更高收益  g eng1|g eng4 g ao1 sh ou1 ii i4
+不执行 null
+更高收益 null
 社会保障  sh e4 h ui4 b ao3 zh ang4
 罗星路  l uo2 x ing1 l u4
 非公开  f ei1 g ong1 k ai1
-属不属于  sh u3 b u2|b u4 sh u3 vv v2
+属不属于 null
 半年多  b an4 n ian2 d uo1
 初始化  ch u1 sh ix3 h ua4
 巴拉腊特  b a1 l a1 l a4 t e4
 对冲基金  d ui4 ch ong1 j i1 j in1
 较近  j iao4 j in4
+我行为  uu uo3 x ing2 uu ui2
 图标  t u2 b iao1
 黑道风云  h ei1 d ao4 f eng1 vv vn2
 人智能  r en2 zh ix4 n eng2
@@ -12005,11 +12166,12 @@
 销易  x iao1 ii i4
 网页设  uu uang3 ii ie4 sh e4
 留学展  l iu2 x ve2 zh an3
-片马  p ian1|p ian4 m a3
+片马 null
 水晶头  sh ui3 j ing1 t ou2
 团结湖  t uan2 j ie2 h u2
 俄克拉何马城  ee e2 k e4 l a1 h e2 m a3 ch eng2
 蛟池街  j iao1 ch ix2 j ie1
+和田市 null
 三十年河东  s an1 sh ix2 n ian2 h e2 d ong1
 休市  x iu1 sh ix4
 推广情况  t ui1 g uang3 q ing2 k uang4
@@ -12025,7 +12187,8 @@
 哈尔科夫  h a1 ee er3 k e1 f u1
 张江  zh ang1 j iang1
 商务区  sh ang1 uu u4 q v1
-无下载  uu u2 x ia4 z ai3|z ai4
+无下载 null
+都灵裹尸布 null
 利率风险  l i4 l v4 f eng1 x ian3
 大众点评  d a4 zh ong4 d ian3 p ing2
 酷可  k u4 k e3
@@ -12039,7 +12202,7 @@
 镇川  zh en4 ch uan1
 悉尼总部  x i1 n i2 z ong3 b u4
 联机  l ian2 j i1
-不容忽视  b u2|b u4 r ong2 h u1 sh ix4
+不容忽视 null
 营业面积  ii ing2 ii ie4 m ian4 j i5
 服务能力  f u2 uu u4 n eng2 l i4
 所订  s uo3 d ing4
@@ -12047,7 +12210,7 @@
 劳务人员  l ao2 uu u4 r en2 vv van2
 桐乡市  t ong2 x iang1 sh ix4
 城市版  ch eng2 sh ix4 b an3
-天耗电几度  t ian1 h ao4 d ian4 j i1|j i3 d u4|d uo2
+天耗电几度 null
 洪南路  h ong2 n an2 l u4
 美罗  m ei3 l uo2
 动漫  d ong4 m an4
@@ -12114,13 +12277,13 @@
 明细清单  m ing2 x i4 q ing1 d an1
 经营决策  j ing1 ii ing2 j ve2 c e4
 贴士  t ie1 sh ix4
-当期  d ang1|d ang4 q i1
+当期 null
 镇府  zh en4 f u3
 回流  h ui2 l iu2
 雷伊斯维克  l ei2 ii i1 s iy1 uu ui2 k e4
 公司融资  g ong1 s iy1 r ong2 z iy1
 全国包  q van2 g uo2 b ao1
-发行人  f a1|f a4 x ing2 r en2
+发行人  f a1 x ing2 r en2
 行政法规  x ing2 zh eng4 f a3 g ui1
 王瑞  uu uang2 r ui4
 镇康  zh en4 k ang1
@@ -12133,17 +12296,17 @@
 金融顾问  j in1 r ong2 g u4 uu un4
 活动期  h uo2 d ong4 q i1
 无限制  uu u2 x ian4 zh ix4
-原创  vv van2 ch uang1|ch uang4
+原创 null
 信用卡部分  x in4 ii iong4 k a3 b u4 f en5
 老爸  l ao3 b a4
 音话  ii in1 h ua4
-不认识  b u2|b u4 r en4 sh ix5
-不少于  b u2|b u4 sh ao3 vv v2
+不认识 null
+不少于  b u4 sh ao3 vv v2
 科罗萨尔  k e1 l uo2 s a4 ee er3
 张海  zh ang1 h ai3
 付套餐资费  f u4 t ao4 c an1 z iy1 f ei4
 东方明珠  d ong1 f ang1 m ing2 zh u1
-不给  b u2|b u4 g ei3|j i3
+不给 null
 赵光  zh ao4 g uang1
 回老家  h ui2 l ao3 j ia1
 老版  l ao3 b an3
@@ -12157,7 +12320,7 @@
 睡前故事  sh ui4 q ian2 g u4 sh ix5
 超低  ch ao1 d i1
 原材料需求量  vv van2 c ai2 l iao4 x v1 q iu2 l iang4
-月结单  vv ve4 j ie1|j ie2 ch an2|d an1|sh an4
+月结单 null
 收取包月功能费  sh ou1 q v3 b ao1 vv ve4 g ong1 n eng2 f ei4
 贝尔  b ei4 ee er3
 柳州市  l iu3 zh ou1 sh ix4
@@ -12167,7 +12330,7 @@
 上网  sh ang4 uu uang3
 克东县  k e4 d ong1 x ian4
 电讯费  d ian4 x vn4 f ei4
-库经  k u4 j ing1|j ing4
+库经 null
 慈溪市  c iy2 x i1 sh ix4
 集安市  j i2 aa an1 sh ix4
 休闲类  x iu1 x ian2 l ei4
@@ -12180,7 +12343,7 @@
 搬入  b an1 r u4
 被锁定  b ei4 s uo3 d ing4
 新桥镇  x in1 q iao2 zh en4
-国际教育展  g uo2 j i4 j iao4 vv v4|j iao4 vv v5 zh an3
+国际教育展 null
 输进  sh u1 j in4
 代收  d ai4 sh ou1
 天津西  t ian1 j in1 x i1
@@ -12193,10 +12356,10 @@
 很慢  h en3 m an4
 畅打包  ch ang4 d a3 b ao1
 黄笑话  h uang2 x iao4 h ua5
-转钱  zh uan3|zh uan4 q ian2
+转钱 null
 莎白雅顿  sh a1 b ai2 ii ia3 d un4
 三里屯  s an1 l i3 t un2
-热带雨林气候  r e4 d ai4 vv v3 l in2 q i4 h ou4|q i4 h ou5
+热带雨林气候 null
 美股  m ei3 g u3
 两类  l iang3 l ei4
 绒面  r ong2 m ian4
@@ -12230,7 +12393,8 @@
 亲朋好友  q in1 p eng2 h ao2 ii iu3
 越低  vv ve4 d i1
 最高保额  z ui4 g ao1 b ao3 ee e2
-自助设备  z iy4 zh u4 sh e4 b ei4|sh e4 b ei5
+自助设备 null
+家堡 null
 州镇  zh ou1 zh en4
 瓦尔帕莱索  uu ua3 ee er3 p a4 l ai2 s uo3
 松江区  s ong1 j iang1 q v1
@@ -12253,7 +12417,7 @@
 性交  x ing4 j iao1
 走势  z ou3 sh ix4
 有礼  ii iu3 l i3
-创富之路  ch uang1|ch uang4 f u4 zh ix1 l u4
+创富之路 null
 湘雅  x iang1 ii ia3
 尖沙咀东  j ian1 sh a1 j v3 d ong1
 学成  x ve2 ch eng2
@@ -12279,7 +12443,7 @@
 果果  g uo3 g uo3
 哥打巴鲁  g e1 d a3 b a1 l u3
 宜家  ii i2 j ia1
-旺铺助手  uu uang4 p u1|p u4 zh u4 sh ou3
+旺铺助手 null
 专网  zh uan1 uu uang3
 包时  b ao1 sh ix2
 外币代兑机构  uu uai4 b i4 d ai4 d ui4 j i1 g ou4
@@ -12293,6 +12457,7 @@
 匈牙利分行  x iong1 ii ia2 l i4 f en1 h ang2
 海神号  h ai3 sh en2 h ao4
 珠宝店  zh u1 b ao3 d ian4
+梅塞德斯 null
 结构化  j ie2 g ou4 h ua4
 小三  x iao3 s an1
 车险  ch e1 x ian3
@@ -12310,12 +12475,12 @@
 管理业  g uan2 l i3 ii ie4
 验证机制  ii ian4 zh eng4 j i1 zh ix4
 巴黎人民币  b a1 l i2 r en2 m in2 b i4
-不一致  b u2|b u4 ii i2 zh ix4
+不一致 null
 京津  j ing1 j in1
 南山  n an2 sh an1
 彩显  c ai3 x ian3
 带走  d ai4 z ou3
-乐趣吧  l e4 q v4 b a1|b a5
+乐趣吧 null
 幽默录像  ii iu1 m o4 l u4 x iang4
 语言环境  vv v3 ii ian2 h uan2 j ing4
 银行服务  ii in2 h ang2 f u2 uu u4
@@ -12324,15 +12489,15 @@
 精英人士  j ing1 ii ing1 r en2 sh ix4
 部标  b u4 b iao1
 安广  aa an1 g uang3
-亲情包  q in1|q ing4 q ing2 b ao1
+亲情包 null
 炫佳  x van4 j ia1
 锋达通  f eng1 d a2 t ong1
 马上又  m a3 sh ang4 ii iu4
 南岗  n an2 g ang3
-小乐  x iao3 l e4|vv ve4
+小乐 null
 华语服务  h ua2 vv v3 f u2 uu u4
 留学保险费  l iu2 x ve2 b ao2 x ian3 f ei4
-美舍  m ei3 sh e3|sh e4
+美舍 null
 决策机构  j ve2 c e4 j i1 g ou4
 蒋村  j iang3 c un1
 以太网  ii i3 t ai4 uu uang3
@@ -12343,8 +12508,8 @@
 提示音  t i2 sh ix4 ii in1
 代表人  d ai4 b iao3 r en2
 嗨购  h ai1 g ou4
-参保  c an1|sh en1 b ao3
-那几项  n a4 j i1|j i3 x iang4
+参保 null
+那几项 null
 平安银行  p ing2 aa an1 ii in2 h ang2
 清城区  q ing1 ch eng2 q v1
 小二  x iao3 ee er4
@@ -12365,7 +12530,7 @@
 理查  l i3 ch a2
 人气  r en2 q i4
 赵南  zh ao4 n an2
-控制职责  k ong4 zh ix4|k ong4 zh ix5 zh ix2 z e2
+控制职责 null
 对公  d ui4 g ong1
 网视  uu uang3 sh ix4
 航空公司  h ang2 k ong1 g ong1 s iy1
@@ -12373,6 +12538,7 @@
 微店  uu ui1 d ian4
 产品服务  ch an2 p in3 f u2 uu u4
 国际组织  g uo2 j i4 z u3 zh ix1
+阿斯特拉汗 null
 方方面面  f ang1 f ang1 m ian4 m ian4
 利默里克  l i4 m o4 l i3 k e4
 公开信息  g ong1 k ai1 x in4 x i1
@@ -12382,7 +12548,7 @@
 翻番  f an1 f an1
 人工服务电话  r en2 g ong1 f u2 uu u4 d ian4 h ua4
 保护问题  b ao3 h u4 uu un4 t i2
-不参加  b u2|b u4 c an1 j ia1
+不参加 null
 彰显  zh ang1 x ian3
 管理办法  g uan2 l i3 b an4 f a3
 科科斯群岛  k e1 k e1 s iy1 q vn2 d ao3
@@ -12403,6 +12569,7 @@
 核心成员国  h e2 x in1 ch eng2 vv van2 g uo2
 字数  z iy4 sh u4
 亚洲货币  ii ia4 zh ou1 h uo4 b i4
+汉堡 null
 伊拉  ii i1 l a1
 证券报  zh eng4 q van4 b ao4
 布琼布拉  b u4 q iong2 b u4 l a1
@@ -12428,12 +12595,13 @@
 普通级  p u3 t ong1 j i2
 西北领地  x i1 b ei3 l ing3 d i4
 子公司业务  z iy3 g ong1 s iy1 ii ie4 uu u4
+郎塞斯顿 null
 荷兰企业  h e2 l an2 q i3 ii ie4
 首尔  sh ou3 ee er3
 飞牛  f ei1 n iu2
 家娱  j ia1 vv v2
 旅行支票外币  l v3 x ing2 zh ix1 p iao4 uu uai4 b i4
-总不  z ong3 b u2|b u4
+总不 null
 汇增  h ui4 z eng1
 每期  m ei3 q i1
 下河北  x ia4 h e2 b ei3
@@ -12444,7 +12612,7 @@
 优慧  ii iu1 h ui4
 崇左市  ch ong2 z uo3 sh ix4
 协议书  x ie2 ii i4 sh u1
-发件  f a1|f a4 j ian4
+发件 null
 专营店  zh uan1 ii ing2 d ian4
 医疗器具  ii i1 l iao2 q i4 j v4
 网络支持  uu uang3 l uo4 zh ix1 ch ix2
@@ -12457,7 +12625,7 @@
 天蝎座  t ian1 x ie1 z uo4
 彭州市  p eng2 zh ou1 sh ix4
 关顾  g uan1 g u4
-任性卡  r en4 x ing4 k a3|q ia3
+任性卡 null
 琼海市  q iong2 h ai3 sh ix4
 手机助手  sh ou3 j i1 zh u4 sh ou3
 中国企业  zh ong1 g uo2 q i3 ii ie4
@@ -12474,8 +12642,9 @@
 首层  sh ou3 c eng2
 每条  m ei3 t iao2
 天上人  t ian1 sh ang4 r en2
-分支行网络  f en1|f en4 zh ix1 h ang2 uu uang3 l uo4
-玻璃杯  b o1 l i2|b o1 l i5 b ei1
+分支行网络 null
+爱丁堡 null
+玻璃杯 null
 法律法规  f a3 l v4 f a3 g ui1
 萨尔布吕肯  s a4 ee er3 b u4 l v3 k en3
 首山  sh ou3 sh an1
@@ -12486,16 +12655,16 @@
 米东区  m i3 d ong1 q v1
 伤害眼睛  sh ang1 h ai4 ii ian3 j ing5
 办事人  b an4 sh ix4 r en2
-绿钻  l v4 z uan1|z uan4
-运作方式  vv vn4 z uo1|z uo4 f ang1 sh ix4
+绿钻 null
+运作方式 null
 服务申请表  f u2 uu u4 sh en1 q ing3 b iao3
 去出  q v4 ch u1
 资费说明  z iy1 f ei4 sh uo1 m ing2
-不对劲  b u2|b u4 d ui4 j in4
+不对劲 null
 违规  uu ui2 g ui1
 财精通  c ai2 j ing1 t ong1
 飞狐  f ei1 h u2
-流程化运作  l iu2 ch eng2 h ua4 vv vn4 z uo1|z uo4
+流程化运作 null
 雷斯特  l ei2 s iy1 t e4
 德庄  d e2 zh uang1
 每一个  m ei3 ii i2 g e4
@@ -12504,7 +12673,7 @@
 备用金  b ei4 ii iong4 j in1
 马约特  m a3 vv ve1 t e4
 登德尔蒙德  d eng1 d e2 ee er3 m eng2 d e2
-不计费  b u2|b u4 j i4 f ei4
+不计费 null
 这个礼拜三  zh e4 g e5 l i3 b ai4 s an1
 鞍山市  aa an1 sh an1 sh ix4
 据此  j v4 c iy3
@@ -12534,9 +12703,9 @@
 计划产品  j i4 h ua4 ch an2 p in3
 流流顺  l iu2 l iu2 sh un4
 回龙观  h ui2 l ong2 g uan1
-无情人  uu u2 q ing2 r en2|q ing2 r en5
+无情人  uu u2 q ing2 r en2
 银汉  ii in2 h an4
-中华西路  zh ong1|zh ong4 h ua2 x i1 l u4
+中华西路  zh ong1 h ua2 x i1 l u4
 民生服务  m in2 sh eng1 f u2 uu u4
 末路皇妃  m o4 l u4 h uang2 f ei1
 优惠包  ii iu1 h ui4 b ao1
@@ -12545,6 +12714,7 @@
 拾圆券  sh ix2 vv van2 q van4
 产品结构调整  ch an2 p in3 j ie2 g ou4 t iao2 zh eng3
 内需  n ei4 x v1
+长途和漫游 null
 咖啡馆  k a1 f ei1 g uan3
 兆麟  zh ao4 l in2
 西侧  x i1 c e4
@@ -12557,8 +12727,9 @@
 主界面  zh u3 j ie4 m ian4
 沙漠死神  sh a1 m o4 s iy3 sh en2
 出国留学  ch u1 g uo2 l iu2 x ve2
+华山路  h ua4 sh an1 l u4
 美菱  m ei3 l ing2
-新设分  x in1 sh e4 f en1|f en4
+新设分 null
 企业部分  q i3 ii ie4 b u4 f en5
 土楼  t u3 l ou2
 印客  ii in4 k e4
@@ -12567,7 +12738,7 @@
 熊猫人  x iong2 m ao1 r en2
 定制账户  d ing4 zh ix4 zh ang4 h u4
 南汇大学城  n an2 h ui4 d a4 x ve2 ch eng2
-一个发件  ii i2 g e4 f a1|f a4 j ian4
+一个发件 null
 你妹  n i3 m ei4
 金融债券  j in1 r ong2 zh ai4 q van4
 果岭礼遇  g uo3 l ing3 l i3 vv v4
@@ -12592,11 +12763,11 @@
 烟草局  ii ian1 c ao3 j v2
 架构  j ia4 g ou4
 武电  uu u3 d ian4
-发债  f a1|f a4 zh ai4
+发债 null
 南开  n an2 k ai1
 起售  q i3 sh ou4
 持票  ch ix2 p iao4
-不可以  b u2|b u4 k e2 ii i3
+不可以  b u4 k e3 ii i3
 收功能费  sh ou1 g ong1 n eng2 f ei4
 核心价值观  h e2 x in1 j ia4 zh ix2 g uan1
 老白  l ao3 b ai2
@@ -12608,7 +12779,7 @@
 排查  p ai2 ch a2
 农贸市场  n ong2 m ao4 sh ix4 ch ang3
 网话  uu uang3 h ua4
-违约金  uu ui2 vv ve1|uu ui3 vv ve1 j in1
+违约金 null
 手输  sh ou3 sh u1
 信生活  x in4 sh eng1 h uo2
 银泰  ii in2 t ai4
@@ -12625,7 +12796,7 @@
 基佬  j i1 l ao3
 存有  c un2 ii iu3
 中文服务  zh ong1 uu un2 f u2 uu u4
-张燕  zh ang1 ii ian1|ii ian4
+张燕 null
 串线  ch uan4 x ian4
 下礼拜五  x ia4 l i3 b ai4 uu u3
 是否可以有  sh ix4 f ou3 k e2 ii i3 ii iu3
@@ -12639,6 +12810,7 @@
 翼眼  ii i4 ii ian3
 机盒  j i1 h e2
 国际国内  g uo2 j i4 g uo2 n ei4
+都昌县  d ou1 ch ang1 x ian4
 松溪  s ong1 x i1
 学子们  x ve2 z iy3 m en5
 存取款  c un2 q v3 k uan3
@@ -12673,7 +12845,7 @@
 存折账户  c un2 zh e2 zh ang4 h u4
 自行购买  z iy4 x ing2 g ou4 m ai3
 斯图尔特岛  s iy1 t u2 ee er3 t e4 d ao3
-心血管  x in1 x ie2 g uan3|x ve4 g uan3
+心血管 null
 官微  g uan1 uu ui1
 授权号  sh ou4 q van2 h ao4
 提速包  t i2 s u4 b ao1
@@ -12689,9 +12861,9 @@
 外币携带证  uu uai4 b i4 x ie2 d ai4 zh eng4
 布莱德福德  b u4 l ai2 d e2 f u2 d e2
 事业发展  sh ix4 ii ie4 f a1 zh an3
-不扣费  b u2|b u4 k ou4 f ei4
+不扣费 null
 小六  x iao3 l iu4
-亲情号  q in1|q ing4 q ing2 h ao4
+亲情号 null
 忻城  x in1 ch eng2
 扣费  k ou4 f ei4
 尚普兰  sh ang4 p u3 l an2
@@ -12715,10 +12887,10 @@
 澳门分行  aa ao4 m en2 f en1 h ang2
 定期存款  d ing4 q i1 c un2 k uan3
 南宫苓  n an2 g ong1 l ing2
-呼叫转接  h u1 j iao4 zh uan3|zh uan4 j ie1
+呼叫转接 null
 环球汇款  h uan2 q iu2 h ui4 k uan3
 保贷通  b ao3 d ai4 t ong1
-当汇  d ang1|d ang4 h ui4
+当汇 null
 准实时  zh un3 sh ix2 sh ix2
 我靠  uu uo3 k ao4
 信息流  x in4 x i1 l iu2
@@ -12728,7 +12900,7 @@
 拱墅区  g ong3 sh u4 q v1
 松桂园  s ong1 g ui4 vv van2
 竟陵  j ing4 l ing2
-古仔  g u3 z ai3|z iy3
+古仔 null
 人民币本息  r en2 m in2 b i4 b en3 x i1
 打车  d a3 ch e1
 往月  uu uang3 vv ve4
@@ -12762,7 +12934,7 @@
 河东  h e2 d ong1
 西关  x i1 g uan1
 植树节  zh ix2 sh u4 j ie2
-曲阳县  q v1|q v3 ii iang2 x ian4
+曲阳县 null
 推普  t ui1 p u3
 公主坟  g ong1 zh u3 f en2
 购彩  g ou4 c ai3
@@ -12772,18 +12944,18 @@
 育才  vv v4 c ai2
 学期学费  x ve2 q i1 x ve2 f ei4
 免不免  m ian3 b u4 m ian3
-迁转  q ian1 zh uan3|zh uan4
-资金配置  z iy1 j in1 p ei4 zh ix4|p ei4 zh ix5
+迁转 null
+资金配置 null
 打进  d a3 j in4
 全球化  q van2 q iu2 h ua4
-结构图  j ie1|j ie2 g ou4 t u2
+结构图  j ie2 g ou4 t u2
 专线上网  zh uan1 x ian4 sh ang4 uu uang3
 毕节市  b i4 j ie2 sh ix4
 耗电  h ao4 d ian4
-相关联  x iang1|x iang4 g uan1 l ian2
+相关联  x iang1 g uan1 l ian2
 企业所得税  q i3 ii ie4 s uo3 d e2 sh ui4
 网购  uu uang3 g ou4
-短片  d uan3 p ian1|p ian4
+短片 null
 返费  f an3 f ei4
 贺州  h e4 zh ou1
 一卡通  ii i1 k a3 t ong1
@@ -12795,7 +12967,7 @@
 多伦多大学  d uo1 l un2 d uo1 d a4 x ve2
 杏花岭区  x ing4 h ua1 l ing3 q v1
 域名  vv v4 m ing2
-几路  j i1|j i3 l u4
+几路 null
 网费  uu uang3 f ei4
 璧城  b i4 ch eng2
 销售公告  x iao1 sh ou4 g ong1 g ao4
@@ -12832,7 +13004,7 @@
 海阳市  h ai3 ii iang2 sh ix4
 遂宁市  s ui4 n ing2 sh ix4
 昆内特拉  k un1 n ei4 t e4 l a1
-发刊  f a1|f a4 k an1
+发刊 null
 体育品牌  t i3 vv v4 p in3 p ai2
 同步盘  t ong2 b u4 p an2
 首张  sh ou3 zh ang1
@@ -12848,7 +13020,7 @@
 超商  ch ao1 sh ang1
 小盘股  x iao3 p an2 g u3
 巴音  b a1 ii in1
-发到  f a1|f a4 d ao4
+发到 null
 平定县  p ing2 d ing4 x ian4
 财务结构  c ai2 uu u4 j ie2 g ou4
 少年派  sh ao4 n ian2 p ai4
@@ -12873,16 +13045,16 @@
 罗德岛  l uo2 d e2 d ao3
 五一路  uu u3 ii i2 l u4
 股改  g u3 g ai3
-侧卷  c e4 j van3|j van4
+侧卷 null
 进账  j in4 zh ang4
 微报  uu ui1 b ao4
 私人印章  s iy1 r en2 ii in4 zh ang1
 虚号码  x v1 h ao4 m a3
-月结  vv ve4 j ie1|j ie2
+月结 null
 连接方式  l ian2 j ie1 f ang1 sh ix4
 招联  zh ao1 l ian2
 几天后  j i3 t ian1 h ou4
-叫作  j iao4 z uo1|z uo4
+叫作 null
 开下机  k ai1 x ia4 j i1
 铜牌  t ong2 p ai2
 存货类  c un2 h uo4 l ei4
@@ -12902,8 +13074,8 @@
 收取功能费  sh ou1 q v3 g ong1 n eng2 f ei4
 小区  x iao3 q v1
 波隆纳鲁沃  b o1 l ong2 n a4 l u3 uu uo4
-不正确  b u2|b u4 zh eng4 q ve4
-控制人信用  k ong4 zh ix4|k ong4 zh ix5 r en2 x in4 ii iong4
+不正确 null
+控制人信用 null
 立马  l i4 m a3
 英语普及率  ii ing1 vv v3 p u3 j i2 l v4
 几天前  j i3 t ian1 q ian2
@@ -12929,12 +13101,12 @@
 闽侯  m in3 h ou2
 盘锦  p an2 j in3
 理财团  l i3 c ai2 t uan2
-可作  k e3 z uo1|z uo4
+可作 null
 搜索结果  s ou1 s uo3 j ie2 g uo3
 新视通  x in1 sh ix4 t ong1
 白百合  b ai2 b ai3 h e2
 北楼  b ei3 l ou2
-找谁  zh ao3 sh ei2|sh ui2
+找谁 null
 石狮  sh ix2 sh ix1
 迪拜公司  d i2 b ai4 g ong1 s iy1
 新浪网  x in1 l ang4 uu uang3
@@ -12943,13 +13115,14 @@
 肉棒  r ou4 b ang4
 土沟  t u3 g ou1
 肉棍  r ou4 g un4
-赫纳散德  h e4 n a4 s an3|s an4 d e2
+赫纳散德 null
 桂林路  g ui4 l in2 l u4
 闯关  ch uang3 g uan1
+光纤网 null
 网银服务价格  uu uang3 ii in2 f u2 uu u4 j ia4 g e2
 扶贫  f u2 p in2
 助学贷款  zh u4 x ve2 d ai4 k uan3
-梅兴  m ei2 x ing1|x ing4
+梅兴 null
 贷款承诺函  d ai4 k uan3 ch eng2 n uo4 h an2
 特怀努约马塔  t e4 h uai2 n u3 vv ve1 m a3 t a3
 东三马路  d ong1 s an1 m a3 l u4
@@ -12959,6 +13132,7 @@
 中国人才  zh ong1 g uo2 r en2 c ai2
 美国境内  m ei3 g uo2 j ing4 n ei4
 地址申请表  d i4 zh ix3 sh en1 q ing3 b iao3
+啊朋友 null
 国际信用卡  g uo2 j i4 x in4 ii iong4 k a3
 管理员  g uan2 l i3 vv van2
 超值礼遇  ch ao1 zh ix2 l i3 vv v4
@@ -12983,6 +13157,7 @@
 瑞士法郎  r ui4 sh ix4 f a3 l ang2
 宾州  b in1 zh ou1
 短视频  d uan3 sh ix4 p in2
+几内亚共和国  j i3 n ei4 ii ia4 g ong4 h e2 g uo2
 自助打印  z iy4 zh u4 d a3 ii in4
 交易方式  j iao1 ii i4 f ang1 sh ix4
 宿州  s u4 zh ou1
@@ -12993,14 +13168,14 @@
 环西路  h uan2 x i1 l u4
 新罗区  x in1 l uo2 q v1
 未绑定  uu ui4 b ang3 d ing4
-将对方  j iang1|j iang4 d ui4 f ang1
+将对方 null
 宽带  k uan1 d ai4
-尽享  j in3|j in4 x iang3
+尽享 null
 江苏台  j iang1 s u1 t ai2
 如何弄  r u2 h e2 n ong4
 小吴  x iao3 uu u2
 盘旋西路  p an2 x van2 x i1 l u4
-不对头  b u2|b u4 d ui4 t ou2
+不对头  b u2 d ui4 t ou2
 望京桥  uu uang4 j ing1 q iao2
 权证保函  q van2 zh eng4 b ao3 h an2
 服务账户  f u2 uu u4 zh ang4 h u4
@@ -13015,7 +13190,7 @@
 赵氏孤儿案  zh ao4 sh ix4 g u1 ee er2 aa an4
 营养食品网站  ii ing2 ii iang3 sh ix2 p in3 uu uang3 zh an4
 小区包  x iao3 q v1 b ao1
-没劲  m ei2 j in4|j ing4
+没劲 null
 融通  r ong2 t ong1
 漏接电话  l ou4 j ie1 d ian4 h ua4
 半年报  b an4 n ian2 b ao4
@@ -13063,8 +13238,8 @@
 鲤城区  l i3 ch eng2 q v1
 外汇买卖  uu uai4 h ui4 m ai3 m ai4
 北四路  b ei3 s iy4 l u4
-汇差  h ui4 c iy1|ch a1|ch a4|ch ai1
-详见  x iang2 j ian4|x ian4
+汇差 null
+详见 null
 保付  b ao3 f u4
 汇市  h ui4 sh ix4
 才可以  c ai2 k e2 ii i3
@@ -13099,12 +13274,13 @@
 印本产品  ii in4 b en3 ch an2 p in3
 有些单位  ii iu3 x ie1 d an1 uu ui4
 工业路  g ong1 ii ie4 l u4
+自己的航班 null
 网速  uu uang3 s u4
 中国征信事业  zh ong1 g uo2 zh eng1 x in4 sh ix4 ii ie4
 网通  uu uang3 t ong1
 微型企业客户  uu ui1 x ing2 q i3 ii ie4 k e4 h u4
 怡园  ii i2 vv van2
-垃圾桶  l a1 j i1|l a1 j i5 t ong3
+垃圾桶 null
 外环路  uu uai4 h uan2 l u4
 汇票申请书  h ui4 p iao4 sh en1 q ing3 sh u1
 广告词  g uang3 g ao4 c iy2
@@ -13112,14 +13288,14 @@
 信产  x in4 ch an3
 汉台区  h an4 t ai2 q v1
 区域中心  q v1 vv v4 zh ong1 x in1
-转账流程  zh uan3|zh uan4 zh ang4 l iu2 ch eng2
+转账流程 null
 武乡县  uu u3 x iang1 x ian4
 优朋  ii iu1 p eng2
 乱世佳人  l uan4 sh ix4 j ia1 r en2
 普跌难掩  p u3 d ie1 n an2 ii ian3
 城外  ch eng2 uu uai4
 上周三  sh ang4 zh ou1 s an1
-不完整  b u2|b u4 uu uan2 zh eng3
+不完整 null
 第五集  d i4 uu u3 j i2
 上周一  sh ang4 zh ou1 ii i1
 温江区  uu un1 j iang1 q v1
@@ -13127,7 +13303,7 @@
 利佩茨克  l i4 p ei4 c iy2 k e4
 建站  j ian4 zh an4
 灵峰  l ing2 f eng1
-只准  zh ix1|zh ix3 zh un3
+只准 null
 汇款编码  h ui4 k uan3 b ian1 m a3
 保住  b ao3 zh u4
 总台  z ong3 t ai2
@@ -13157,7 +13333,7 @@
 酒仙桥  j iu3 x ian1 q iao2
 夏洛特  x ia4 l uo4 t e4
 屌丝  d ao3 s iy1
-问卷  uu un4 j van3|j van4
+问卷 null
 屋主  uu u1 zh u3
 管理器  g uan2 l i3 q i4
 报时台  b ao4 sh ix2 t ai2
@@ -13174,6 +13350,7 @@
 刑警  x ing2 j ing3
 上周二  sh ang4 zh ou1 ee er4
 非常多  f ei1 ch ang2 d uo1
+瓦利斯和富图纳 null
 仙桃市  x ian1 t ao2 sh ix4
 因特网  ii in1 t e4 uu uang3
 逛街  g uang4 j ie1
@@ -13181,10 +13358,10 @@
 时断时续  sh ix2 d uan4 sh ix2 x v4
 太子上神  t ai4 z iy3 sh ang4 sh en2
 风铃声  f eng1 l ing2 sh eng1
-模板词  m o2 b an3|m u2 b an3 c iy2
+模板词 null
 上周五  sh ang4 zh ou1 uu u3
 富川  f u4 ch uan1
-北美教育  b ei2 m ei3 j iao4 vv v4|j iao4 vv v5
+北美教育 null
 甘南县  g an1 n an2 x ian4
 赤岗  ch ix4 g ang3
 天目西路  t ian1 m u4 x i1 l u4
@@ -13197,8 +13374,8 @@
 退订  t ui4 d ing4
 挂个失  g ua4 g e4 sh ix1
 下表  x ia4 b iao3
-只剩  zh ix1|zh ix3 sh eng4
-重发  ch ong2|zh ong4 f a1|f a4
+只剩 null
+重发 null
 金融票据  j in1 r ong2 p iao4 j v4
 北票市  b ei3 p iao4 sh ix4
 永州市  ii iong3 zh ou1 sh ix4
@@ -13249,7 +13426,7 @@
 金友  j in1 ii iu3
 沃罗涅日  uu uo4 l uo2 n ie4 r iz4
 闸北  zh a2 b ei3
-差旅通  c iy1|ch a1|ch a4|ch ai1 l v3 t ong1
+差旅通 null
 向下  x iang4 x ia4
 汇往  h ui4 uu uang3
 迎宾路  ii ing2 b in1 l u4
@@ -13271,12 +13448,13 @@
 江岸  j iang1 aa an4
 有声友社  ii iu3 sh eng1 ii iu3 sh e4
 金融支付  j in1 r ong2 zh ix1 f u4
+克洛斯特新堡 null
 使领馆  sh ix3 l ing3 g uan3
 亮画  l iang4 h ua4
 卡尔斯塔德  k a2 ee er3 s iy1 t a3 d e2
-不扣钱  b u2|b u4 k ou4 q ian2
+不扣钱 null
 食神  sh ix2 sh en2
-生肖金系列  sh eng1 x iao1|sh eng1 x iao4 j in1 x i4 l ie4
+生肖金系列 null
 古县  g u3 x ian4
 风城五路  f eng1 ch eng2 uu u3 l u4
 提是  t i2 sh ix4
@@ -13284,8 +13462,9 @@
 椰林镇  ii ie1 l in2 zh en4
 国内漫游  g uo2 n ei4 m an4 ii iu2
 富康  f u4 k ang1
+卡累利阿 null
 即插即用  j i2 ch a1 j i2 ii iong4
-财教  c ai2 j iao1|j iao4
+财教 null
 口口  k ou3 k ou3
 受制于  sh ou4 zh ix4 vv v2
 镇棠  zh en4 t ang2
@@ -13303,12 +13482,12 @@
 日常费用  r iz4 ch ang2 f ei4 ii iong4
 首次安装  sh ou3 c iy4 aa an1 zh uang1
 雁峰区  ii ian4 f eng1 q v1
-收藏夹  sh ou1 c ang2 j ia1|j ia2
+收藏夹 null
 后仓  h ou4 c ang1
 总稽核业绩  z ong3 j i1 h e2 ii ie4 j i4
 收货地址  sh ou1 h uo4 d i4 zh ix3
 上周六  sh ang4 zh ou1 l iu4
-不定期  b u2|b u4 d ing4 q i1
+不定期  b u2 d ing4 q i1
 璧山  b i4 sh an1
 泸水县  l u2 sh ui3 x ian4
 萨拉托夫  s a4 l a1 t uo1 f u1
@@ -13321,7 +13500,7 @@
 江雨晨  j iang1 vv v3 ch en2
 图斯特拉  t u2 s iy1 t e4 l a1
 信贷鹰眼  x in4 d ai4 ii ing1 ii ian3
-西西里岛  x i1 x i1|x i1 x i5 l i3 d ao3
+西西里岛 null
 北园路  b ei3 vv van2 l u4
 下周三  x ia4 zh ou1 s an1
 遵纪  z un1 j i4
@@ -13368,11 +13547,11 @@
 诺福克  n uo4 f u2 k e4
 马坦萨斯  m a3 t an3 s a4 s iy1
 平安夜  p ing2 aa an1 ii ie4
-运作模式  vv vn4 z uo1|z uo4 m o2 sh ix4
+运作模式 null
 合规官  h e2 g ui1 g uan1
 楚汉传奇  ch u3 h an4 ch uan2 q i2
 缴费惠  j iao3 f ei4 h ui4
-个人结汇  g e4 r en2 j ie1|j ie2 h ui4
+个人结汇 null
 保兑  b ao3 d ui4
 信用卡消费  x in4 ii iong4 k a3 x iao1 f ei4
 斯达康  s iy1 d a2 k ang1
@@ -13436,7 +13615,7 @@
 听听剧  t ing1 t ing1 j v4
 建设街  j ian4 sh e4 j ie1
 不可及  b u4 k e3 j i2
-小商铺  x iao3 sh ang1 p u1|p u4
+小商铺 null
 本网  b en3 uu uang3
 纸黄金  zh ix3 h uang2 j in1
 建厂型  j ian4 ch ang3 x ing2
@@ -13448,7 +13627,7 @@
 免打扰  m ian3 d a2 r ao3
 肉洞  r ou4 d ong4
 手机投注  sh ou3 j i1 t ou2 zh u4
-大王卡  d a4 uu uang2|d ai4 uu uang5 k a3|q ia3
+大王卡 null
 取回  q v3 h ui2
 保函  b ao3 h an2
 宁河县  n ing2 h e2 x ian4
@@ -13464,7 +13643,7 @@
 保利  b ao3 l i4
 电信号  d ian4 x in4 h ao4
 放寒假  f ang4 h an2 j ia4
-鲜蜂  x ian1|x ian3 f eng1
+鲜蜂 null
 跃升  vv ve4 sh eng1
 升档  sh eng1 d ang4
 嗨钱网  h ai1 q ian2 uu uang3
@@ -13482,7 +13661,7 @@
 习近平  x i2 j in4 p ing2
 新西厢记  x in1 x i1 x iang1 j i4
 路东  l u4 d ong1
-可转账  k e3 zh uan3|zh uan4 zh ang4
+可转账 null
 师东路  sh ix1 d ong1 l u4
 奥洛穆茨  aa ao4 l uo4 m u4 c iy2
 变化趋势  b ian4 h ua4 q v1 sh ix4
@@ -13507,9 +13686,9 @@
 预授权  vv v4 sh ou4 q van2
 协查  x ie2 ch a2
 充值游戏  ch ong1 zh ix2 ii iu2 x i4
-故事吧  g u4 sh ix5 b a1|b a5
-摩托罗拉  m o2 t uo1|m o2 t uo2 l uo2 l a1
-广发银行  g uang3 f a1|f a4 ii in2 h ang2
+故事吧 null
+摩托罗拉 null
+广发银行 null
 商户网  sh ang1 h u4 uu uang3
 热那里  r e4 n a4 l i3
 斯法克斯  s iy1 f a3 k e4 s iy1
@@ -13540,11 +13719,11 @@
 打头风  d a3 t ou2 f eng1
 布鲁  b u4 l u3
 印刷厂  ii in4 sh ua1 ch ang3
-几钱  j i1|j i3 q ian2
+几钱 null
 结构性  j ie2 g ou4 x ing4
 孙志筠  s un1 zh ix4 j vn1
 云加速  vv vn2 j ia1 s u4
-服务态度  f u2 uu u4 t ai4 d u4|t ai4 d u5
+服务态度 null
 徐福记  x v2 f u2 j i4
 帕尔杜比采  p a4 ee er3 d u4 b i3 c ai3
 布里斯班  b u4 l i3 s iy1 b an1
@@ -13580,12 +13759,12 @@
 柜员机  g ui4 vv van2 j i1
 飞机融资性  f ei1 j i1 r ong2 z iy1 x ing4
 温家宝  uu un1 j ia1 b ao3
-用作  ii iong4 z uo1|z uo4
-不订  b u2|b u4 d ing4
+用作 null
+不订 null
 管理机构  g uan2 l i3 j i1 g ou4
 撩人  l iao1 r en2
 时间多久  sh ix2 j ian1 d uo1 j iu3
-富裕县  f u4 vv v4|f u4 vv v5 x ian4
+富裕县 null
 豆苗  d ou4 m iao2
 下周二  x ia4 zh ou1 ee er4
 核心业务  h e2 x in1 ii ie4 uu u4
@@ -13619,10 +13798,10 @@
 自然资源  z iy4 r an2 z iy1 vv van2
 加油活动  j ia1 ii iu2 h uo2 d ong4
 嘉祥县  j ia1 x iang2 x ian4
-其角色  q i2 j iao3 s e4|j ve2 s e4
+其角色 null
 象山县  x iang4 sh an1 x ian4
 一趟  ii i1 t ang4
-西大  x i1 d a4|d ai4
+西大 null
 短租  d uan3 z u1
 谢菲尔德  x ie4 f ei1 ee er3 d e2
 客服  k e4 f u2
@@ -13642,14 +13821,14 @@
 中国商务部  zh ong1 g uo2 sh ang1 uu u4 b u4
 公益广告  g ong1 ii i4 g uang3 g ao4
 石嘴山市  sh ix2 z ui3 sh an1 sh ix4
-行约  h ang2|x ing2 vv ve1
+行约 null
 网银  uu uang3 ii in2
 位数  uu ui4 sh u4
 滁州市  ch u2 zh ou1 sh ix4
 桑巴  s ang1 b a1
 松原市  s ong1 vv van2 sh ix4
 收费清单  sh ou1 f ei4 q ing1 d an1
-越少  vv ve4 sh ao3|sh ao4
+越少 null
 网银系统  uu uang3 ii in2 x i4 t ong3
 令牌  l ing4 p ai2
 全球首次  q van2 q iu2 sh ou3 c iy4

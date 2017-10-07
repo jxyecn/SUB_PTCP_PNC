@@ -9,6 +9,7 @@ import java.util.Map.Entry;
 import java.util.Set;
 import java.util.Vector;
 
+import com.ict.txtprocess.bean.ProunWithRank;
 import com.ict.txtprocess.bean.Subwords;
 import com.ict.txtprocess.bean.Word;
 import com.ict.txtprocess.utils.FileIO;
@@ -24,7 +25,7 @@ public class Operator {
 	ArrayList<String> targetOutputArray;
 	//词典，用Hashmap增加读取速度，一个字允许有多个读音
 	//Key为原语，ArrayList<String>中存储每一个读音
-	HashMap<String, ArrayList<String>> lexiconHashmap;
+	HashMap<String, ArrayList<ProunWithRank>> lexiconHashmap;
 	//存储原词与分词相对应的Hashmap
 	HashMap<String, String[]> wordsHashmap;
 	//需要存储部分失败的词
@@ -82,7 +83,7 @@ public class Operator {
 		StringBuilder tempProunStringBuilder = new StringBuilder();
 		
 		for(String subString:subStrings){
-			ArrayList<String> prouns = null;
+			ArrayList<ProunWithRank> prouns = null;
 			//依次取出每个分词，先加到输出序列里
 			if(lexiconHashmap.containsKey(subString)){
 				prouns = lexiconHashmap.get(subString);
@@ -93,6 +94,15 @@ public class Operator {
 					//将原始词加入
 //					variousOutputArray.add(originString);
 					variousOutputSet.add(originString);
+					
+					/***
+					 * 2017年10月7日11:56:21
+					 * 取消多个读音，取一个频率最高的，而不是并列全部出现
+					 */
+					int currentHighRank,currentIndex;
+					currentHighRank = 0;
+					currentIndex = 0;
+					tempProunStringBuilder.append(" ").append(getHighRankProun(prouns));
 					
 					tempProunStringBuilder.append(" ");
 					for(int i=0;i<prouns.size()-1;i++)
@@ -111,6 +121,12 @@ public class Operator {
 						if(prouns.size() == 1)
 							tempProunStringBuilder.append(" ").append(prouns.get(0));
 						else{
+							
+							/***
+							 * 2017年10月7日11:56:21
+							 * 取消多个读音，取一个频率最高的，而不是并列全部出现
+							 */
+							//TODO:写选取适宜读音的函数
 							
 							tempProunStringBuilder.append(" ");
 							for(int i=0;i<prouns.size()-1;i++)
@@ -133,11 +149,56 @@ public class Operator {
 		
 		//分词序列输出完毕，直接加上原词、读音串输出
 		outputStringBuilder.append(originString);
-		outputStringBuilder.append(" ").append(tempProunStringBuilder);
+		if(!tempProunStringBuilder.toString().contains("|"))
+			outputStringBuilder.append(" ").append(tempProunStringBuilder);
+		else
+			outputStringBuilder.append(" ").append(getUniqueProunSB(originString));
 		
 		targetOutputArray.add(outputStringBuilder.toString());
 	}
 	
+	private StringBuilder getUniqueProunSB(String originString) {
+		StringBuilder result = null;
+		// TODO 对于存在多个读音的词组，尝试多种分词方法来得到唯一读音
+		Vector<String> tempSegResult = fbSegment.FMM2(originString);
+		String[] subWords1 = new String[tempSegResult.size()];
+		for(int i=0;i<subWords1.length;i++)
+			subWords1[i] = tempSegResult.get(i);
+		tempSegResult = fbSegment.BMM2(originString);
+		String[] subWords2 = new String[tempSegResult.size()];
+		for(int i=0;i<subWords2.length;i++)
+			subWords2[i] = tempSegResult.get(i);
+		StringBuilder result1 = generateProunSB(subWords1);
+		StringBuilder result2 = generateProunSB(subWords2);
+		
+		result = result1.toString().contains("|")?null:result1;
+		if(result == null)
+			result = result2.toString().contains("|")?null:result2;
+		
+		
+		return result;
+	}
+	
+	public StringBuilder generateProunSB(String[] finalSubString){
+		StringBuilder tempProunStringBuilder = new StringBuilder();
+		ArrayList<ProunWithRank> prouns = null;
+		for(String str:finalSubString){
+			prouns = lexiconHashmap.get(str);
+//			outputStringBuilder.append(str).append(" ");
+			//说明此分词只有单一读音
+			if(prouns.size() == 1)
+				tempProunStringBuilder.append(" ").append(prouns.get(0));
+			else{
+				
+				tempProunStringBuilder.append(" ");
+				for(int i=0;i<prouns.size()-1;i++)
+					tempProunStringBuilder.append(prouns.get(i)).append("|");
+				tempProunStringBuilder.append(prouns.get(prouns.size()-1));
+			}
+		}
+		return tempProunStringBuilder;
+	}
+
 	public void processUnexistWord(String sourceString,ArrayList<String> target){
 		//目标存储位置为空，说明是被人为置空的，可能发生了匹配失败的异常状况，所以直接返回
 		if(target == null)
@@ -247,10 +308,15 @@ public class Operator {
 			dictSet.add(word.getWord());
 			//已经包含了一个Key
 			if(lexiconHashmap.containsKey(word.getWord())){
-				lexiconHashmap.get(word.getWord()).add(word.getProun());
+				//防止发生一个字对应同一个读音在词典里出现多次的情况
+				if(!lexiconHashmap.get(word.getWord()).contains(word.getProunWithRank())){
+					//出现读音频率高了一次
+					word.getProunWithRank().setRankIncrease();
+					lexiconHashmap.get(word.getWord()).add(word.getProunWithRank());
+				}
 			}else{
-				ArrayList<String> temp = new ArrayList<>();
-				temp.add(word.getProun());
+				ArrayList<ProunWithRank> temp = new ArrayList<>();
+				temp.add(word.getProunWithRank());
 				lexiconHashmap.put(word.getWord(),temp);
 			}
 		}

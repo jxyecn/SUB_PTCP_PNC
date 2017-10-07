@@ -43,7 +43,7 @@ public class FBSegment {
 	 * @param phrase 待分词句子
 	 * @return 前向分词结果
 	 */
-	private Vector<String> FMM2( String  phrase){
+	public Vector<String> FMM2( String  phrase){
 		int maxlen = 16;
 		Vector<String> fmm_list = new Vector<String>();
 		int len_phrase = phrase.length();
@@ -77,7 +77,7 @@ public class FBSegment {
 	 * @param phrase 待分词句子
 	 * @return 后向分词结果
 	 */
-	private Vector<String> BMM2( String  phrase){
+	public Vector<String> BMM2( String  phrase){
 		int maxlen = 16;
 		Vector<String> bmm_list = new Vector<String>();
 		int len_phrase = phrase.length();

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Set;
 
+import com.ict.txtprocess.bean.ProunWithRank;
 import com.ict.txtprocess.bean.Subwords;
 import com.ict.txtprocess.bean.Word;
 
@@ -79,7 +80,7 @@ public class WordUtils {
 			origin = line.substring(0,tempCursor+1);
 			//固定包含了一个空格，将其才减掉
 			proun = line.substring(tempCursor+2,line.length());
-			return new Word(origin, proun);
+			return new Word(origin, new ProunWithRank(proun, 0));
 		}catch(Exception e){
 			System.out.println("ERROR on char:" + line);
 			e.printStackTrace();
