@@ -65,20 +65,23 @@ public class WordUtils {
 		String[] source = line.split(" ");
 		//首个英文字符开头的String的Index值
 //		int originStart,prounStart;
-		int tempCursor = line.length()-1;
+//		int tempCursor = line.length()-1;
 		//从后向前检索，检索至第一个中文字符，截取下一个空格后的全部字符串
+		//从头检索，检索至第一个空格截取之前的所有
+		int tempCursor = 0;
 		try{
-			while(!isChinese(line.charAt(tempCursor)))
-				tempCursor--;
-//			prounStart = tempCursor+2;
-//			while(isChinese(line.charAt(tempCursor)))
-//				tempCursor--;
-//			originStart = tempCursor+1;
-//			origin = line.substring(originStart, prounStart-2 +1);
-//			proun = line.substring(prounStart);
-			origin = line.substring(0,tempCursor+1);
+			while( line.charAt(tempCursor) != ' ')
+				tempCursor++;
+//					prounStart = tempCursor+2;
+//					while(isChinese(line.charAt(tempCursor)))
+//						tempCursor--;
+//					originStart = tempCursor+1;
+//					origin = line.substring(originStart, prounStart-2 +1);
+//					proun = line.substring(prounStart);
+//					origin = line.substring(0,tempCursor+1);
 			//固定包含了一个空格，将其才减掉
-			proun = line.substring(tempCursor+2,line.length());
+			origin = line.substring(0,tempCursor);
+			proun = line.substring(tempCursor+1,line.length());
 			return new Word(origin, proun);
 		}catch(Exception e){
 			System.out.println("ERROR on char:" + line);
